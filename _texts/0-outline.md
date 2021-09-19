@@ -54,16 +54,16 @@ To admit evidence, the court requires that the evidence be authenticated or iden
 
 **Types of evidence**
 
-- {:.indent-2}Oral testimony (pp 6-7)
-- {:.indent-5}Fact witnesses are “people who perceived facts related to the lawsuit and testify about those facts.” The law does not give “eyewitness” special status over other kinds of fact witness.
-- {:.indent-5}Expert witnesses “use specialized knowledge to interpret evidence or explain it to the jury.” Do not need to have firsthand knowledge of the controversy in question.
-- {:.indent-5}Character witnesses “offer information about the good or the bad character of a party or witness.” The FRE limits the use of character witnesses.
-- {:.indent-2}Real evidence is “any physical evidence that a party claims played a direct role in the controversy.” (p. 8)
-- {:.indent-2}Documentary evidence "encompasses any type of writing or recording of information.” (p. 8)
-- {:.indent-2}Demonstrative evidence is “not an object that played a role in the disputed events. (…) Charts, tables, pictures, maps and graphs are common types of demonstrative evidence.” (pp. 8-9)
-- {:.indent-2}Stipulations: “If both parties agree on a fact, they can stipulate that the fact is true for the purposes of litigation.” (p. 9)
-- {:.indent-2}Judicial Notice: “If a fact is indisputably true (…) the trial judge can take judicial notice of the fact.” The fact must be either “generally known” or “accurately and readily determined.” (p. 10)
-- {:.indent-2}Circumstantial evidence (FRE does not use this phrase) Circumstantial evidence is “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact.” (p. 14). Compare with direct evidence, which “requires no inferential bridge; it directly establishes a contested fact.” (p. 14).
+- **Oral testimony** (pp 6-7):
+- {:.indent-5}**Fact witnesses** are “people who perceived facts related to the lawsuit and testify about those facts.” The law does not give “eyewitness” special status over other kinds of fact witness.
+- {:.indent-5}**Expert witnesses** “use specialized knowledge to interpret evidence or explain it to the jury.” Do not need to have firsthand knowledge of the controversy in question.
+- {:.indent-5}**Character witnesses** “offer information about the good or the bad character of a party or witness.” The FRE limits the use of character witnesses.
+- **Real evidence** is “any physical evidence that a party claims played a direct role in the controversy.” (p. 8)
+- **Documentary evidence** "encompasses any type of writing or recording of information.” (p. 8)
+- **Demonstrative evidence** is “not an object that played a role in the disputed events. (…) Charts, tables, pictures, maps and graphs are common types of demonstrative evidence.” (pp. 8-9)
+- **Stipulations** are when both parties agree on a fact. When they do, they can stipulate that the fact is true for the purposes of litigation. (p. 9)
+- **Judicial Notice** is when “if a fact is indisputably true (…) the trial judge can take judicial notice of the fact.” The fact must be either “generally known” or “accurately and readily determined.” (p. 10)
+- **Circumstantial evidence** (FRE does not use this phrase) is “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact.” (p. 14). Compare with direct evidence, which “requires no inferential bridge; it directly establishes a contested fact.” (p. 14).
 - {:.indent-5}*Note to ask Valentine if true: All evidence - including direct evidence - depends on some inferences. “The longer the chain of inferences, … the less likely the jury will reach the decision [a party] desire[s].” (p. 17).*
 
 ---
