@@ -22,22 +22,79 @@ toc:
 
 See [Glossary](https://binipringle.github.io/evidence/texts/8-glossary/) for terms.
 
-See [Federal Rules of Evidence](https://www.law.cornell.edu/rules/fre) for law.
+See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre) for law.
+
+---
+
+Evidentiary rules were originally developed as part of common law. In the 1960s, the Supreme Court appointed an advisory committee to draft a code of evidentiary rules for federal courts, which presented a first draft in 1972 and in 1975 a bill that was codified by act of Congress as PL 93–595, JANUARY 2, 1975, 88 Stat 1926. The FRE apply in civil and criminal cases and proceedings in federal courts, and to contempt proceedings, except those in which the court may act summarily. The FRE do not govern proceedings before the U.S. Supreme Court nor apply to administrative agencies but agencies can adopt the FRE if they choose or are required (for example, the IRS requires their use in Tax Court).
 
 ---
 
 ## I. Purpose
 
-FRE Rule 101 states
+**Rule 102**
+
+"These rules should be construed so as to administer every proceeding fairly, eliminate unjustifiable expense and delay, and promote the development of evidence law, to the end of ascertaining the truth and securing a just determination." Fed. R. Evid. 102
 
 - {:.indent-2}Help jury reach fair and just determination
 - {:.indent-2}Minimize expense and delay
 - {:.indent-2}Promote development of evidence law
-- {:.indent-2}Something else
 
 ---
 
 ## II. Authentication
+
+**Types of evidence**
+
+FRE does not use the phrase **“circumstantial evidence”** but the text book defines it as “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact,” as opposed to **direct evidence**, which “directly establishes a contested fact.” (p. 14) One is not “better” or more valid than the other; it is more important to concentrate on inferences that link evidence to disputed facts than to distinguish between circumstantial and direct evidence. For **“real” evidence** (something tangible - copy of lease, surveillance video, gun, bill of lading, blue prints, etc.) to be admitted into evidence, someone has to request it be admitted in a request to admit or a pretrial conference.
+
+**Rule**
+
+To admit evidence, the court requires that the evidence be authenticated or identified. To authenticate or identify evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be. Rule 901(a). It is “an inherent logical necessity” that evidence be authenticated or identified (Rule 901 Advisory Committee Notes citing 7 Wigmore §2129, p. 564), but authentication does not guarantee the identity or genuineness of a piece of evidence, and a piece of evidence will not automatically be admitted just because it is authenticated.
+
+**Types of evidence**
+
+- {:.indent-2}Oral testimony (pp 6-7)
+- {:.indent-5}Fact witnesses are “people who perceived facts related to the lawsuit and testify about those facts.” The law does not give “eyewitness” special status over other kinds of fact witness.
+- {:.indent-5}Expert witnesses “use specialized knowledge to interpret evidence or explain it to the jury.” Do not need to have firsthand knowledge of the controversy in question.
+- {:.indent-5}Character witnesses “offer information about the good or the bad character of a party or witness.” The FRE limits the use of character witnesses.
+- {:.indent-2}Real evidence is “any physical evidence that a party claims played a direct role in the controversy.” (p. 8)
+- {:.indent-2}Documentary evidence "encompasses any type of writing or recording of information.” (p. 8)
+- {:.indent-2}Demonstrative evidence is “not an object that played a role in the disputed events. (…) Charts, tables, pictures, maps and graphs are common types of demonstrative evidence.” (pp. 8-9)
+- {:.indent-2}Stipulations: “If both parties agree on a fact, they can stipulate that the fact is true for the purposes of litigation.” (p. 9)
+- {:.indent-2}Judicial Notice: “If a fact is indisputably true (…) the trial judge can take judicial notice of the fact.” The fact must be either “generally known” or “accurately and readily determined.” (p. 10)
+- {:.indent-2}Circumstantial evidence (FRE does not use this phrase) Circumstantial evidence is “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact.” (p. 14). Compare with direct evidence, which “requires no inferential bridge; it directly establishes a contested fact.” (p. 14).
+- {:.indent-5}*Note to ask Valentine if true: All evidence - including direct evidence - depends on some inferences. “The longer the chain of inferences, … the less likely the jury will reach the decision [a party] desire[s].” (p. 17).*
+
+---
+
+## Preserving Claims of Error
+
+**Rule 103** provides that a party may claim error in a ruling to admit or exclude evidence only if the error affects a substantial right of the party **and** (1) if the ruling admits evidence, a party, on the record, (A) timely objects or moves to strike; **and** (B) states the specific ground, unless it was apparent from the context; **or** (2) if the ruling excludes evidence, a party informs the court of its substance by an offer of proof, unless the substance was apparent from the context. Fed. R. Evid. 103.
+
+A court may take notice of a plain error affecting a substantial right, even if the claim of error was not properly preserved. Fed. R. Evid. 103(e). Plain error is an error that is so egregious that a reasonable person would lose faith in the justice system.
+
+---
+
+## Limitations
+
+**Rule 105** limits evidence that is not admissible against other parties or for other purposes. "If the court admits evidence that is admissible against a party or for a purpose--but not against another party or for another purpose--the court, on timely request, must restrict the evidence to its proper scope and instruct the jury accordingly." Fed. R. Evid. 105.
+
+---
+
+## Relevance
+
+Under Rule 401 of the Federal Rules of Evidence, evidence is relevant if has any tendency to make a fact of consequence more or less probable than it would be without that evidence. A fact of consequence is a fact that goes to prove or disprove an element of a claim, charge, defense or cause of action (theory of the case). The standard for relevance is very low. The Federal Rules of Evidence favor broad admissibility so all evidence that has a reasonable or logical connection to the point to be determined is relevant and thus potentially admissible. The policy rationale that governs the Federal Rules of Evidence is the idea that all relevant evidence should be provided to a jury or judge so that they can render a fair and just determination of the case unless that evidence is prejudicial to one of the parties. Irrelevant evidence should be left out because it could confuse the jury by unnecessarily complicating facts, thus making it harder for them to reach a fair determination, or it could compromise judicial efficiency by causing unnecessary expense or delay.
+
+## Prejudice
+
+
+
+
+
+
+
+
 
 Module 1: Introduction, Authentication, Preserving Claims of Error, Limitations, Relevance, Prejudice
 
