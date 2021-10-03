@@ -7,16 +7,18 @@ source:
 toc:
 - I. Purpose
 - II. Authentication
-- III. Preserving Claims of Error
-- IV. Limiting Instructions
-- V. Preliminary Questions
-- VI. Relevance
-- VII. Witness Competency
-- VIII. Witness Impeachment
-- IX. Subsequent Remedial Measures
-- X. Substantive Use of Character Evidence
-- XI. Hearsay
-- XII. Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
+- III. Raising and Resolving Evidentiary Objections
+- IV. Preserving Claims of Error
+- V. Limiting Instructions
+- VI. Preliminary Questions
+- VII. Relevance
+- VIII. Prejudice
+- IX. Witness Competency
+- X. Witness Impeachment
+- XI. Subsequent Remedial Measures
+- XII. Substantive Use of Character Evidence
+- XIII. Hearsay
+- XIV. Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
 
 ---
 
@@ -30,23 +32,13 @@ See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre
 
 **Rule 102**
 
-"These rules should be construed so as to administer every proceeding fairly, eliminate unjustifiable expense and delay, and promote the development of evidence law, to the end of ascertaining the truth and securing a just determination." Fed. R. Evid. 102
-
-- {:.indent-2}Help jury reach fair and just determination
-- {:.indent-2}Minimize expense and delay
-- {:.indent-2}Promote development of evidence law
+Rule 102 states that the purpose of the FRE is to help the jury reach a fair and just determination, eliminate unjustifiable expense and delay, and promote the development of evidence law.
 
 ---
 
 ## II. Authentication
 
-**Types of evidence**
-
-FRE does not use the phrase **“circumstantial evidence”** but the text book defines it as “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact,” as opposed to **direct evidence**, which “directly establishes a contested fact.” (p. 14) One is not “better” or more valid than the other; it is more important to concentrate on inferences that link evidence to disputed facts than to distinguish between circumstantial and direct evidence. For **“real” evidence** (something tangible - copy of lease, surveillance video, gun, bill of lading, blue prints, etc.) to be admitted into evidence, someone has to request it be admitted in a request to admit or a pretrial conference.
-
-**Rule**
-
-To admit evidence, the court requires that the evidence be authenticated or identified. To authenticate or identify evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be. Rule 901(a). It is “an inherent logical necessity” that evidence be authenticated or identified (Rule 901 Advisory Committee Notes citing 7 Wigmore §2129, p. 564), but authentication does not guarantee the identity or genuineness of a piece of evidence, and a piece of evidence will not automatically be admitted just because it is authenticated.
+**Rule 901(a)** To admit evidence, the court requires that the evidence be authenticated or identified. To authenticate or identify evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be.
 
 **Types of evidence**
 
@@ -55,40 +47,77 @@ To admit evidence, the court requires that the evidence be authenticated or iden
 - {:.indent-3}**Expert witnesses** “use specialized knowledge to interpret evidence or explain it to the jury.” Do not need to have firsthand knowledge of the controversy in question.
 - {:.indent-3}**Character witnesses** “offer information about the good or the bad character of a party or witness.” The FRE limits the use of character witnesses.
 - **Real evidence** is “any physical evidence that a party claims played a direct role in the controversy.” (p. 8)
+- {:.indent-3}**For “real” evidence to be admitted into evidence, someone has to request it be admitted in a request to admit or a pretrial conference. To admit evidence, the court requires that the evidence be authenticated or identified. R 901.   
 - **Documentary evidence** "encompasses any type of writing or recording of information.” (p. 8)
 - **Demonstrative evidence** is “not an object that played a role in the disputed events. (…) Charts, tables, pictures, maps and graphs are common types of demonstrative evidence.” (pp. 8-9)
 - **Stipulations** are when both parties agree on a fact. When they do, they can stipulate that the fact is true for the purposes of litigation. (p. 9)
 - **Judicial Notice** is when “if a fact is indisputably true (…) the trial judge can take judicial notice of the fact.” The fact must be either “generally known” or “accurately and readily determined.” (p. 10)
-- **Circumstantial evidence** (FRE does not use this phrase) is “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact.” (p. 14). Compare with direct evidence, which “requires no inferential bridge; it directly establishes a contested fact.” (p. 14).
-- {:.indent-3}*Note to ask Valentine if true: All evidence - including direct evidence - depends on some inferences. “The longer the chain of inferences, … the less likely the jury will reach the decision [a party] desire[s].” (p. 17).*
+- **Circumstantial evidence** (FRE does not use this phrase) is “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact.” (p. 14). Compare with
+- **Direct evidence**, “requires no inferential bridge; it directly establishes a contested fact.” (p. 14).
+- **Indirect evidence** requires the jury to make more inferential leaps.
+
+Introduction, Authentication; Rules: Review FRE Table of Contents, Read 101, 102, 901(a), Skim 901(b) (note these are examples) and 902; Readings: Text: Ch. 2, 3, 69; Additional Material: Watch M & S video for chapter 69 entitled “Authentication” available at: http://merrittevidence.com/index.asp  (see Video Mini Classes); Review in class problem.
+
+- {:.indent-2}something
+- {:.indent-2}something
+- {:.indent-2}something
 
 ---
 
-## Preserving Claims of Error
+## III. Raising and resolving evidentiary objections
 
-**Rule 103** provides that a party may claim error in a ruling to admit or exclude evidence only if the error affects a substantial right of the party **and** (1) if the ruling admits evidence, a party, on the record, (A) timely objects or moves to strike; **and** (B) states the specific ground, unless it was apparent from the context; **or** (2) if the ruling excludes evidence, a party informs the court of its substance by an offer of proof, unless the substance was apparent from the context. Fed. R. Evid. 103.
+**Motion to suppress** is a pretrial motion that argues that the opposing party’s evidence was illegally obtained.
 
-A court may take notice of a plain error affecting a substantial right, even if the claim of error was not properly preserved. Fed. R. Evid. 103(e). Plain error is an error that is so egregious that a reasonable person would lose faith in the justice system.
+**Motion in limine** is a pretrial motion to exclude evidence or seeking permission to include evidence, as allowed under the FRE.
 
-To be successful on appeal an appellant will have to convince the appellate court that the trial judge’s evidentiary determination was both abuse of discretion and plain error, and a substantial right was violated (violation of substantial right is when the outcome of the trial would have been different if that evidence had been handled differently).
+**Objection** is made by a party in trial to stop the other party from admitting evidence not allowed by the FRE as evidence (for example, an incompetent witness) and is made before that evidence is admitted. If evidence is inadmissible but a party does not object in a timely manner and/or fails to state the specific ground of the objection, the evidence might be admitted.
 
----
+**Motion to strike** is made by a party when an item of evidence not allowed by the FRE has already entered the record.  A motion to strike is a recourse a party uses when they weren’t fast enough to forestall objectionable evidence; if the motion to strike is granted, the judge tells the jury that the item is struck from the evidence and they should ignore.  
 
-## Limitations
-
-**Rule 105** limits evidence that is not admissible against other parties or for other purposes. "If the court admits evidence that is admissible against a party or for a purpose--but not against another party or for another purpose--the court, on timely request, must restrict the evidence to its proper scope and instruct the jury accordingly." Fed. R. Evid. 105.
+**Offer of proof**. If one party objects to the evidence they can make an offer of proof to show the judge what the evidence entails. *If the party doesn’t make the offer of proof, the party waives the right to object on appeal.* If the substance of the evidence is apparent from the context, the party doesn’t have to make an offer of proof. (pp. 44-45)
 
 ---
 
-## Relevance
+## IV. Preserving claims of error
 
-Under Rule 401 of the Federal Rules of Evidence, evidence is relevant if has any tendency to make a fact of consequence more or less probable than it would be without that evidence. A fact of consequence is a fact that goes to prove or disprove an element of a claim, charge, defense or cause of action (theory of the case). The standard for relevance is very low. The Federal Rules of Evidence favor broad admissibility so all evidence that has a reasonable or logical connection to the point to be determined is relevant and thus potentially admissible. The policy rationale that governs the Federal Rules of Evidence is the idea that all relevant evidence should be provided to a jury or judge so that they can render a fair and just determination of the case unless that evidence is prejudicial to one of the parties. Irrelevant evidence should be left out because it could confuse the jury by unnecessarily complicating facts, thus making it harder for them to reach a fair determination, or it could compromise judicial efficiency by causing unnecessary expense or delay.
+**Rule 103**. If there was an error in an evidentiary ruling, a party may claim error if the erroneous ruling affects a substantial right of the party **and** (1) if the ruling admits evidence, a party (A) timely objects or moves to strike; **and** (B) states the specific ground, unless it was apparent from the context; **or** (2) if the ruling excludes evidence, a party informs the court of its substance by an offer of proof, unless the substance was apparent from the context. If the evidence is not challenged in a timely manner, an appellate court will not consider the evidentiary challenge.
 
-Any tendency = very low bar
+**Plain error** is an error that is so egregious that a reasonable person would lose faith in the justice system. A court may take notice of a plain error affecting a substantial right, even if the claim of error was not properly preserved. Fed. R. Evid. 103(e).
 
-- Walsh (D) crossed center line of highway and hit oncoming vehicle, seriously injuring Mary Hitchcock (P). P sued D for negligence, claiming D was driving drunk. Witness met D 3 hours before accident. Said D didn't seem drunk, didn’t smell drunk. P argues that witness’s testimony is not relevant because 3 hours is a lot; D could have got drunk within 3 hours. D’s argument that it is meets that any tendency standard. D’s attorney could say not slam dunk but any tendency.
+**Reversible error** is an evidentiary error by a trial judge that affects a substantial right of a party which means that there is a reasonable probability that had the judge not made the error (the evidence would have been admitted or excluded during trial) that the outcome of the entire trial would have been different.
 
-- What if P wants to introduce evidence that Walsh was drunk when he came into the hospital?  Defense wants to keep it out. Why is Walsh’s drunkenness a fact of consequence to Hitchcock’s lawsuit but may well have not been if Walsh sued hospital who took care of him after car accident? Here Walsh’s cause of action is medical malpractice. If they dropped him, it had nothing to do with him being drunk. If defendant (hospital) can prove that he acted out – acted recklessly – because he was drunk, maybe evidence that Walsh was drunk when he arrived at hospital is relevant. However, even if evidence was admitted, it could negatively influence the jury, so defense should raise objection under 403.
+**Harmless error** is when an appellate court finds the judge made an evidentiary error but that error did not affect a substantial right because there was other evidence that supported trial verdict.  
+
+To be successful on appeal an appellant will have to convince the appellate court that the trial judge’s evidentiary determination was **both abuse of discretion and plain error, and a substantial right was violated**. A violation of a substantial right is when the outcome of the trial would have been different if that evidence had been handled differently.
+
+---
+
+## V. Limiting Instructions
+
+**Rule 105** When evidence is admissible against a party or for a purpose but not against another party or for another purpose, the court, if requested, must instruct the jury accordingly. A limiting instruction is an instruction from the judge to the jury, telling the jury to disregard evidence for a specific purpose or against a party.
+
+Rule 105 provides that if the court admits evidence that is admissible for one purpose (or against one party) but not another, the court, on timely request, must restrict the evidence to its proper scope and instruct the jury accordingly. Such instructions are not always easy for juries to follow, but the courts need to suppose that juries will follow instructions. Relying on that supposition, Rule 105 aims to ensure that proceedings are fair.
+
+---
+## VI. Preliminary Questions
+
+**Rule 104(a)**. A preliminary question is a question about whether evidence is admissible on its face. This question is decided by a judge. When deciding this question, the judge is not bound by rules of evidence except those on privilege.
+
+Rules: Read Rules:103, 104(a), 105, skim 104(b); Readings: Text: Ch. 4, 5, 34 p. 425-429, 437 -end [focus on §3 - Dowling case) basics of standard for 104(a); Additional Materials: Smalls, Gomez-Norena
+
+---
+
+## VII. Relevance
+
+**Rule 401** of the Federal Rules of Evidence states that evidence is relevant if it has any tendency to make a fact of consequence more or less probable than it would be without that evidence. A fact of consequence is a fact that goes to prove or disprove some part of an element of a claim, charge or defense, cause of action or theory of the case. The Federal Rules of Evidence favor broad admissibility so as to allow parties to bring in as much evidence as possible (to an extent) to assist in proving their case. Relevance supports efficiency by keeping the jury focused on relevant facts.
+
+**Rule 401**. Evidence is relevant if it has any tendency to make a fact of consequence more or less probable than the fact would be without that evidence. A fact of consequence is a fact that goes to prove or disprove an element of a claim, charge, defense or cause of action (theory of the case). The policy reason for this broad admissibility is the idea that all relevant evidence should be provided to a jury or judge so that they can render a fair and just determination unless doing so would unfairly prejudice one of the parties. Unfair prejudice would occur if irrelevant evidence were admitted because it could confuse the jury or cause unnecessary expense or delay.
+
+Relevance, Excluding Relevant Evidence for Prejudice, Confusion Waste of Time, etc.; Rules: 401, 402, 403; Readings: Text: Ch. 6, 7; Additional readings: Stone (Motion to Admit), Boros, Weiglus; Readings: Text: Review 6 and 7 as necessary, Read 8; Additional Materials:  Poe, Haley; HYPO about witness testimony swastika on neck
+
+- Hitchcock v. Walsh hypo (D crossed center line of highway, hitting P's car and seriously injuring P, who sued D for negligence claiming D drunk; D seeks to admit W testimony that D was sober 3 hours before accident; P argues 3 hours long time but court finds relevant because any tendency).
+
+- Walsh v. Hospital hypo (Walsh sued hospital who took care of him after car accident for medical malpractice where nurse gave him wrong medicine causing permanent paralysis). Evidence at issue is D's W testimony that P was drunk. Evidence goes to prove that P acted out (acted recklessly) when he arrived at hospital because he was drunk and that's why the mistake was made. Court found that drunkenness was fact of consequence and W testimony relevant because any tendency. However, even if evidence was admitted, it could negatively influence the jury, so defense should raise objection under 403.
 
 - Boros sells medications over the internet. Charge is conspiracy to traffic in controlled substances.  Prosecutor brings in expert to show why it’s not a good idea to sell particular kinds of medications to a consumer without a doctor’s supervision.
 
@@ -106,110 +135,88 @@ Defense attorney would still push back. Defense attorney would say that it’s n
 
 401 and 403 often play off each other.  
 
+---
 
+## VIII. Prejudice
 
-## Prejudice
+If a judge finds that evidence is unfairly prejudicial, they may exclude it under **Rule 403**. Courts find that relevant evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting cumulative evidence. Prejudice must be unfair; all evidence is supposed to prejudice one side or the other. Unfair prejudice is when evidence will lead a jury to make a decision on an improper ground. Rule 403 provides judges with the means to counterbalance the broad admissibility of evidence that other rules allow so as to make proceedings fair, minimize expense, and help the court reach a just determination.
 
+---
 
+## IX. Witness Competency
 
+Rule 601 states that every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. Rule 602 limits Rule 601 by providing that a witness may testify to a matter only if the witness has personal knowledge of the matter. Evidence to prove personal knowledge may consist of the witness’s testimony. To have personal knowledge, a witness must (1) be able to perceive the events they are testifying to, (2) be able to understand and take an oath or affirmation that they will tell the truth, and (3) have memory (recall) of the events and the ability to narrate. The testimony must also be relevant to the matter.
 
+A judge cannot be a witness (Rule 605) and a member of the jury cannot be a witness in a case which they are sitting on the jury for (Rule 606).
 
+**Leading question**. A leading question is one where the questioner suggests an answer, usually by providing facts and asking the witness to confirm or repudiate those facts. You can ask leading questions in cross examination, but only about information that was provided in direct examination. You can also ask leading questions in redirect examination and recross examination but only about information provided in direct examination and cross examination (R611).
 
+Witnesses: Competency; Rules: 601, 602, 603; Readings: Text: Ch. 14, 15; Additional reading: Kemp
 
+---
 
+## X. Witness Impeachment
 
-Module 1: Introduction, Authentication, Preserving Claims of Error, Limitations, Relevance, Prejudice
+Witnesses can be impeached for incompetency, bias, prior inconsistent statement and general character for untruthfulness. Sometimes, extrinsic evidence can be brought in to impeach.
 
-Introduction, Authentication
+**Extrinsic evidence** is any evidence other than testimony from the witness already on the stand (Merritt 228).  
 
-Rules: Review FRE Table of Contents,
-Read 101, 102, 901(a), Skim 901(b) (note these are examples) and 902
+**Collateral and non-collateral**. Extrinsic evidence can be collateral or non-collateral. A collateral matter is relevant to the case solely because it impeaches a witness. A non-collateral matter proves a fact of consequence other than impeachment. Judges use their discretion under rules 403 and 611 to prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but parties may present extrinsic evidence of prior inconsistent statements related to non-collateral matters (Merritt 229).  
 
-Readings:
-Text: Ch. 2, 3, 69
-Additional Material: Watch M & S video for chapter 69 entitled “Authentication” available at: http://merrittevidence.com/index.asp  (see Video Mini Classes); Review in class problem.
+607
 
-1. Complete and post Assignment for class 1
+611
 
+613
+
+---
+
+### Bias
+
+“Bias is a term used in the ‘common law of evidence’ to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, his testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest.” (U.S. v. Abel)
+
+- {:.indent-2}**U.S. v. Abel (1984)**
+- {:.indent-5}Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel (defendant accused of bank robbery) were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. This evidence is offered by the prosecution to rebut Mills (defendant’s witness)’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he (Ehle) was going to testify falsely against Abel. The prosecution brings the extrinsic evidence of membership in the secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.
 - {:.indent-2}something
-- {:.indent-2}something
-- {:.indent-2}something
 
----
 
-## III. Preserving Claims of Error
+### Prior Inconsistent Statement
 
-something see below notes under VI preliminary questions
+Under Rule 613(b), extrinsic evidence of a witness’s prior inconsistent statement is admissible if the witness is given the opportunity to explain or deny the statement and the other party is given the opportunity to examine the witness about it. Implicit in Rule 613 is that counsel can question a witness about inconsistencies.
 
----
+| Witness’s | governing rule | question on cross | offer extrinsic evidence |
 
-## IV. Limiting Instructions
+| Ability to perceive, recall, narrate | 601 | yes | yes |
 
-something see below notes under V preliminary questions
+| Ability to understand and take oath | 603 | yes	| yes |
 
----
+| Personal knowledge  | 602	| yes	| yes |
 
-## V. Preliminary Questions
+| Bias | 611(b)	| yes	| yes |
 
-Rules: Read Rules:103, 104(a), 105, skim 104(b)
+| Prior Inconsistent Statements | 613	| yes	| yes |
 
-Readings:
-Text: Ch. 4, 5, 34 p. 425-429, 437 -end [focus on §3 - Dowling case) basics of standard for 104(a)
-Additional Materials: Smalls, Gomez-Norena
-
----
-
-## VI. Relevance
-
-Relevance, Excluding Relevant Evidence for Prejudice, Confusion Waste of Time, etc.
-
-Rules: 401, 402, 403
-
-Readings: Text: Ch. 6, 7
-Additional readings: Stone (Motion to Admit), Boros, Weiglus
-
-401 and 403 continued
-Rules: 401, 403
-
-Readings: Text: Review 6 and 7 as necessary, Read 8
-Additional Materials:  Poe, Haley
-
-HYPO about witness testimony swastika on neck
-
----
-
-## VII. Witness Competency
-
-Module Two, Classes 5 - 8: Witnesses:Competency and Impeachment (Bias, Prior Inconsistent Statement, Character for Untruthfulness)
-
-Witnesses: Competency
-
-Rules: 601, 602, 603,
-
-Readings: Text: Ch. 14, 15,
-Additional reading: Kemp
-
----
-
-## VIII. Witness Impeachment
-
-Witnesses can be impeached for ...
-
-### Witness Impeachment for Bias and Prior Inconsistent Statement
-
-Rules: 607, 611, 613; Review 403 as needed
-
-Readings: Text: Ch 17, 18
-Additional Material: Abel, Taylor, Kelly
+Rules: 607, 611, 613; Review 403 as needed; Readings: Text: Ch 17, 18; Additional Material: Abel, Taylor, Kelly
 
 ### Witness Impeachment for Character for Untruthfulness**
 
-Rules: 404(a)(1) and 404(a)(3), 608
+Rule 404(a)(1) provides that evidence of a person’s character or character trait is not admissible to prove that on a particular occasion the person acted in accordance with the character or trait. **Rule 404(a)** thus excludes most character evidence. **Rule 608** lets some character evidence back in by allowing inquiry into specific instances of conduct probative of the witness’s character for truthfulness or untruthfulness, during cross-examination.
 
-Readings: Text: Ch. 19, 21, 22
-Additional Material: Renda, Martinez
+**Rule 608(a)** allows any party to offer opinion or reputation evidence to attack a fact witness’s character for truthfulness.
+
+**Rule 608(b)** allows the attorney during cross-examination to inquire into specific instances of a witness’s conduct to prove truthfulness or untruthfulness. When the attorney inquires into specific instances of a witness’s conduct under 608(b), they are attempting to get the jury to infer that because the witness has a character for truthfulness or untruthfulness, it is more or less likely that the witness’s testimony is true.
+
+Rules: 404(a)(1) and 404(a)(3), 608; Readings: Text: Ch. 19, 21, 22; Additional Material: Renda, Martinez
 
 ### Witness Impeachment for Prior Convictions to Show Character for Untruthfulness
+
+Under **Rule 609**, evidence of convictions for crimes punishable by death or by imprisonment for more than one year must be admitted in a criminal case in which the witness is a defendant if the probative value of the evidence outweighs its prejudicial effect to that defendant. This is because “Rule 609 is premised on the … proposition that one who has transgressed society's norms by committing a felony is less likely than most to be deterred from lying under oath” (U.S. v. Barr citing Walden v. Georgia Pac. Corp. [internal quotations omitted]). However, if more than ten years have passed since the witness’s conviction or release from confinement for the crime, whichever is later, evidence of the crime is only admitted if its probative value substantially outweighs its prejudicial effect. In considering whether probativeness outweighs prejudice under Rule 609, courts use a special balancing test with five factors, which are (1) the impeachment value of the former crime; (2) the timing of the prior conviction and subsequent criminality; (3) the similarity of between the prior crime and the charged one; (4) the importance of the defendant's testimony for presenting the case; and (5) the degree to which the defendant's credibility is central to the case.
+
+More policy: In Barr the judge, citing Caldwell, said that the rationale of 609(a)(1) is that “commission of a felony-grade offense bespeaks a willingness to disregard social norms, and therefore bears on the likelihood that a witness would testify truthfully.”
+
+**Rule 609(a)(1)(2)** states that any crime, regardless of the punishment, must be admitted if their establishment proved that the witness committed a dishonest act or false statement. A dishonest act is fraud, misrepresentation or theft. A misdemeanor involving a dishonest act that (a) was committed as adult and (b) for which conviction occurred ten years ago or less is automatically admitted. No balancing test applies.
+
+If evidence is admitted under Rule 609, a party can still use **Rule 403** to argue that the probative value of the evidence to prove the witness’s general character for truthfulness or untruthfulness is substantially outweighed by unfair prejudice.
 
 Rules: 609 Read 609(a) and (b); skim 609 (c) - (e).
 
@@ -218,7 +225,7 @@ Additional Material: Barr, Casarez
 
 ---
 
-## IX. Subsequent Remedial Measures
+## XI. Subsequent Remedial Measures
 
 Module 3, Classes 10 - 13: Excluding Relevant Evidence for Policy Reasons:
 To promote socially valuable activities or protect socially valuable relationships
@@ -255,7 +262,7 @@ Additional Material: Brock
 
 ---
 
-## X. Substantive Use of Character Evidence
+## XII. Substantive Use of Character Evidence
 
 Module 4, Classes 16 - 18: Substantive Use of Character Evidence (Not for Impeachment)
 
@@ -285,7 +292,7 @@ Additional Materials: Henthorn, Cruz-Garcia
 
 ---
 
-## XI. Hearsay
+## XIII. Hearsay
 
 Rules: 801(a), (b), (c) and 802
 
@@ -335,7 +342,7 @@ Additional Material: Baines, Conrad
 
 ---
 
-## XII. Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
+## XIV. Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
 
 Chapter 58
 
