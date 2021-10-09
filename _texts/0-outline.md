@@ -30,15 +30,13 @@ See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre
 
 ## I. Purpose
 
-**Rule 102**
-
-Rule 102 states that the purpose of the FRE is to help the jury reach a fair and just determination, eliminate unjustifiable expense and delay, and promote the development of evidence law.
+The purposes of the FRE are to (1) help the jury reach a fair and just determination, (2) eliminate unjustifiable expense and delay, and (3) promote the development of evidence law. **Rule 102**.
 
 ---
 
 ## II. Authentication
 
-**Rule 901(a)** To admit evidence, the court requires that the evidence be authenticated or identified. To authenticate or identify evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be.
+**Rule 901(a)** To admit evidence, the court requires that the evidence be authenticated. To authenticate evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be.
 
 **Types of evidence**
 
@@ -56,8 +54,6 @@ Rule 102 states that the purpose of the FRE is to help the jury reach a fair and
 - **Direct evidence**, “requires no inferential bridge; it directly establishes a contested fact.” (p. 14).
 - **Indirect evidence** requires the jury to make more inferential leaps.
 
-Introduction, Authentication; Rules: Review FRE Table of Contents, Read 101, 102, 901(a), Skim 901(b) (note these are examples) and 902; Readings: Text: Ch. 2, 3, 69; Additional Material: Watch M & S video for chapter 69 entitled “Authentication” available at: http://merrittevidence.com/index.asp  (see Video Mini Classes); Review in class problem.
-
 - {:.indent-2}something
 - {:.indent-2}something
 - {:.indent-2}something
@@ -66,21 +62,21 @@ Introduction, Authentication; Rules: Review FRE Table of Contents, Read 101, 102
 
 ## III. Raising and resolving evidentiary objections
 
-**Motion to suppress** is a pretrial motion that argues that the opposing party’s evidence was illegally obtained.
+**Motion to suppress** is a pretrial motion that argues that the opposing party’s evidence was _illegally obtained_.
 
-**Motion in limine** is a pretrial motion to exclude evidence or seeking permission to include evidence, as allowed under the FRE.
+**Motion in limine** is a pretrial motion to exclude or include evidence.
 
-**Objection** is made by a party in trial to stop the other party from admitting evidence not allowed by the FRE as evidence (for example, an incompetent witness) and is made before that evidence is admitted. If evidence is inadmissible but a party does not object in a timely manner and/or fails to state the specific ground of the objection, the evidence might be admitted.
+**Objection** is made in trial to stop the other party from admitting evidence not allowed by the FRE. An objection is made before the evidence is admitted. If evidence is inadmissible but a party does not object in time and/or fails to state the specific ground of the objection, the evidence might be admitted.
 
-**Motion to strike** is made by a party when an item of evidence not allowed by the FRE has already entered the record.  A motion to strike is a recourse a party uses when they weren’t fast enough to forestall objectionable evidence; if the motion to strike is granted, the judge tells the jury that the item is struck from the evidence and they should ignore.  
+**Motion to strike** is made in trial when an item of evidence not allowed by the FRE has already entered the record.  A motion to strike is a recourse a party uses when they weren’t fast enough to forestall objectionable evidence; if the motion to strike is granted, the judge tells the jury that the item is struck from the evidence and they should ignore.  
 
-**Offer of proof**. If one party objects to the evidence they can make an offer of proof to show the judge what the evidence entails. *If the party doesn’t make the offer of proof, the party waives the right to object on appeal.* If the substance of the evidence is apparent from the context, the party doesn’t have to make an offer of proof. (pp. 44-45)
+**Offer of proof**. If one party objects to the evidence they can make an offer of proof to show the judge what the evidence entails. _If the party doesn’t make the offer of proof, the party waives the right to object on appeal._ If the substance of the evidence is apparent from the context, the party doesn’t have to make an offer of proof. (pp. 44-45)
 
 ---
 
 ## IV. Preserving claims of error
 
-**Rule 103**. If there was an error in an evidentiary ruling, a party may claim error if the erroneous ruling affects a substantial right of the party **and** (1) if the ruling admits evidence, a party (A) timely objects or moves to strike; **and** (B) states the specific ground, unless it was apparent from the context; **or** (2) if the ruling excludes evidence, a party informs the court of its substance by an offer of proof, unless the substance was apparent from the context. If the evidence is not challenged in a timely manner, an appellate court will not consider the evidentiary challenge.
+**Rule 103**. If there was an error in an evidentiary ruling, a party may claim error if the erroneous ruling affects a substantial right of the party _and_ (1) if the ruling admits evidence, a party (A) timely objects or moves to strike; **and** (B) states the specific ground, unless it was apparent from the context; _or_ (2) if the ruling excludes evidence, a party informs the court of its substance by an offer of proof, unless the substance was apparent from the context. If the evidence is not challenged in a timely manner, an appellate court will not consider the evidentiary challenge.
 
 **Plain error** is an error that is so egregious that a reasonable person would lose faith in the justice system. A court may take notice of a plain error affecting a substantial right, even if the claim of error was not properly preserved. Fed. R. Evid. 103(e).
 
@@ -244,6 +240,8 @@ Rules: 408
 Readings: Text: Ch. 10
 Additional Materials: MCI Commun., Weems
 
+---
+
 ### Privileges - Attorney Client and Work Product
 
 Rules: 501, 502
@@ -255,6 +253,10 @@ Additional Material: Lentz, Hedden
 
 Readings: Text: Ch. 68 (Read pp 891-899, skim rest of chapter)
 Additional Material: Brock
+
+"The **marital communications privilege** covers "information privately disclosed between husband and wife in the confidence of the marital relationship . . . ." Trammel v. United States, 445 U.S. 40, 51, 100 S. Ct. 906, 63 L. Ed. 2d 186 (1980); The marital communications privilege belongs to both spouses, so either spouse may invoke the privilege to avoid testifying or to prevent the other from testifying about the privileged communication. The marital communications privilege exists "to ensure that spouses . . . feel free to communicate their deepest feelings  to each other without fear of eventual exposure in a court of law." United States v. Lofton, 957 F.2d 476, 477 (7th Cir. 1992), quoting Byrd, 750 F.2d at 590. The marital communications privilege applies even after the marriage has dissolved, but the protected subject matter includes only what one spouse communicates to the other, not what one spouse learns about the other in other ways, such as by observing the other's actions." (Brock)
+
+"The second marital privilege, the **spousal testimonial privilege**, applies to any adverse testimony one spouse might provide as a witness against the other in a criminal case.  It is both broader and narrower than the marital communications privilege. It is broader in that it covers testimony on any adverse facts, no matter how they might have become known to the witness-spouse. It is narrower in that it applies only to adverse testimony in a criminal case, and it applies only during the marriage. See Byrd, 750 F.2d at 590-91; United States v. Fisher, 518 F.2d 836, 838 (2d Cir. 1975). Until the Supreme Court's decision in Trammel, either spouse could invoke the spousal testimonial privilege, so that a defendant could prevent his spouse from testifying against him, even willingly. See, e.g., Hawkins v. United States, 358 U.S. 74, 78-79, 79 S. Ct. 136, 3 L. Ed. 2d 125 (1958). In Trammel v. United States, however, the Court modified the privilege so that only the witness-spouse can invoke the privilege to refuse to testify adversely." (Brock)
 
 ---
 
