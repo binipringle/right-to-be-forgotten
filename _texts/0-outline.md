@@ -38,25 +38,29 @@ The purposes of the FRE are to (1) help the jury reach a fair and just determina
 
 **Rule 901(a)** To admit evidence, the court requires that the evidence be authenticated. To authenticate evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be.
 
-**Types of evidence**
+### Types of evidence
 
-- **Oral testimony** is offered as evidence by fact witnesses, expert witnesses and character witnesses (pp 6-7).
-- {:.indent-3}**Fact witnesses** are “people who perceived facts related to the lawsuit and testify about those facts.” The law does not give “eyewitness” special status over other kinds of fact witness.
-- {:.indent-3}**Expert witnesses** “use specialized knowledge to interpret evidence or explain it to the jury.” Do not need to have firsthand knowledge of the controversy in question.
-- {:.indent-3}**Character witnesses** “offer information about the good or the bad character of a party or witness.” The FRE limits the use of character witnesses.
-- **Real evidence** is “any physical evidence that a party claims played a direct role in the controversy.” (p. 8)
-- {:.indent-3}**For “real” evidence to be admitted into evidence, someone has to request it be admitted in a request to admit or a pretrial conference. To admit evidence, the court requires that the evidence be authenticated or identified. R 901.   
-- **Documentary evidence** "encompasses any type of writing or recording of information.” (p. 8)
-- **Demonstrative evidence** is “not an object that played a role in the disputed events. (…) Charts, tables, pictures, maps and graphs are common types of demonstrative evidence.” (pp. 8-9)
-- **Stipulations** are when both parties agree on a fact. When they do, they can stipulate that the fact is true for the purposes of litigation. (p. 9)
-- **Judicial Notice** is when “if a fact is indisputably true (…) the trial judge can take judicial notice of the fact.” The fact must be either “generally known” or “accurately and readily determined.” (p. 10)
-- **Circumstantial evidence** (FRE does not use this phrase) is “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact.” (p. 14). Compare with
-- **Direct evidence**, “requires no inferential bridge; it directly establishes a contested fact.” (p. 14).
-- **Indirect evidence** requires the jury to make more inferential leaps.
+**Oral testimony:**
 
+- {:.indent-2}**Fact witnesses** are “people who perceived facts related to the lawsuit and testify about those facts.” The law does not give “eyewitness” special status over other kinds of fact witness.
+- {:.indent-2}**Expert witnesses** “use specialized knowledge to interpret evidence or explain it to the jury.” Do not need to have firsthand knowledge of the controversy in question.
+- {:.indent-2}**Character witnesses** “offer information about the good or the bad character of a party or witness.” The FRE limits the use of character witnesses.
 
-- {:.indent-2}something
-- {:.indent-2}something
+**Real evidence** is “any physical evidence that a party claims played a direct role in the controversy.” For “real” evidence to be admitted into evidence, someone has to request it be admitted in a request to admit or a pretrial conference. To admit evidence, the court requires that the evidence be authenticated or identified. (**Rule 901**).  
+
+**Documentary evidence** is any type of writing or recording of information.
+
+**Demonstrative evidence** is an object that did not play a role in the disputed events. Charts, tables, pictures, maps and graphs are common types of demonstrative evidence.
+
+**Stipulations** are when both parties agree on a fact. When they do, they can stipulate that the fact is true for the purposes of litigation.
+
+**Judicial Notice**: “if a fact is indisputably true (…) the trial judge can take judicial notice of the fact.” The fact must be either “generally known” or “accurately and readily determined.” (p. 10)
+
+**Circumstantial evidence** (FRE does not use this phrase) is “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact.” Compare with
+
+**Direct evidence** directly establishes a contested fact and requires no inferential bridge.
+
+**Indirect evidence** requires the jury to make more inferential leaps.
 
 ---
 
@@ -194,15 +198,10 @@ Witnesses can be impeached for incompetency, bias, prior inconsistent statement 
 Under Rule 613(b), extrinsic evidence of a witness’s prior inconsistent statement is admissible if the witness is given the opportunity to explain or deny the statement and the other party is given the opportunity to examine the witness about it. Implicit in Rule 613 is that counsel can question a witness about inconsistencies.
 
 | Witness’s | governing rule | question on cross | offer extrinsic evidence |
-
 | Ability to perceive, recall, narrate | 601 | yes | yes |
-
 | Ability to understand and take oath | 603 | yes	| yes |
-
 | Personal knowledge  | 602	| yes	| yes |
-
 | Bias | 611(b)	| yes	| yes |
-
 | Prior Inconsistent Statements | 613	| yes	| yes |
 
 Rules: 607, 611, 613; Review 403 as needed; Readings: Text: Ch 17, 18; Additional Material: Abel, Taylor, Kelly
