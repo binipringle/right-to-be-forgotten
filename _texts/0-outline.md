@@ -34,13 +34,13 @@ See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre
 
 ## I. Purpose
 
-The purposes of the FRE are to (1) help the jury reach a fair and just determination, (2) eliminate unjustifiable expense and delay, and (3) promote the development of evidence law. **Rule 102**.
+The purposes of the Federal Rules of Evidence are to (1) help the jury reach a fair and just determination, (2) eliminate unjustifiable expense and delay, and (3) promote the development of evidence law. **Rule 102**.
 
 ---
 
 ## II. Authentication
 
-**Rule 901(a)** To admit evidence, the court requires that the evidence be authenticated. To authenticate evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be.
+**Rule 901(a)** requires that evidence be authenticated. To authenticate evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be.
 
 ### Types of evidence
 
