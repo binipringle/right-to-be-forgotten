@@ -42,11 +42,11 @@ The purposes of the FRE are to (1) help the jury reach a fair and just determina
 
 **Oral testimony:**
 
-- {:.indent-2}**Fact witnesses** are “people who perceived facts related to the lawsuit and testify about those facts.” The law does not give “eyewitness” special status over other kinds of fact witness.
-- {:.indent-2}**Expert witnesses** “use specialized knowledge to interpret evidence or explain it to the jury.” Do not need to have firsthand knowledge of the controversy in question.
-- {:.indent-2}**Character witnesses** “offer information about the good or the bad character of a party or witness.” The FRE limits the use of character witnesses.
+- {:.indent-2}**Fact witnesses** are people who perceived facts related to the lawsuit and testify about those facts.
+- {:.indent-2}**Expert witnesses** use specialized knowledge to interpret evidence or explain it to the jury.
+- {:.indent-2}**Character witnesses** offer information about the "good" or "bad" character of a party or witness.
 
-**Real evidence** is “any physical evidence that a party claims played a direct role in the controversy.” For “real” evidence to be admitted into evidence, someone has to request it be admitted in a request to admit or a pretrial conference. To admit evidence, the court requires that the evidence be authenticated or identified. (**Rule 901**).  
+**Real evidence** is “any physical evidence that a party claims played a direct role in the controversy.”
 
 **Documentary evidence** is any type of writing or recording of information.
 
@@ -56,11 +56,11 @@ The purposes of the FRE are to (1) help the jury reach a fair and just determina
 
 **Judicial Notice**: “if a fact is indisputably true (…) the trial judge can take judicial notice of the fact.” The fact must be either “generally known” or “accurately and readily determined.” (p. 10)
 
-**Circumstantial evidence** (FRE does not use this phrase) is “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact.” Compare with
+**Circumstantial evidence** (FRE does not use this phrase) is “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact.” Compare with direct evidence.
 
 **Direct evidence** directly establishes a contested fact and requires no inferential bridge.
 
-**Indirect evidence** requires the jury to make more inferential leaps.
+**Indirect evidence** requires more inferential leaps.
 
 ---
 
@@ -112,7 +112,7 @@ A **limiting instruction** is an instruction from the judge to the jury, telling
 ---
 ## VI. Preliminary Questions
 
-**Rule 104(a)** provides that the judge decides any preliminary question about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. When deciding this question, the judge is not bound by rules of evidence except those on privilege. The standard of proof is a preponderance of the evidence.
+**Rule 104(a)** provides that the court must decide any preliminary question about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. In so deciding, the court is not bound by evidence rules, except those on privilege. Whoever wants the evidence in has the burden of proof. (standard of proof is a preponderance of the evidence).
 
 **Rule 104(b)** provides that when the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist.
 
@@ -152,7 +152,12 @@ If a judge finds that evidence is unfairly prejudicial, they may exclude it unde
 
 - {:.indent-2}**State v. Poe, 21 Utah 113 (1968)** (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
 
-- {:.indent-2}**Haley, v. Gross, McKee, and Ellis, 86 F.3d 630 (7th Cir. 1996)** (trial court did not abuse discretion by admitting photograph of burned cell with dead body of Haley's cellmate because while disturbing, its contents were highly relevant, and its very significant probative value was not substantially outweighed by danger of unfair prejudice; nor did trial court abuse discretion by admitting photograph of Haley in hospital severely burned and with leg shackles because not prejudicial)  
+- {:.indent-2}**Haley, v. Gross, McKee, and Ellis, 86 F.3d 630 (7th Cir. 1996)** (trial court did not abuse discretion by admitting photograph of burned cell with dead body of Haley's cellmate because while disturbing, its contents were highly relevant, and its very significant probative value was not substantially outweighed by danger of unfair prejudice; nor did trial court abuse discretion by admitting photograph of Haley in hospital severely burned and with leg shackles because not prejudicial)
+
+- {:.indent-2}**Old Chief** (court reinforced general rule that parties can always present evidence even if other side willing to stipulate to the evidence. But can also use 403 to say in a particular case the evidence should have been stipulated to because was unfairly prejudicial given the specific facts of the case. Supreme court said yes on relevance (401) but no on 403. It's relevant, you get to present it, but jury is going to get really confused, so we will tell jury there is a felony and the felony is for a gun.)
+
+- {:.indent-2}**U.S. v. Boros** (dry testimony of doctor barely relevant but relevant because charge is conspiracy to import controlled substances. Prosecutor’s mistake was to use it in summation and talk about how people could have had miscarriages, could have died, which doesn’t have anything to do with the charge. Court says evidence not very probative.
+Court says evidence very prejudicial because people dying, having miscarriages.)
 
 ---
 
@@ -162,9 +167,13 @@ If a judge finds that evidence is unfairly prejudicial, they may exclude it unde
 
 A judge cannot be a witness (Rule 605) and a member of the jury cannot be a witness in a case which they are sitting on the jury for (Rule 606).
 
+**Bias** character witnesses - is that fair?
+
 A **Leading question** can be asked in cross examination, but only about information that was provided in direct examination. You can also ask leading questions in redirect examination and recross examination but only about information provided in direct examination and cross examination (**Rule 611**).
 
-Witnesses: Competency; Rules: 601, 602, 603; Readings: Text: Ch. 14, 15; Additional reading: Kemp
+- {:.indent-2}**Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994)** (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
+
+- {:.indent-2}**United States v. Kelly 436 F.3d 992 (8th Cir. 2006)** (Kelly did not raise the issue of competency at trial, so appellate court reviews district court's decision for plain error)
 
 ---
 
@@ -176,26 +185,21 @@ Witnesses can be impeached for incompetency, bias, prior inconsistent statement 
 
 **Collateral and non-collateral**. Extrinsic evidence can be collateral or non-collateral. A collateral matter is relevant to the case solely because it impeaches a witness. A non-collateral matter proves a fact of consequence other than impeachment. Judges use their discretion under rules 403 and 611 to prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but parties may present extrinsic evidence of prior inconsistent statements related to non-collateral matters (Merritt 229).  
 
-607
-
-611
-
-613
+**Rules 607, 611, 613**
 
 ---
 
 ### Bias
 
-“Bias is a term used in the ‘common law of evidence’ to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, his testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest.” (U.S. v. Abel)
+“**Bias** is a term used in the ‘common law of evidence’ to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, his testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest.” (U.S. v. Abel)
 
-- {:.indent-2}**U.S. v. Abel (1984)**
-- {:.indent-5}Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel (defendant accused of bank robbery) were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. This evidence is offered by the prosecution to rebut Mills (defendant’s witness)’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he (Ehle) was going to testify falsely against Abel. The prosecution brings the extrinsic evidence of membership in the secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.
-- {:.indent-2}something
+- {:.indent-2}**United States v. Abel 469 U.S. 45 (1984)** Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel (defendant accused of bank robbery) were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. This evidence is offered by the prosecution to rebut Mills (defendant’s witness)’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he (Ehle) was going to testify falsely against Abel. The prosecution brings the extrinsic evidence of membership in the secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.
 
+---
 
 ### Prior Inconsistent Statement
 
-Under Rule 613(b), extrinsic evidence of a witness’s prior inconsistent statement is admissible if the witness is given the opportunity to explain or deny the statement and the other party is given the opportunity to examine the witness about it. Implicit in Rule 613 is that counsel can question a witness about inconsistencies.
+Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent statement is admissible if the witness is given the opportunity to explain or deny the statement and the other party is given the opportunity to examine the witness about it. Implicit in Rule 613 is that counsel can question a witness about inconsistencies.
 
 | Witness’s | governing rule | question on cross | offer extrinsic evidence |
 | Ability to perceive, recall, narrate | 601 | yes | yes |
@@ -204,32 +208,50 @@ Under Rule 613(b), extrinsic evidence of a witness’s prior inconsistent statem
 | Bias | 611(b)	| yes	| yes |
 | Prior Inconsistent Statements | 613	| yes	| yes |
 
-Rules: 607, 611, 613; Review 403 as needed; Readings: Text: Ch 17, 18; Additional Material: Abel, Taylor, Kelly
+I might want something else there
+
+- {:.indent-2}**United States v. Kelly 436 F.3d 992 (8th Cir. 2006)** (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
+
+- {:.indent-2}**Taylor v. Cheddar's Casual Cafe, Inc. 2017 WL 157886 (W.D. La 2017)(unreported)** (evidence of Young’s alleged theft from Cheddar’s is inadmissible because Young neither charged with nor convicted of a crime based on this allegation and there is no other relevant purpose for the admission of this evidence.) (Young’s statements to Cheddar’s’ management and the two insurance adjusters after Taylor’s fall at the restaurant are  inadmissible as hearsay if offered to prove the truth of the matter asserted, but nonetheless admissible for the purpose of impeachment by prior inconsistent statement.)
+
+---
 
 ### Witness Impeachment for Character for Untruthfulness**
 
-Rule 404(a)(1) provides that evidence of a person’s character or character trait is not admissible to prove that on a particular occasion the person acted in accordance with the character or trait. **Rule 404(a)** thus excludes most character evidence. **Rule 608** lets some character evidence back in by allowing inquiry into specific instances of conduct probative of the witness’s character for truthfulness or untruthfulness, during cross-examination.
+**Rule 404(a)(1)** provides that evidence of a person’s character or character trait is not admissible to prove that on a particular occasion the person acted in accordance with the character or trait. **Rule 404(a)** thus excludes most character evidence. **Rule 608** lets some character evidence back in by allowing inquiry into specific instances of conduct probative of the witness’s character for truthfulness or untruthfulness, during cross-examination.
 
 **Rule 608(a)** allows any party to offer opinion or reputation evidence to attack a fact witness’s character for truthfulness.
 
+- {:.indent-2}**Renda v. King 347 F.3d 550 (3d Cir. 2003)** (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
+
+- {:.indent-2}**United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985)** (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
+
 **Rule 608(b)** allows the attorney during cross-examination to inquire into specific instances of a witness’s conduct to prove truthfulness or untruthfulness. When the attorney inquires into specific instances of a witness’s conduct under 608(b), they are attempting to get the jury to infer that because the witness has a character for truthfulness or untruthfulness, it is more or less likely that the witness’s testimony is true.
 
-Rules: 404(a)(1) and 404(a)(3), 608; Readings: Text: Ch. 19, 21, 22; Additional Material: Renda, Martinez
+- {:.indent-2}**United States v. Martinez 923 F.3d 806 (10th Cir. 2019)** (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case (his intent), not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity.”] If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.)
+
+---
 
 ### Witness Impeachment for Prior Convictions to Show Character for Untruthfulness
 
-Under **Rule 609**, evidence of convictions for crimes punishable by death or by imprisonment for more than one year must be admitted in a criminal case in which the witness is a defendant if the probative value of the evidence outweighs its prejudicial effect to that defendant. This is because “Rule 609 is premised on the … proposition that one who has transgressed society's norms by committing a felony is less likely than most to be deterred from lying under oath” (U.S. v. Barr citing Walden v. Georgia Pac. Corp. [internal quotations omitted]). However, if more than ten years have passed since the witness’s conviction or release from confinement for the crime, whichever is later, evidence of the crime is only admitted if its probative value substantially outweighs its prejudicial effect. In considering whether probativeness outweighs prejudice under Rule 609, courts use a special balancing test with five factors, which are (1) the impeachment value of the former crime; (2) the timing of the prior conviction and subsequent criminality; (3) the similarity of between the prior crime and the charged one; (4) the importance of the defendant's testimony for presenting the case; and (5) the degree to which the defendant's credibility is central to the case.
-
-More policy: In Barr the judge, citing Caldwell, said that the rationale of 609(a)(1) is that “commission of a felony-grade offense bespeaks a willingness to disregard social norms, and therefore bears on the likelihood that a witness would testify truthfully.”
+Under **Rule 609(a)(1)(A)**, evidence of convictions for crimes punishable by death or by imprisonment for more than one year must be admitted in a civil or criminal case in which the witness is a not a defendant. If the witness is a defendant in a criminal case, **Rule 609(a)(1)(B)** provides that evidence of convictions for crimes punishable by death or by imprisonment for more than one year must be admitted if the probative value of the evidence outweighs its prejudicial effect to that defendant. The policy reason for 609(a)(1) is that “commission of a felony-grade offense bespeaks a willingness to disregard social norms, and therefore bears on the likelihood that a witness would testify truthfully.” (U.S. v. Barr citing Caldwell). In considering whether probativeness outweighs prejudice under Rule 609, courts use a special balancing test with five factors, which are
+- {:.indent-2}(1) the impeachment value of the former crime (the kind of crime involved);
+- {:.indent-2}(2) when the conviction occurred and subsequent criminality;
+- {:.indent-2}(3) the similarity of between the prior crime and the charged one;
+- {:.indent-2}(4) the importance of the defendant's testimony for presenting the case; and
+- {:.indent-2}(5) the degree to which the defendant's credibility is central to the case.
 
 **Rule 609(a)(1)(2)** states that any crime, regardless of the punishment, must be admitted if their establishment proved that the witness committed a dishonest act or false statement. A dishonest act is fraud, misrepresentation or theft. A misdemeanor involving a dishonest act that (a) was committed as adult and (b) for which conviction occurred ten years ago or less is automatically admitted. No balancing test applies.
 
+**Rule 609(b)** puts a limit on using evidence of a conviction if more than 10 years have passed since the witness’s conviction or release from confinement for it, whichever is later. Evidence of the conviction is admissible only if:
+- {:.indent-2}(1) its probative value, supported by specific facts and circumstances, substantially outweighs its prejudicial effect; and
+- {:.indent-2}(2) the proponent gives an adverse party reasonable written notice of the intent to use it so that the party has a fair opportunity to contest its use.
+
 If evidence is admitted under Rule 609, a party can still use **Rule 403** to argue that the probative value of the evidence to prove the witness’s general character for truthfulness or untruthfulness is substantially outweighed by unfair prejudice.
 
-Rules: 609 Read 609(a) and (b); skim 609 (c) - (e).
+- {:.indent-2}**United States v. Barr U.S. District Court for the District of New Jersey 2015 U.S. Dist. LEXIS 150864** (court allowed evidence of one of two prior felony convictions for drug dealing and did not permit the other. Allows one because [1] felony-grade offense relevant to credibility; [2] drug dealing not similar to current offense of illegal possession of a weapon so not prejudicial for similarity; [3] prior conviction not more than ten years old; and [4] defendant only relevant fact witness for defense so testimony is critical. Judge issued limiting instruction that jury only consider convictions for impeachment. Did not permit evidence of second conviction because second very similar drug felony cumulative of the first.)
 
-Readings: Text: 20
-Additional Material: Barr, Casarez
+- {:.indent-2}**United States v.Casarez 2018 WL 3340871 (D. Nevada 2018) (unreported)** (court allows evidence of prior convictions substantially similar to current charges for purpose of impeachment but instructs prosecution to refer to them as “felonies.” Denies defendant's motion to impeach victim for prior conviction because defendant failed to show that victim's impeachment would be more probative than prejudicial. Allows defendant to impeach witness for prior convictions because no reason to believe violates Rule 403.). 
 
 ---
 
