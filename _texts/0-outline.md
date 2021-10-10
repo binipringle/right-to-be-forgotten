@@ -20,9 +20,13 @@ toc:
 - Prior Inconsistent Statement
 - Witness Impeachment for Character for Untruthfulness
 - XI. Subsequent Remedial Measures
-- XII. Substantive Use of Character Evidence
-- XIII. Hearsay
-- XIV. Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
+- XII. Compromise Offers and Negotiations
+- XIII. Privileges
+- Attorney Client and Work Product
+- Spousal or Marital Privileges
+- XIV. Substantive Use of Character Evidence
+- XV. Hearsay
+- XVI. Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
 
 ---
 
@@ -261,17 +265,25 @@ If evidence is admitted under Rule 609, a party can still use **Rule 403** to ar
 
 ## XI. Subsequent Remedial Measures
 
-Module 3, Classes 10 - 13: Excluding Relevant Evidence for Policy Reasons:
-To promote socially valuable activities or protect socially valuable relationships
+**Rule 407** excludes relevant evidence to promote socially valuable activities or protect socially valuable relationships. The socially valuable activities and relationships Rule 407 promotes are (1) encouraging defendants to make repairs promptly without worrying about the effects of those repairs on pending litigation, and (2) protecting plaintiffs from prejudice that could arise from the jury interpreting subsequent remedial measures taken by the plaintiff as an admission of fault.
 
-### Subsequent Remedial Measures
+Rule 407 **excludes** evidence offered for the purpose of proving liability or fault, such as negligence, culpable conduct, a defect in a product or its design, or a need for a warning or instruction.
 
-Rules: 407
+Evidence of a subsequent remedial measure **can be admitted** when the remedial measure is taken by a non-party or when it is offered  
+- {:.indent-2}to prove ownership and control;
+- {:.indent-2}to prove feasibility; and/or
+- {:.indent-2}to impeach a witness.
 
-Readings: Text Ch. 9
-Additional Materials: Hunter-McLeod, Hill
+Rule 407 is partly based on specific concerns that the evidence the rules limit or exclude will often fail the Rule 403 balancing test.
+- {:.indent-2}**Concerns about the evidence’s probative value** are that even when evidence is admissible under Rule 407 with a limiting instruction, it can be difficult to explain to the jury how to apply the evidence for impeachment or feasibility but not for liability.
+- {:.indent-2}**A concern about unfair prejudice specific to admitting evidence of a subsequent remedial measure** is that if the evidence is admissible under Rule 407 but the judge applies Rule 403 at the defendant’s request, the prejudice still has to substantially outweigh the probative value of the evidence as required by Rule 403. Because a substantial remedial measure is often highly probative, Rule 403 will often not keep the evidence out.    
 
-### Compromise Offers and Negotiations
+- {:.indent-2}**Hunter-McLeod v. Dollar Gen., Eastern District of Pennsylvania 2014 U.S. District. LEXIS 129177, CIVIL ACTION NO. 13-3113**
+
+
+- {:.indent-2}**Emma HILL and William Hill as Parents of Michael John Hill, and Emmal Hill as Administratrix of the Estate of Michael John Hill v. Konnecranes, Inc. and Morris Material Handling, Inc., 2019 WL 3842072 (2019)**
+
+## XII. Compromise Offers and Negotiations
 
 Rules: 408
 
@@ -280,29 +292,26 @@ Additional Materials: MCI Commun., Weems
 
 ---
 
-### Privileges - Attorney Client and Work Product
+## XIII. Privileges
 
-Rules: 501, 502
+Something about privileges - maybe definition
 
-Readings: Text: Ch. 66, 67
-Additional Material: Lentz, Hedden
+### Attorney Client and Work Product
 
-### Privileges - Spousal or Marital
+Add rules and notes here
 
-Readings: Text: Ch. 68 (Read pp 891-899, skim rest of chapter)
-Additional Material: Brock
+### Spousal or Marital Privileges
+
+Add rules and notes here, edit excerpts below
 
 "The **marital communications privilege** covers "information privately disclosed between husband and wife in the confidence of the marital relationship . . . ." Trammel v. United States, 445 U.S. 40, 51, 100 S. Ct. 906, 63 L. Ed. 2d 186 (1980); The marital communications privilege belongs to both spouses, so either spouse may invoke the privilege to avoid testifying or to prevent the other from testifying about the privileged communication. The marital communications privilege exists "to ensure that spouses . . . feel free to communicate their deepest feelings  to each other without fear of eventual exposure in a court of law." United States v. Lofton, 957 F.2d 476, 477 (7th Cir. 1992), quoting Byrd, 750 F.2d at 590. The marital communications privilege applies even after the marriage has dissolved, but the protected subject matter includes only what one spouse communicates to the other, not what one spouse learns about the other in other ways, such as by observing the other's actions." (Brock)
 
 "The second marital privilege, the **spousal testimonial privilege**, applies to any adverse testimony one spouse might provide as a witness against the other in a criminal case.  It is both broader and narrower than the marital communications privilege. It is broader in that it covers testimony on any adverse facts, no matter how they might have become known to the witness-spouse. It is narrower in that it applies only to adverse testimony in a criminal case, and it applies only during the marriage. See Byrd, 750 F.2d at 590-91; United States v. Fisher, 518 F.2d 836, 838 (2d Cir. 1975). Until the Supreme Court's decision in Trammel, either spouse could invoke the spousal testimonial privilege, so that a defendant could prevent his spouse from testifying against him, even willingly. See, e.g., Hawkins v. United States, 358 U.S. 74, 78-79, 79 S. Ct. 136, 3 L. Ed. 2d 125 (1958). In Trammel v. United States, however, the Court modified the privilege so that only the witness-spouse can invoke the privilege to refuse to testify adversely." (Brock)
 
----
-
-**Review for Midterm - based on Assignment; (Midterm - Multiple Choice take home - timed (during class time))**
 
 ---
 
-## XII. Substantive Use of Character Evidence
+## XIV. Substantive Use of Character Evidence
 
 Module 4, Classes 16 - 18: Substantive Use of Character Evidence (Not for Impeachment)
 
@@ -388,7 +397,7 @@ Chapter 58
 
 ---
 
-This is just a template for poem layout:
+template for poem layout:
 
 - {:.indent-2}**Something**
 - {:.indent-2}Something
