@@ -7,6 +7,7 @@ source:
 toc:
 - I. Purpose
 - II. Authentication
+- Types of evidence
 - III. Raising and Resolving Evidentiary Objections
 - IV. Preserving Claims of Error
 - V. Limiting Instructions
@@ -15,6 +16,9 @@ toc:
 - VIII. Prejudice
 - IX. Witness Competency
 - X. Witness Impeachment
+- Bias
+- Prior Inconsistent Statement
+- Witness Impeachment for Character for Untruthfulness
 - XI. Subsequent Remedial Measures
 - XII. Substantive Use of Character Evidence
 - XIII. Hearsay
@@ -124,8 +128,6 @@ A **limiting instruction** is an instruction from the judge to the jury, telling
 
 **Rule 401** of the Federal Rules of Evidence states that evidence is relevant if it has any tendency to make a fact of consequence more or less probable than that fact would be without that evidence. A fact of consequence is a fact that goes to prove or disprove some part of an element of a claim, charge or defense, cause of action or theory of the case. The broad admissibility written into this rule is to allow parties to bring in as much evidence as possible so that a jury or judge can render a fair and just determination of the case. Relevance supports efficiency by keeping the jury focused on relevant facts.
 
-Relevance, Excluding Relevant Evidence for Prejudice, Confusion Waste of Time, etc.; Rules: 401, 402, 403; Readings: Text: Ch. 6, 7; Additional readings: Stone (Motion to Admit), Boros, Weiglus; Readings: Text: Review 6 and 7 as necessary, Read 8; Additional Materials:  Poe, Haley; HYPO about witness testimony swastika on neck
-
 - {:.indent-2}**Hitchcock v. Walsh hypo** (D crossed center line of highway, hitting P's car and seriously injuring P, who sued D for negligence claiming D drunk; D seeks to admit W testimony that D was sober 3 hours before accident; P argues 3 hours long time but court finds relevant because any tendency)
 
 - {:.indent-2}**Walsh v. Hospital hypo** (Walsh sued hospital for medical malpractice where following car accident nurse gave him wrong medicine causing permanent paralysis; defendant's drunkenness was fact of consequence and W testimony relevant because any tendency)
@@ -141,6 +143,8 @@ Relevance, Excluding Relevant Evidence for Prejudice, Confusion Waste of Time, e
 - {:.indent-2}**Hypo** Greg (D) is accused of assaulting Alex. Prosecutor calls a psychic to the stand, who testifies that the day before the assault, she had a vision of the future in which she saw Alex stabbing Greg’s wife with a steak knife. D objects that not relevant under 401. The issue is whether the psychic's testimony is relevant.
 - {:.indent-5}**Offer of proof:** Psychic testifies that greg visited her every week and has done so for the past 15 years, has always followed her advice and believed her visions, and that she related this vision to him the morning of the assault.
 - {:.indent-5}**Relevance:** Prosecution would say Psychic's testimony is relevant because it could give Greg  motive. Although prosecutors don’t have to show motive, it is relevant because it ties it all together. Defense would say it’s not relevant because hearsay and because the inferential leap is too great. We are expected to infer Greg’s reaction to being told that Alex stabbed his wife is to assault the person who allegedly stabbed his wife.
+
+- {:.indent-2}**Hypo** about swastika tattoo on neck
 
 401 and 403 often play off each other.  
 
@@ -216,7 +220,7 @@ I might want something else there
 
 ---
 
-### Witness Impeachment for Character for Untruthfulness**
+### Witness Impeachment for Character for Untruthfulness
 
 **Rule 404(a)(1)** provides that evidence of a person’s character or character trait is not admissible to prove that on a particular occasion the person acted in accordance with the character or trait. **Rule 404(a)** thus excludes most character evidence. **Rule 608** lets some character evidence back in by allowing inquiry into specific instances of conduct probative of the witness’s character for truthfulness or untruthfulness, during cross-examination.
 
@@ -251,7 +255,7 @@ If evidence is admitted under Rule 609, a party can still use **Rule 403** to ar
 
 - {:.indent-2}**United States v. Barr U.S. District Court for the District of New Jersey 2015 U.S. Dist. LEXIS 150864** (court allowed evidence of one of two prior felony convictions for drug dealing and did not permit the other. Allows one because [1] felony-grade offense relevant to credibility; [2] drug dealing not similar to current offense of illegal possession of a weapon so not prejudicial for similarity; [3] prior conviction not more than ten years old; and [4] defendant only relevant fact witness for defense so testimony is critical. Judge issued limiting instruction that jury only consider convictions for impeachment. Did not permit evidence of second conviction because second very similar drug felony cumulative of the first.)
 
-- {:.indent-2}**United States v.Casarez 2018 WL 3340871 (D. Nevada 2018) (unreported)** (court allows evidence of prior convictions substantially similar to current charges for purpose of impeachment but instructs prosecution to refer to them as “felonies.” Denies defendant's motion to impeach victim for prior conviction because defendant failed to show that victim's impeachment would be more probative than prejudicial. Allows defendant to impeach witness for prior convictions because no reason to believe violates Rule 403.). 
+- {:.indent-2}**United States v.Casarez 2018 WL 3340871 (D. Nevada 2018) (unreported)** (court allows evidence of prior convictions substantially similar to current charges for purpose of impeachment but instructs prosecution to refer to them as “felonies.” Denies defendant's motion to impeach victim for prior conviction because defendant failed to show that victim's impeachment would be more probative than prejudicial. Allows defendant to impeach witness for prior convictions because no reason to believe violates Rule 403.).
 
 ---
 
