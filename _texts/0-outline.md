@@ -19,6 +19,7 @@ toc:
 - Bias
 - Prior Inconsistent Statement
 - Witness Impeachment for Character for Untruthfulness
+- Witness Impeachment for Prior Convictions to Show Character for Untruthfulness
 - XI. Subsequent Remedial Measures
 - XII. Compromise Offers and Negotiations
 - XIII. Privileges
@@ -258,6 +259,14 @@ If evidence is admitted under Rule 609, a party can still use **Rule 403** to ar
 - {:.indent-2}**United States v. Barr U.S. District Court for the District of New Jersey 2015 U.S. Dist. LEXIS 150864** (court allowed evidence of one of two prior felony convictions for drug dealing and did not permit the other. Allows one because [1] felony-grade offense relevant to credibility; [2] drug dealing not similar to current offense of illegal possession of a weapon so not prejudicial for similarity; [3] prior conviction not more than ten years old; and [4] defendant only relevant fact witness for defense so testimony is critical. Judge issued limiting instruction that jury only consider convictions for impeachment. Did not permit evidence of second conviction because second very similar drug felony cumulative of the first.)
 
 - {:.indent-2}**United States v.Casarez 2018 WL 3340871 (D. Nevada 2018) (unreported)** (court allows evidence of prior convictions substantially similar to current charges for purpose of impeachment but instructs prosecution to refer to them as “felonies.” Denies defendant's motion to impeach victim for prior conviction because defendant failed to show that victim's impeachment would be more probative than prejudicial. Allows defendant to impeach witness for prior convictions because no reason to believe violates Rule 403.).
+
+**Rule 609(d)** provides that evidence of a **juvenile adjudication** is admissible only if:
+(1) it is offered in a criminal case;
+(2) the adjudication was of a witness other than the defendant;
+(3) an adult’s conviction for that offense would be admissible to attack the adult’s credibility; and
+(4) admitting the evidence is necessary to fairly determine guilt or innocence.
+
+The policy reason for this rule is that the law promotes the rehabilitation of juvenile offenders by limiting disclosure of their convictions. 
 
 ---
 
