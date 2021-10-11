@@ -86,7 +86,7 @@ The purposes of the Federal Rules of Evidence are to (1) help the jury reach a f
 
 ---
 
-## IV. Preserving claims of error
+## IV. Preserving Claims of Error
 
 **Rule 103**. If there was an error in an evidentiary ruling, a party may claim error if the erroneous ruling affects a substantial right of the party **and**
 
@@ -187,17 +187,15 @@ A **Leading question** can be asked in cross examination, but only about informa
 
 ## X. Witness Impeachment
 
-Witnesses can be impeached for incompetency, bias, prior inconsistent statement and general character for untruthfulness. Sometimes, extrinsic evidence can be brought in to impeach.
+Witnesses can be impeached for incompetency, bias, prior inconsistent statement and general character for untruthfulness. Sometimes, extrinsic evidence can be brought in to impeach. **Rules 607, 611, 613**.
 
-**Extrinsic evidence** is any evidence other than testimony from the witness already on the stand (Merritt 228).  
+**Extrinsic evidence** is any evidence other than testimony from the witness already on the stand.   
 
-**Collateral and non-collateral**. Extrinsic evidence can be collateral or non-collateral. A collateral matter is relevant to the case solely because it impeaches a witness. A non-collateral matter proves a fact of consequence other than impeachment. Judges use their discretion under rules 403 and 611 to prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but parties may present extrinsic evidence of prior inconsistent statements related to non-collateral matters (Merritt 229).  
+**Collateral and non-collateral**. Extrinsic evidence can be collateral or non-collateral. A collateral matter is relevant to the case solely because it impeaches a witness. A non-collateral matter proves a fact of consequence other than impeachment. Judges use their discretion under rules 403 and 611 to prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but parties may present extrinsic evidence of prior inconsistent statements related to non-collateral matters (Merritt 229).
 
-**Rules 607, 611, 613**
+---  
 
----
-
-### Bias
+## Bias
 
 “**Bias** is a term used in the ‘common law of evidence’ to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, his testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest.” (U.S. v. Abel)
 
@@ -205,7 +203,7 @@ Witnesses can be impeached for incompetency, bias, prior inconsistent statement 
 
 ---
 
-### Prior Inconsistent Statement
+## Prior Inconsistent Statement
 
 Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent statement is admissible if the witness is given the opportunity to explain or deny the statement and the other party is given the opportunity to examine the witness about it. Implicit in Rule 613 is that counsel can question a witness about inconsistencies.
 
@@ -224,7 +222,7 @@ I might want something else there
 
 ---
 
-### Witness Impeachment for Character for Untruthfulness
+## Witness Impeachment for Character for Untruthfulness
 
 **Rule 404(a)(1)** provides that evidence of a person’s character or character trait is not admissible to prove that on a particular occasion the person acted in accordance with the character or trait. **Rule 404(a)** thus excludes most character evidence. **Rule 608** lets some character evidence back in by allowing inquiry into specific instances of conduct probative of the witness’s character for truthfulness or untruthfulness, during cross-examination.
 
@@ -240,7 +238,7 @@ I might want something else there
 
 ---
 
-### Witness Impeachment for Prior Convictions to Show Character for Untruthfulness
+## Witness Impeachment for Prior Convictions to Show Character for Untruthfulness
 
 Under **Rule 609(a)(1)(A)**, evidence of convictions for crimes punishable by death or by imprisonment for more than one year must be admitted in a civil or criminal case in which the witness is a not a defendant. If the witness is a defendant in a criminal case, **Rule 609(a)(1)(B)** provides that evidence of convictions for crimes punishable by death or by imprisonment for more than one year must be admitted if the probative value of the evidence outweighs its prejudicial effect to that defendant. The policy reason for 609(a)(1) is that “commission of a felony-grade offense bespeaks a willingness to disregard social norms, and therefore bears on the likelihood that a witness would testify truthfully.” (U.S. v. Barr citing Caldwell). In considering whether probativeness outweighs prejudice under Rule 609, courts use a special balancing test with five factors, which are
 - {:.indent-2}(1) the impeachment value of the former crime (the kind of crime involved);
@@ -330,9 +328,9 @@ Rule 408 protects only conduct or statements made in compromise negotiations reg
 
 ## XIII. Privileges
 
-The two justifications for protecting otherwise relevant evidence through privilege are (1) to protect socially beneficial relationships and (2) to safeguard the inherent value of privacy as an end unto itself.
+**Rule 501** provides two justifications for protecting otherwise relevant evidence through privilege: (1) to protect socially beneficial relationships and (2) to safeguard the inherent value of privacy as an end unto itself.
 
-**Rule 501** states that "The common law ... governs a claim of privilege unless any of the following provides otherwise: the United States Constitution; a federal statute; or rules prescribed by the Supreme Court. But in a civil case, state law governs privilege regarding a claim or defense for which state law supplies the rule of decision." **Rule 501** thus relegates privileges to common law (state law/federal common law). **Rule 502** governs one aspect of the attorney-client privilege. Other rules were drafted but never enacted.
+Rule 501 relegates privileges to common law (state law/federal common law). Rule 502 governs one aspect of the attorney-client privilege. Other rules were drafted but never enacted.
 
 **Privileges protecting socially beneficial relationships:**
 - {:.indent-2}Attorney-client /  work product for litigation
@@ -347,20 +345,21 @@ The two justifications for protecting otherwise relevant evidence through privil
 - {:.indent-2}Social workers – patient
 - {:.indent-2}Accountant – client
 - {:.indent-2}Doctor -  patient
+
 *These are important because when State Law governs (diversity cases) state law on privilege governs and these privileges will apply.*
 
-**Steps of analysis for privilege:**
-- What is the evidence
-- What is it offered to prove
-- Who holds it (who can waive and who must assert)
-- When does it apply (what facts or circumstances support the privilege)
-- What does it cover or shield (scope)
-- Has there been a waiver
-- Is the privilege absolutish or qualified and if qualified what is needed to pierce
+- {:.indent-0}**Steps of analysis for privilege:**
+- {:.indent-5}What is the evidence
+- {:.indent-5}What is it offered to prove
+- {:.indent-5}Who holds it (who can waive and who must assert)
+- {:.indent-5}When does it apply (what facts or circumstances support the privilege)
+- {:.indent-5}What does it cover or shield (scope)
+- {:.indent-5}Has there been a waiver
+- {:.indent-5}Is the privilege absolute-ish or qualified and if qualified what is needed to pierce
 
 ---
 
-### Attorney Client and Work Product
+## Attorney Client and Work Product
 
 **Rule 502** provides that an attorney cannot be compelled to reveal confidential communication between client and counsel made in course of seeking legal advice/services/counsel (legal counsel) (5 C’s).
 - {:.indent-2}Client holds privilege but attorney must assert it to protect client.
@@ -372,7 +371,7 @@ The policy reason for Rule 502 is protecting the socially beneficial attorney cl
 
 ### Waiver
 
-Client’s privilege to waive (even work product)
+It is client’s privilege to waive (even work product)
 
 Inadvertent waiver: during discovery when otherwise protected information given to opposing counsel by mistake (e.g. sent over voluminous ESI data transfer) – potential to clawback and have opposing side which was inadvertently given the privileged material not use it.
 
@@ -380,17 +379,15 @@ If waiver deemed intentional or negligent including if client shares the confide
 
 ### Work product
 
-Protects documents / materials prepared by either attorney or client – including materials they request to be prepared)
+Protects documents and/or materials prepared by either attorney or client, including materials they request to be prepared, when prepared in anticipation (broadly construed) of litigation. Non-routinely prepared reports or documents that might be used in litigation must be prepared in anticipation of litigation.
 
-When prepared in anticipation (broadly construed) of litigation. E.g., not routinely prepared reports or documents that might be used in litigation – must be prepared in anticipation of litigation
-
-**Work product privilege absolute-ish vs qualified privilege:
+**Work product privilege absolute-ish vs qualified privilege:**
 
 | Absolute-ish | Qualified |
 | Confidential communications between client and counsel for counsel (5C’s) | Facts about case developed through Attorney’s own investigation |
 | Attorney’s notes that show thought process, legal research, planning, theories of case, etc. | Any documents prepared in anticipation of litigation  (broadly defined) by client (because work  product containing facts about dispute) |
 
-Qualified privilege may be obtained by opposing party if shows substantial need and undue hardship (high bar, see UpJohn).
+**Qualified privilege may be obtained by opposing party if shows substantial need and undue hardship** (high bar, see UpJohn) (undue hardship might be if witness who testified for defense dies before can testify for prosecution).
 
 - {:.indent-2}**Upjohn** (Corporate attorney-client privilege belongs to corporation and covers information provided by employees within the scope of their employment relationship)
 
@@ -408,16 +405,15 @@ The **marital communications privilege** covers information privately disclosed 
 
 The **spousal testimonial privilege** applies to any adverse testimony one spouse might provide as a witness against the other in a criminal case.  It is both broader and narrower than the marital communications privilege. It is broader in that it covers testimony on any adverse facts, no matter how they might have become known to the witness-spouse. It is narrower in that it applies **only to adverse testimony in a criminal case**, and it applies **only during the marriage**. Only the witness-spouse can invoke the privilege to refuse to testify adversely.
 
-| Marital communication privilege | spousal testimonial privilege |
-| All judicial proceedings (criminal or civil) | Only applies in criminal proceedings
- |
-| Confidential communication made during marriage when no one else can hear | ... |
-| Only covers what one spouse communicates to another, during the marriage
- | Covers information learned prior to marriage |
-| Does not cover what spouse may have learned by observing | covers any adverse facts regardless of how learned |
+**Marital communication privilege vs spousal testimonial privilege:**
+
+| Marital communication | Spousal testimonial |
+| All judicial proceedings (criminal or civil) | Only applies in criminal proceedings |
+| Confidential communication made during marriage when no one else can hear; Does not cover what spouse may have learned by observing | Covers any adverse facts regardless of how learned |
+| Only covers what one spouse communicates to another during the marriage | Covers information learned prior to marriage |
 | Applies after dissolution of marriage | Only applies during marriage |
 | Privilege belongs to both spouses (both must agree to waive) | Only witness-spouse can invoke/waive |
-| Covers information privately disclosed between spouses | Only applies to testimony (can be forced to provide finger prints, handwriting samples, etc. |
+| --- | Only applies to testimony (can be forced to provide finger prints, handwriting samples, etc.) |
 | Exception for intra-family crimes | Exception for intra-family crimes |
 | Exception for divorce and custody between spouses | --- |
 
