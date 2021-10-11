@@ -265,49 +265,163 @@ If evidence is admitted under Rule 609, a party can still use **Rule 403** to ar
 
 ## XI. Subsequent Remedial Measures
 
-**Rule 407** excludes relevant evidence to promote socially valuable activities or protect socially valuable relationships. The socially valuable activities and relationships Rule 407 promotes are (1) encouraging defendants to make repairs promptly without worrying about the effects of those repairs on pending litigation, and (2) protecting plaintiffs from prejudice that could arise from the jury interpreting subsequent remedial measures taken by the plaintiff as an admission of fault.
+**Rule 407** excludes relevant evidence to promote socially valuable activities or protect socially valuable relationships. These are (1) encouraging defendants to make repairs promptly without worrying about the effects of those repairs on pending litigation, and (2) protecting plaintiffs from prejudice that could arise from the jury interpreting subsequent remedial measures taken by the plaintiff as an admission of fault.
 
-Rule 407 **excludes** evidence offered for the purpose of proving liability or fault, such as negligence, culpable conduct, a defect in a product or its design, or a need for a warning or instruction.
+When measures are taken that would have made an earlier injury or harm less likely to occur, evidence of the subsequent measures is **not admissible** to prove:
+- negligence;
+- culpable conduct;
+- a defect in a product or its design; or
+- a need for a warning or instruction.
+But the court **may admit** this evidence when the remedial measure is taken by a non-party or when it is offered for another purpose, such as:
+- {:.indent-2}to proving ownership and/or control;
+- {:.indent-2}to proving feasibility of precautionary measures; and/or
+- {:.indent-2}to to impeach a witness.
 
-Evidence of a subsequent remedial measure **can be admitted** when the remedial measure is taken by a non-party or when it is offered  
-- {:.indent-2}to prove ownership and control;
-- {:.indent-2}to prove feasibility; and/or
-- {:.indent-2}to impeach a witness.
-
-Rule 407 is partly based on specific concerns that the evidence the rules limit or exclude will often fail the Rule 403 balancing test.
+Rule 407 is also based on specific concerns that the evidence the rules limit or exclude will often fail the Rule 403 balancing test.
 - {:.indent-2}**Concerns about the evidence’s probative value** are that even when evidence is admissible under Rule 407 with a limiting instruction, it can be difficult to explain to the jury how to apply the evidence for impeachment or feasibility but not for liability.
 - {:.indent-2}**A concern about unfair prejudice specific to admitting evidence of a subsequent remedial measure** is that if the evidence is admissible under Rule 407 but the judge applies Rule 403 at the defendant’s request, the prejudice still has to substantially outweigh the probative value of the evidence as required by Rule 403. Because a substantial remedial measure is often highly probative, Rule 403 will often not keep the evidence out.    
 
-- {:.indent-2}**Hunter-McLeod v. Dollar Gen., Eastern District of Pennsylvania 2014 U.S. District. LEXIS 129177, CIVIL ACTION NO. 13-3113**
+- {:.indent-2}**Hunter-McLeod v. Dollar Gen., Eastern District of Pennsylvania 2014 U.S. District. LEXIS 129177, CIVIL ACTION NO. 13-3113** (video surveillance footage showing store employee putting cardboard on the floor where plaintiff fell is inadmissible as evidence of subsequent remedial measures because it does not directly contradict employee's witness testimony.)
 
+- {:.indent-2}**Emma HILL and William Hill as Parents of Michael John Hill, and Emmal Hill as Administratrix of the Estate of Michael John Hill v. Konnecranes, Inc. and Morris Material Handling, Inc., 2019 WL 3842072 (2019)** (policies and procedures not admitted for impeachment purposes because defendants expect that plaintiffs will rely on these policies and procedures for “more than” impeachment purposes.)
 
-- {:.indent-2}**Emma HILL and William Hill as Parents of Michael John Hill, and Emmal Hill as Administratrix of the Estate of Michael John Hill v. Konnecranes, Inc. and Morris Material Handling, Inc., 2019 WL 3842072 (2019)**
+Evidence of subsequent remedial measures for impeachment purposes "must contradict the witness's testimony directly" to be admissible. Complaint of Consolidation Coal Co., 123 F.3d at 137; see e.g.,
+
+- {:.indent-2}**Kelly v. Crown Equip. Co., 970 F.2d 1273, 1278 (3d Cir. 1992)** (evidence of subsequent design changes inadmissible where expert testified that previous design was excellent and proper, not that it was the best or only possible design)
+
+- {:.indent-2}**Anderson v. Malloy, 700 F.2d 1208, 1211-12 (8th Cir.1983)** (evidence of subsequent remedial measures admitted to impeach statements that defendants had done everything necessary for a secure motel and that chain locks and peep holes would not be successful, when defendants took additional security measures after incident and installed those devices).
+
+---
 
 ## XII. Compromise Offers and Negotiations
 
-Rules: 408
+**Rule 408** promotes the socially valuable activity of settling disputes. Its purpose is to ensure that parties are not inhibited from making offers or statements during the settlement negotiation process.
 
-Readings: Text: Ch. 10
-Additional Materials: MCI Commun., Weems
+**Rule 408(a)** states that the following evidence is **not admissible** to prove or disprove the validity or amount of a disputed claim or to impeach by a prior inconsistent statement or a contradiction:
+- {:.indent-2}(1) furnishing, promising, offering, accepting, promising to accept, or offering to accept a consideration to settle a claim; and
+- {:.indent-2}(2) conduct or statements made during negotiations about the claim, except statements made during negotiations with government agency; these can be introduced in subsequent criminal investigation.
+
+There must be a disputed claim for either offers of consideration or settlement negotiations (see language of 408(a)(2) – “the claim”). If there is no dispute about the amount or validity of a claim, there is no offer of consideration or settlement, and no negotiation.
+
+**Rule 408(b)** provides the **exception** that the court may admit this evidence for another purpose, such as proving witness bias or prejudice or negating a claim of undue delay.
+
+
+**Steps of analysis:** Look for:
+- {:.indent-2}Clear dispute or disagreement communicated between parties
+- {:.indent-2}Clear intent to compromise (after dispute)
+- {:.indent-2}Whether offer is unilateral or bilateral
+- {:.indent-2}Was offer concrete or vague
+- {:.indent-2}Whether offer was in response to another offer
+- {:.indent-2}Whether litigation threatened or started
+- {:.indent-2}Attorneys or formal negotiations
+- {:.indent-2}Legalese
+- {:.indent-2}Difference between business discussions and legal negotiations
+
+**Pre-existing discoverable evidence:** Discussion of otherwise discoverable evidence or witnesses at a settlement conference does not bring that evidence/witness within 408 protection. But not everything pre-existing is admissible (there are other rules that may apply). For example, *if a document is protected work product (even if it pre-dates the settlement negotiations) it is privileged and thus not discoverable or admissible.*
+
+- {:.indent-2}**MCI Communs. Servs. v. Hagan, 641 F.3d 112 (5th Cir. 2011)** (testimony about phone call asking how much damaged cable would cost not excluded under Rule 408 because there was not yet an actual dispute)
+
+
+- {:.indent-2}**Weems v. Tyson Foods, Inc., 665 F.3d 958 (C.A 8th Cir. 2011)** (district court violated Rule 408 by admitting into evidence a separation agreement and related testimony and this error likely materially influenced the jury’s verdict)
+
+Rule 408 protects only conduct or statements made in compromise negotiations regarding a claim that was disputed as to validity or amount. This rule is designed to encourage settlements by fostering free and full discussion of the issues. The question under the rule is whether the statements or conduct were intended to be part of the negotiations toward compromise. Litigation does not need to have commenced for Rule 408 to apply, but there must be an actual dispute or a difference of opinion. MCI.
 
 ---
 
 ## XIII. Privileges
 
-Something about privileges - maybe definition
+The two justifications for protecting otherwise relevant evidence through privilege are (1) to protect socially beneficial relationships and (2) to safeguard the inherent value of privacy as an end unto itself.
+
+**Rule 501** states that "The common law ... governs a claim of privilege unless any of the following provides otherwise: the United States Constitution; a federal statute; or rules prescribed by the Supreme Court. But in a civil case, state law governs privilege regarding a claim or defense for which state law supplies the rule of decision." **Rule 501** thus relegates privileges to common law (state law/federal common law). **Rule 502** governs one aspect of the attorney-client privilege. Other rules were drafted but never enacted.
+
+**Privileges protecting socially beneficial relationships:**
+- {:.indent-2}Attorney-client /  work product for litigation
+- {:.indent-2}Spousal adverse testimony / confidential marital communication
+- {:.indent-2}5th amendment privilege against self-incrimination / applies in civil / criminal / pre-trial discovery
+- {:.indent-2}Psychotherapist patient privilege – some licensed mental health social workers
+- {:.indent-2}Clergy - penitent privilege (via federal common law)
+- {:.indent-2}Trade secret (limited)
+
+**Some states have privileges that cover:**
+- {:.indent-2}Journalists
+- {:.indent-2}Social workers – patient
+- {:.indent-2}Accountant – client
+- {:.indent-2}Doctor -  patient
+*These are important because when State Law governs (diversity cases) state law on privilege governs and these privileges will apply.*
+
+**Steps of analysis for privilege:**
+- What is the evidence
+- What is it offered to prove
+- Who holds it (who can waive and who must assert)
+- When does it apply (what facts or circumstances support the privilege)
+- What does it cover or shield (scope)
+- Has there been a waiver
+- Is the privilege absolutish or qualified and if qualified what is needed to pierce
+
+---
 
 ### Attorney Client and Work Product
 
-Add rules and notes here
+**Rule 502** provides that an attorney cannot be compelled to reveal confidential communication between client and counsel made in course of seeking legal advice/services/counsel (legal counsel) (5 C’s).
+- {:.indent-2}Client holds privilege but attorney must assert it to protect client.
+- {:.indent-2}Does not require anticipation of litigation – just seeking legal advice in confidence
+- {:.indent-2}Does not cover ”things” or facts or communications to others; only communication to attorney in confidence – see examples 876 and 877 US v. Rhea p. 877-78
+- {:.indent-2}Joint clients: only privileged as to outsiders and any one of clients can waive for all and force attorney to testify
+- {:.indent-2}Does not protect communication with a client seeking assistance in committing a crime.
+The policy reason for Rule 502 is protecting the socially beneficial attorney client relationship and general privacy.
 
-### Spousal or Marital Privileges
+### Waiver
 
-Add rules and notes here, edit excerpts below
+Client’s privilege to waive (even work product)
 
-"The **marital communications privilege** covers "information privately disclosed between husband and wife in the confidence of the marital relationship . . . ." Trammel v. United States, 445 U.S. 40, 51, 100 S. Ct. 906, 63 L. Ed. 2d 186 (1980); The marital communications privilege belongs to both spouses, so either spouse may invoke the privilege to avoid testifying or to prevent the other from testifying about the privileged communication. The marital communications privilege exists "to ensure that spouses . . . feel free to communicate their deepest feelings  to each other without fear of eventual exposure in a court of law." United States v. Lofton, 957 F.2d 476, 477 (7th Cir. 1992), quoting Byrd, 750 F.2d at 590. The marital communications privilege applies even after the marriage has dissolved, but the protected subject matter includes only what one spouse communicates to the other, not what one spouse learns about the other in other ways, such as by observing the other's actions." (Brock)
+Inadvertent waiver: during discovery when otherwise protected information given to opposing counsel by mistake (e.g. sent over voluminous ESI data transfer) – potential to clawback and have opposing side which was inadvertently given the privileged material not use it.
 
-"The second marital privilege, the **spousal testimonial privilege**, applies to any adverse testimony one spouse might provide as a witness against the other in a criminal case.  It is both broader and narrower than the marital communications privilege. It is broader in that it covers testimony on any adverse facts, no matter how they might have become known to the witness-spouse. It is narrower in that it applies only to adverse testimony in a criminal case, and it applies only during the marriage. See Byrd, 750 F.2d at 590-91; United States v. Fisher, 518 F.2d 836, 838 (2d Cir. 1975). Until the Supreme Court's decision in Trammel, either spouse could invoke the spousal testimonial privilege, so that a defendant could prevent his spouse from testifying against him, even willingly. See, e.g., Hawkins v. United States, 358 U.S. 74, 78-79, 79 S. Ct. 136, 3 L. Ed. 2d 125 (1958). In Trammel v. United States, however, the Court modified the privilege so that only the witness-spouse can invoke the privilege to refuse to testify adversely." (Brock)
+If waiver deemed intentional or negligent including if client shares the confidential communication with someone else is waived and once waived remains waived.
 
+### Work product
+
+Protects documents / materials prepared by either attorney or client – including materials they request to be prepared)
+
+When prepared in anticipation (broadly construed) of litigation. E.g., not routinely prepared reports or documents that might be used in litigation – must be prepared in anticipation of litigation
+
+**Work product privilege absolute-ish vs qualified privilege:
+
+| Absolute-ish | Qualified |
+| Confidential communications between client and counsel for counsel (5C’s) | Facts about case developed through Attorney’s own investigation |
+| Attorney’s notes that show thought process, legal research, planning, theories of case, etc. | Any documents prepared in anticipation of litigation  (broadly defined) by client (because work  product containing facts about dispute) |
+
+Qualified privilege may be obtained by opposing party if shows substantial need and undue hardship (high bar, see UpJohn).
+
+- {:.indent-2}**Upjohn** (Corporate attorney-client privilege belongs to corporation and covers information provided by employees within the scope of their employment relationship)
+
+- {:.indent-2}**Hedden v Kean University** (email from Sharp [university employee, witness for plaintiff] to Tripoli [defendant’s GC] not Sharp's to waive because attorney-client privilege did not belong to Sharp)
+
+- {:.indent-2}**United States v. Lentz** (Lentz waived attorney-client privilege because knew calls from prison were being monitored)
+
+---
+
+## Spousal or Marital Privileges
+
+The spousal or marital privilege is based on the policy rationale that disclosing confidential marital communications undermines the marital relationship and civilized society should not compel spouses to be the means of the other spouse’s conviction as long as married (but we can ask if they would like to help convict their spouse) plus general privacy.
+
+The **marital communications privilege** covers information privately disclosed between husband and wife in the confidence of the marital relationship . The marital communications privilege belongs to both spouses, so either spouse may invoke the privilege to avoid testifying or to prevent the other from testifying about the privileged communication. The marital communications privilege exists to ensure that spouses feel free to communicate their deepest feelings  to each other without fear of eventual exposure in a court of law. The marital communications privilege applies even after the marriage has dissolved, but the protected subject matter includes only what one spouse communicates to the other, not what one spouse learns about the other in other ways, such as by observing the other's actions.
+
+The **spousal testimonial privilege** applies to any adverse testimony one spouse might provide as a witness against the other in a criminal case.  It is both broader and narrower than the marital communications privilege. It is broader in that it covers testimony on any adverse facts, no matter how they might have become known to the witness-spouse. It is narrower in that it applies **only to adverse testimony in a criminal case**, and it applies **only during the marriage**. Only the witness-spouse can invoke the privilege to refuse to testify adversely.
+
+| Marital communication privilege | spousal testimonial privilege |
+| All judicial proceedings (criminal or civil) | Only applies in criminal proceedings
+ |
+| Confidential communication made during marriage when no one else can hear | ... |
+| Only covers what one spouse communicates to another, during the marriage
+ | Covers information learned prior to marriage |
+| Does not cover what spouse may have learned by observing | covers any adverse facts regardless of how learned |
+| Applies after dissolution of marriage | Only applies during marriage |
+| Privilege belongs to both spouses (both must agree to waive) | Only witness-spouse can invoke/waive |
+| Covers information privately disclosed between spouses | Only applies to testimony (can be forced to provide finger prints, handwriting samples, etc. |
+| Exception for intra-family crimes | Exception for intra-family crimes |
+| Exception for divorce and custody between spouses | --- |
+
+- {:.indent-2}**United States v. Brock** (Ms. Brock waived marital communications privilege and spousal testimony privilege when during preliminary investigation she told police that she had seen husband handle weapons and shoot possums, and husband had asked her to move firearms from house to car)
 
 ---
 
