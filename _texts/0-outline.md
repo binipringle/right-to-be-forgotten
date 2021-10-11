@@ -266,7 +266,7 @@ If evidence is admitted under Rule 609, a party can still use **Rule 403** to ar
 (3) an adult’s conviction for that offense would be admissible to attack the adult’s credibility; and
 (4) admitting the evidence is necessary to fairly determine guilt or innocence.
 
-The policy reason for this rule is that the law promotes the rehabilitation of juvenile offenders by limiting disclosure of their convictions. 
+The policy reason for this rule is that the law promotes the rehabilitation of juvenile offenders by limiting disclosure of their convictions.
 
 ---
 
@@ -274,19 +274,24 @@ The policy reason for this rule is that the law promotes the rehabilitation of j
 
 **Rule 407** excludes relevant evidence to promote socially valuable activities or protect socially valuable relationships. These are (1) encouraging defendants to make repairs promptly without worrying about the effects of those repairs on pending litigation, and (2) protecting plaintiffs from prejudice that could arise from the jury interpreting subsequent remedial measures taken by the plaintiff as an admission of fault.
 
-When measures are taken that would have made an earlier injury or harm less likely to occur, evidence of the subsequent measures is **not admissible** to prove:
-- negligence;
-- culpable conduct;
-- a defect in a product or its design; or
-- a need for a warning or instruction.
-But the court **may admit** this evidence when the remedial measure is taken by a non-party or when it is offered for another purpose, such as:
-- {:.indent-2}to proving ownership and/or control;
-- {:.indent-2}to proving feasibility of precautionary measures; and/or
+When measures are taken that would have made an earlier injury or harm less likely to occur, evidence of the subsequent measures is
+
+**not admissible** to prove:
+- {:.indent-2}negligence;
+- {:.indent-2}culpable conduct;
+- {:.indent-2}a defect in a product or its design; or
+- {:.indent-2}a need for a warning or instruction.
+
+but **admissible** when offered for another purpose, such as:
+- {:.indent-2}to to prove ownership and/or control;
+- {:.indent-2}to to prove feasibility of precautionary measures; and/or
 - {:.indent-2}to to impeach a witness.
+
+The court **may admit** evidence of the remedial measure if it was taken by a non-party.
 
 Rule 407 is also based on specific concerns that the evidence the rules limit or exclude will often fail the Rule 403 balancing test.
 - {:.indent-2}**Concerns about the evidence’s probative value** are that even when evidence is admissible under Rule 407 with a limiting instruction, it can be difficult to explain to the jury how to apply the evidence for impeachment or feasibility but not for liability.
-- {:.indent-2}**A concern about unfair prejudice specific to admitting evidence of a subsequent remedial measure** is that if the evidence is admissible under Rule 407 but the judge applies Rule 403 at the defendant’s request, the prejudice still has to substantially outweigh the probative value of the evidence as required by Rule 403. Because a substantial remedial measure is often highly probative, Rule 403 will often not keep the evidence out.    
+- {:.indent-2}**Concern about unfair prejudice specific to admitting evidence of a subsequent remedial measure** is that if the evidence is admissible under Rule 407 but the judge applies Rule 403 at the defendant’s request, the prejudice still has to substantially outweigh the probative value of the evidence as required by Rule 403. Because a substantial remedial measure is often highly probative, Rule 403 will often not keep the evidence out.    
 
 - {:.indent-2}**Hunter-McLeod v. Dollar Gen., Eastern District of Pennsylvania 2014 U.S. District. LEXIS 129177, CIVIL ACTION NO. 13-3113** (video surveillance footage showing store employee putting cardboard on the floor where plaintiff fell is inadmissible as evidence of subsequent remedial measures because it does not directly contradict employee's witness testimony.)
 
