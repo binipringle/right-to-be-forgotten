@@ -100,11 +100,13 @@ A **substantial right of a party** is affected when there is a reasonable probab
 
 **Plain error** is an error that is so egregious that a reasonable person would lose faith in the justice system. A court may take notice of a plain error affecting a substantial right, even if the claim of error was not properly preserved. **103(e).**
 
+What triggers the difference standards of review - plain error and abuse of discretion - is whether objection was made in a timely and specific manner. If the objection was made in a timely and specific manner, the court applies abuse of discretion. If the objection was **not** made in a timely and specific manner, the court applies plain error.
+
 - {:.indent-2}**U.S. v. Gomez-Norena (9th Cir. 1990)** (district court did not commit plain error by admitting the drug courier profile testimony for the limited purpose of providing the jury with background information).
 
-- {:.indent-2}****U.S. v. Smalls (10th Cir. 2014)** (while incarcerated accused of murdering other incarcerated person, who had asthma, by smothering; raised four evidentiary objections; appellate court reviewed for abuse of discretion considering the record as a whole and found no plain error; "The plain error standard presents a heavy burden for an appellant" and "is to be used sparingly.")
+- {:.indent-2}**U.S. v. Smalls (10th Cir. 2014)** (while incarcerated accused of murdering other incarcerated person, who had asthma, by smothering; raised four evidentiary objections; appellate court reviewed for abuse of discretion considering the record as a whole and found no plain error; "The plain error standard presents a heavy burden for an appellant" and "is to be used sparingly.")
 
-To be successful on appeal, an appellant must convince the appellate court that the trial judge’s evidentiary determination was **both** (1) (a) abuse of discretion and (b) plain error, **and** (2) a substantial right was violated.
+To be successful on appeal, an appellant must convince the appellate court that the trial judge’s evidentiary determination was **both** (1) (a) abuse of discretion **or** (b) plain error, **and** (2) a substantial right was violated.
 
 **Reversible error** is an error by a trial judge that affects a substantial right of a party.
 
@@ -119,6 +121,7 @@ A **limiting instruction** is an instruction from the judge to the jury, telling
 **Rule 105** provides that if the court admits evidence that is admissible for one purpose (or against one party) but not another, the court, on timely request, must restrict the evidence to its proper scope and instruct the jury accordingly. Such instructions are not always easy for juries to follow, but the courts need to suppose that juries will follow instructions. Relying on that supposition, Rule 105 aims to ensure that proceedings are fair.
 
 ---
+
 ## VI. Preliminary Questions
 
 **Rule 104(a)** provides that the court must decide any preliminary question about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. In so deciding, the court is not bound by evidence rules, except those on privilege. Whoever wants the evidence in has the burden of proof. (standard of proof is a preponderance of the evidence).
@@ -272,7 +275,7 @@ The policy reason for this rule is that the law promotes the rehabilitation of j
 
 ## XI. Subsequent Remedial Measures
 
-**Rule 407** excludes relevant evidence to promote socially valuable activities or protect socially valuable relationships. These are (1) encouraging defendants to make repairs promptly without worrying about the effects of those repairs on pending litigation, and (2) protecting plaintiffs from prejudice that could arise from the jury interpreting subsequent remedial measures taken by the plaintiff as an admission of fault.
+**Rule 407** excludes relevant evidence in order to promote socially valuable activities or protect socially valuable relationships. These are (1) encouraging defendants to make repairs promptly without worrying about the effects of those repairs on pending litigation, and (2) protecting plaintiffs from prejudice that could arise from the jury interpreting subsequent remedial measures taken by the plaintiff as an admission of fault.
 
 When measures are taken that would have made an earlier injury or harm less likely to occur, evidence of the subsequent measures is
 
@@ -287,7 +290,9 @@ but **admissible** when offered for another purpose, such as:
 - {:.indent-2}to to prove feasibility of precautionary measures; and/or
 - {:.indent-2}to to impeach a witness.
 
-The court **may admit** evidence of the remedial measure if it was taken by a non-party.
+The court **may admit** evidence of the remedial measure **if it was taken by a non-party.**
+
+*A third party who makes a similar product or holds a similar event is completely outside of Rule 407 so you don't have to wait until the defendant denies feasibility to bring third-party evidence in.*
 
 Rule 407 is also based on specific concerns that the evidence the rules limit or exclude will often fail the Rule 403 balancing test.
 - {:.indent-2}**Concerns about the evidence’s probative value** are that even when evidence is admissible under Rule 407 with a limiting instruction, it can be difficult to explain to the jury how to apply the evidence for impeachment or feasibility but not for liability.
