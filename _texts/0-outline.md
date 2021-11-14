@@ -12,9 +12,11 @@ toc:
 - Rule 401 Relevance
 - Rule 402 Admissibility of Relevant Evidence
 - Rule 403 Prejudice
-- IX. Witness Competency
-- X. Witness Impeachment
+- Rules 601 602 603 Witness Competency
+- Rule 607 Who May Impeach a Witness
+- Extrinsic Evidence Collateral and Non Collateral
 - Bias
+- Rule 608a Reputation or Opinion Evidence to Show Witness Character for Truthfulness or Untruthfulness
 - Prior Inconsistent Statement
 - Witness Impeachment for Character for Untruthfulness
 - Witness Impeachment for Prior Convictions to Show Character for Untruthfulness
@@ -81,11 +83,11 @@ Relevance is a relationship  - it depends on the cause of action / charge / clai
 
 401 and 403 often play off each other.
 
-[^1]:U.S. v. Roger Stone (USDC for District of Columbia, 2019) *illustrates 401 Relevance* (Movie clip from the Godfather is relevant to place defendant’s statements about Frank Panganeli in context by showing the jury the image that Stone intended to evoke in Person 2’s mind when he named Panganeli)
+[^1]:U.S. v. Roger Stone (USDC for District of Columbia, 2019) *illustrates Relevance (Rule 401)* (Movie clip from the Godfather is relevant to place defendant’s statements about Frank Panganeli in context by showing the jury the image that Stone intended to evoke in Person 2’s mind when he named Panganeli)
 
-[^2]:Wielgus v. Ryobi Techs., Inc. (Northern District of Illinois, Eastern Division, 2012) *illustrates 401 Relevance* (motion in limine to bar plaintiff from presenting video and in-court demonstrations of SawStop Technology on model not substantially similar to model that caused injury denied without prejudice because SawStop functions in the same manner on both models and the probative value of the demonstration could substantially outweigh the danger of any unfair prejudice)
+[^2]:Wielgus v. Ryobi Techs., Inc. (Northern District of Illinois, Eastern Division, 2012) *illustrates Relevance (Rule 401)* (motion in limine to bar plaintiff from presenting video and in-court demonstrations of SawStop Technology on model not substantially similar to model that caused injury denied without prejudice because SawStop functions in the same manner on both models and the probative value of the demonstration could substantially outweigh the danger of any unfair prejudice)
 
-[^3]:U.S. v. Boros (7th Cir. 2012) *illustrates 401 Relevance* (admission of doctor's testimony about types of medications Boros sold over internet had minimal relevance and low probative value but trial court allowed because provided context for jury so it met the low bar for relevance)
+[^3]:U.S. v. Boros (7th Cir. 2012) *illustrates Relevance (Rule 401)* (admission of doctor's testimony about types of medications Boros sold over internet had minimal relevance and low probative value but trial court allowed because provided context for jury so it met the low bar for relevance)
 
 ---
 
@@ -99,49 +101,51 @@ Relevance is a relationship  - it depends on the cause of action / charge / clai
 
 Under **Rule 403**, a judge **may** exclude evidence it considers unfairly prejudicial. Relevant evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence will mislead a jury by leading the jury to make a decision on an improper ground, or by causing confusion, delay, or waste of time. Rule 403 provides judges with the means to counterbalance the broad admissibility of evidence that other rules allow so as to make proceedings fair, minimize expense, and help the court reach a just determination. [^4] [^5] [^6] [^7]
 
-[^4]:State v. Poe, 21 Utah 113 (1968) *illustrates 403 Prejudice* (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
+[^4]:State v. Poe, 21 Utah 113 (1968) *illustrates Prejudice (Rule 403)* (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
 
-[^5]:Haley, v. Gross, McKee, and Ellis, 86 F.3d 630 (7th Cir. 1996) *illustrates 403 Prejudice* (trial court did not abuse discretion by admitting photograph of burned cell with dead body of Haley's cellmate because while disturbing, its contents were highly relevant, and its very significant probative value was not substantially outweighed by danger of unfair prejudice; nor did trial court abuse discretion by admitting photograph of Haley in hospital severely burned and with leg shackles because not prejudicial)
+[^5]:Haley, v. Gross, McKee, and Ellis, 86 F.3d 630 (7th Cir. 1996) *illustrates Prejudice (Rule 403)* (trial court did not abuse discretion by admitting photograph of burned cell with dead body of Haley's cellmate because while disturbing, its contents were highly relevant, and its very significant probative value was not substantially outweighed by danger of unfair prejudice; nor did trial court abuse discretion by admitting photograph of Haley in hospital severely burned and with leg shackles because not prejudicial)
 
-[^6]:Old Chief *illustrates 403 Prejudice* (court reinforced general rule that parties can always present evidence even if other side is willing to stipulate to the evidence. But can also use 403 to say in a particular case the evidence should have been stipulated to because was unfairly prejudicial given the specific facts of the case.)
+[^6]:Old Chief *illustrates Prejudice (Rule 403)* (court reinforced general rule that parties can always present evidence even if other side is willing to stipulate to the evidence. But can also use 403 to say in a particular case the evidence should have been stipulated to because was unfairly prejudicial given the specific facts of the case.)
 
-[^7]:U.S. v. Boros** *illustrates 403 Prejudice* (dry testimony of doctor barely relevant but relevant because charge is conspiracy to import controlled substances. Prosecutor’s mistake was to use it in summation and talk about how people could have had miscarriages, could have died, which doesn’t have anything to do with the charge. Court says evidence not very probative but very prejudicial because people dying, having miscarriages.)
+[^7]:U.S. v. Boros *illustrates Prejudice (Rule 403)* (dry testimony of doctor barely relevant but relevant because charge is conspiracy to import controlled substances. Prosecutor’s mistake was to use it in summation and talk about how people could have had miscarriages, could have died, which doesn’t have anything to do with the charge. Court says evidence not very probative but very prejudicial because people dying, having miscarriages.)
 
 ---
 
 ## Rules 601 602 603 Witness Competency
 
-**Rule 601** states that every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. **Rule 602** limits Rule 601 by providing that a witness may testify to a matter only if the witness has personal knowledge of the matter. Evidence to prove personal knowledge may consist of the witness’s testimony. To have personal knowledge, a witness must (1) be able to perceive the events they are testifying to, (2) be able to understand and take an oath or affirmation that they will tell the truth (**Rule 603**), and (3) have memory (recall) of the events and the ability to narrate.
+**Rule 601** states that every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. **Rule 602** limits Rule 601 by providing that a witness may testify to a matter only if the witness has personal knowledge of the matter. Evidence to prove personal knowledge may consist of the witness’s testimony. To have personal knowledge, a witness must (1) be able to perceive the events they are testifying to, (2) be able to understand and take an oath or affirmation that they will tell the truth (**Rule 603**), and (3) have memory (recall) of the events and the ability to narrate. [^8] [^9]
 
-- {:.indent-2}**Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994)** (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
+[^8]:Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994) *illustrates Witness Competency (Rules 601, 602, 602)* (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
 
-- {:.indent-2}**United States v. Kelly 436 F.3d 992 (8th Cir. 2006)** (Kelly did not raise the issue of competency at trial, so appellate court reviews district court's decision for plain error)
+[^9]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates Witness Competency (Rules 601, 602, 602)* (Kelly did not raise the issue of competency at trial, so appellate court reviews district court's decision for plain error)
 
 ---
 
 ## Rules 607 611 613 Witness Impeachment
 
-Witnesses can be impeached for incompetency, bias, prior inconsistent statement and general character for untruthfulness. Sometimes, extrinsic evidence can be brought in to impeach. **Rules 607, 611, 613**.
+ **Rules 607, 611, 613**.
 
-**Extrinsic evidence** is any evidence other than testimony from the witness already on the stand.   
+## Rule 611 Control by the Court and Leading Questions
 
-**Collateral and non-collateral**. Extrinsic evidence can be collateral or non-collateral. A collateral matter is relevant to the case solely because it impeaches a witness. A non-collateral matter proves a fact of consequence other than impeachment.
+**Rule 611(a)** provides that the court should exercise reasonable control over procedures for examining witnesses and presenting evidence so as to (1) make those procedures effective for determining the truth; (2) avoid wasting time; and (3) protect witnesses from harassment or undue embarrassment.
 
-A **Leading question** can be asked in cross examination, but only about information that was provided in direct examination. You can also ask leading questions in redirect examination and recross examination but only about information provided in direct examination and cross examination (**Rule 611**).
-
----  
-
-## Bias
-
-“**Bias** is a term used in the ‘common law of evidence’ to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, his testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest.” (U.S. v. Abel)
-
-- {:.indent-2}**United States v. Abel 469 U.S. 45 (1984)** Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel (defendant accused of bank robbery) were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. This evidence is offered by the prosecution to rebut Mills (defendant’s witness)’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he (Ehle) was going to testify falsely against Abel. The prosecution brings the extrinsic evidence of membership in the secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.
+Under **Rule 611(b)** and **(c)**, leading questions can be asked in cross examination, but only about information that was provided in direct examination; and leading questions are allowed when a party calls a hostile witness, an adverse party, or a witness identified with an adverse party.
 
 ---
 
-## Prior Inconsistent Statement
+## Rule 607 Who May Impeach a Witness  
 
-Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent statement is admissible if the witness is given the opportunity to explain or deny the statement and the other party is given the opportunity to examine the witness about it. Implicit in Rule 613 is that counsel can question a witness about inconsistencies.
+Under **Rule 607**, any party, including the party that called the witness, may attack the witness’s credibility. Witnesses can be impeached for incompetency, bias, prior inconsistent statement and general character for untruthfulness. Sometimes, extrinsic evidence can be brought in to impeach.
+
+## Extrinsic Evidence Collateral and Non Collateral
+
+**Extrinsic evidence** is any evidence other than testimony from the witness already on the stand. Extrinsic evidence can be **collateral and non-collateral**. A **collateral matter** is relevant to the case solely because it impeaches a witness. A **non-collateral matter** proves a fact of consequence other than impeachment.
+
+---
+
+## Rule 613b Prior Inconsistent Statement
+
+Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent statement is admissible if the witness is given the opportunity to explain or deny the statement and the other party is given the opportunity to examine the witness about it, or if justice so requires. [^10] [^11]
 
 | Witness’s | governing rule | question on cross | offer extrinsic evidence |
 | Ability to perceive, recall, narrate | 601 | yes | yes |
@@ -152,9 +156,28 @@ Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent st
 
 Judges use their discretion under rules 403 and 611 to prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but parties may present extrinsic evidence of prior inconsistent statements related to non-collateral matters (Merritt 229).
 
-- {:.indent-2}**United States v. Kelly 436 F.3d 992 (8th Cir. 2006)** (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
+[^10]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates Prior Inconsistent Statement Rule 613(b)* (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
+[^11]:Taylor v. Cheddar's Casual Cafe, Inc. 2017 WL 157886 (W.D. La 2017)(unreported) *illustrates Prior Inconsistent Statement Rule 613(b)* (evidence of Young’s alleged theft from Cheddar’s is inadmissible because Young neither charged with nor convicted of a crime based on this allegation and there is no other relevant purpose for the admission of this evidence.) (Young’s statements to Cheddar’s’ management and the two insurance adjusters after Taylor’s fall at the restaurant are  inadmissible as hearsay if offered to prove the truth of the matter asserted, but nonetheless admissible for the purpose of impeachment by prior inconsistent statement.)
 
-- {:.indent-2}**Taylor v. Cheddar's Casual Cafe, Inc. 2017 WL 157886 (W.D. La 2017)(unreported)** (evidence of Young’s alleged theft from Cheddar’s is inadmissible because Young neither charged with nor convicted of a crime based on this allegation and there is no other relevant purpose for the admission of this evidence.) (Young’s statements to Cheddar’s’ management and the two insurance adjusters after Taylor’s fall at the restaurant are  inadmissible as hearsay if offered to prove the truth of the matter asserted, but nonetheless admissible for the purpose of impeachment by prior inconsistent statement.)
+---  
+
+## Bias
+
+“**Bias** is a term used in the ‘common law of evidence’ to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, his testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest.” (U.S. v. Abel) [^12]
+
+[^12]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias** (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
+
+---
+
+## Rule 608a Reputation or Opinion Evidence to Show Witness Character for Truthfulness or Untruthfulness
+
+**Rule 608(a)** states that a witness’s credibility may be attacked or supported by (a) testimony about the witness’s reputation for having a character for truthfulness or untruthfulness, or (b) testimony of an opinion about that character. Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked.
+
+---
+
+## Rule 608b Specific Instances of Conduct to Show Witness Character for Truthfulness or Untruthfulness
+
+**Rule 608(b)** provides that extrinsic evidence is not admissible to prove specific instances of a witness’s conduct in order to attack or support the witness’s character for truthfulness (except when criminal convictions under Rule 609). However, the court may allow questions about the extrinsic evidence on cross-examination if the extrinsic evidence is probative of the character for truthfulness or untruthfulness of (1) the witness; or (2) another witness whose character the witness being cross-examined has testified about.
 
 ---
 
