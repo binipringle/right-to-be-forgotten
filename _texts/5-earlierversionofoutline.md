@@ -31,12 +31,6 @@ toc:
 
 ---
 
-See [Glossary](https://binipringle.github.io/evidence/texts/8-glossary/) for terms.
-
-See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre) for law.
-
----
-
 ## I. Purpose
 
 The purposes of the Federal Rules of Evidence are to (1) help the jury reach a fair and just determination, (2) eliminate unjustifiable expense and delay, and (3) promote the development of evidence law. **Rule 102**.
