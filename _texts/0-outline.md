@@ -15,8 +15,11 @@ toc:
 - Rules 601 602 603 Witness Competency
 - Rule 607 Who May Impeach a Witness
 - Extrinsic Evidence Collateral and Non Collateral
+- Rule 613b Prior Inconsistent Statement
 - Bias
-- Rule 608a Reputation or Opinion Evidence to Show Witness Character for Truthfulness or Untruthfulness
+- Rules 404a1 and 608 Witness Impeachment for Character for Untruthfulness
+- Rule 608a Reputation or Opinion Testimony for Witness Character for Truthfulness or Untruthfulness
+- Rule 608b Specific Instances of Conduct for Witness Character for Truthfulness or Untruthfulness
 - Prior Inconsistent Statement
 - Witness Impeachment for Character for Untruthfulness
 - Witness Impeachment for Prior Convictions to Show Character for Untruthfulness
@@ -135,7 +138,11 @@ Under **Rule 611(b)** and **(c)**, leading questions can be asked in cross exami
 
 ## Rule 607 Who May Impeach a Witness  
 
-Under **Rule 607**, any party, including the party that called the witness, may attack the witness’s credibility. Witnesses can be impeached for incompetency, bias, prior inconsistent statement and general character for untruthfulness. Sometimes, extrinsic evidence can be brought in to impeach.
+Under **Rule 607**, any party, including the party that called the witness, may attack the witness’s credibility.
+
+Witnesses can be impeached for incompetency, bias, prior inconsistent statement and general character for untruthfulness. Sometimes, extrinsic evidence can be brought in to impeach.
+
+---
 
 ## Extrinsic Evidence Collateral and Non Collateral
 
@@ -165,67 +172,37 @@ Judges use their discretion under rules 403 and 611 to prohibit extrinsic eviden
 
 “**Bias** is a term used in the ‘common law of evidence’ to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, his testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest.” (U.S. v. Abel) [^12]
 
-[^12]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias** (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
+[^12]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias* (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
 
 ---
 
-## Rule 608a Reputation or Opinion Evidence to Show Witness Character for Truthfulness or Untruthfulness
+## Rules 404a1 and 608 Witness Impeachment for Character for Untruthfulness
 
-**Rule 608(a)** states that a witness’s credibility may be attacked or supported by (a) testimony about the witness’s reputation for having a character for truthfulness or untruthfulness, or (b) testimony of an opinion about that character. Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked.
+**Rule 404(a)(1)** provides that evidence of a person’s character or character trait is not admissible to prove that on a particular occasion the person acted in accordance with the character or trait. **Rule 404(a)** thus excludes most character evidence. **Rule 608** lets some character evidence back in by allowing **opinion or reputation evidence** to attack a fact witness’s character for truthfulness, and **inquiry into specific instances of conduct** to prove a witness’s character for truthfulness or untruthfulness, during cross-examination. [^13] [^14] [^15]
 
----
+[^13]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
 
-## Rule 608b Specific Instances of Conduct to Show Witness Character for Truthfulness or Untruthfulness
+[^14]:United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
 
-**Rule 608(b)** provides that extrinsic evidence is not admissible to prove specific instances of a witness’s conduct in order to attack or support the witness’s character for truthfulness (except when criminal convictions under Rule 609). However, the court may allow questions about the extrinsic evidence on cross-examination if the extrinsic evidence is probative of the character for truthfulness or untruthfulness of (1) the witness; or (2) another witness whose character the witness being cross-examined has testified about.
-
----
-
-## Witness Impeachment for Character for Untruthfulness
-
-**Rule 404(a)(1)** provides that evidence of a person’s character or character trait is not admissible to prove that on a particular occasion the person acted in accordance with the character or trait. **Rule 404(a)** thus excludes most character evidence. **Rule 608** lets some character evidence back in by allowing inquiry into specific instances of conduct probative of the witness’s character for truthfulness or untruthfulness, during cross-examination.
-
-**Rule 608(a)** allows any party to offer opinion or reputation evidence to attack a fact witness’s character for truthfulness.
-
-- {:.indent-2}**Renda v. King 347 F.3d 550 (3d Cir. 2003)** (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
-
-- {:.indent-2}**United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985)** (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
-
-**Rule 608(b)** allows the attorney during cross-examination to inquire into specific instances of a witness’s conduct to prove truthfulness or untruthfulness. When the attorney inquires into specific instances of a witness’s conduct under 608(b), they are attempting to get the jury to infer that because the witness has a character for truthfulness or untruthfulness, it is more or less likely that the witness’s testimony is true.
-
-- {:.indent-2}**United States v. Martinez 923 F.3d 806 (10th Cir. 2019)** (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case (his intent), not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity.”] If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.)
-
+[^15]:United States v. Martinez 923 F.3d 806 (10th Cir. 2019) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case [his intent], not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity"]. "If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.")
 
 ---
 
-## Witness Impeachment for Prior Convictions to Show Character for Untruthfulness
+## Rule 608a Reputation or Opinion Testimony for Witness Character for Truthfulness or Untruthfulness
 
-Under **Rule 609(a)(1)(A)**, evidence of convictions for crimes punishable by death or by imprisonment for more than one year must be admitted in a civil or criminal case in which the witness is a not a defendant. If the witness is a defendant in a criminal case, **Rule 609(a)(1)(B)** provides that evidence of convictions for crimes punishable by death or by imprisonment for more than one year must be admitted if the probative value of the evidence outweighs its prejudicial effect to that defendant. The policy reason for 609(a)(1) is that “commission of a felony-grade offense bespeaks a willingness to disregard social norms, and therefore bears on the likelihood that a witness would testify truthfully.” (U.S. v. Barr citing Caldwell). In considering whether probativeness outweighs prejudice under Rule 609, courts use a special balancing test with five factors, which are
-- {:.indent-2}(1) the impeachment value of the former crime (the kind of crime involved);
-- {:.indent-2}(2) when the conviction occurred and subsequent criminality;
-- {:.indent-2}(3) the similarity of between the prior crime and the charged one;
-- {:.indent-2}(4) the importance of the defendant's testimony for presenting the case; and
-- {:.indent-2}(5) the degree to which the defendant's credibility is central to the case.
+**Rule 608(a)** states that a witness’s credibility may be attacked or supported by (a) testimony about the witness’s reputation for having a character for truthfulness or untruthfulness, or (b) testimony of an opinion about that character. **Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked.**
 
-**Rule 609(a)(1)(2)** states that any crime, regardless of the punishment, must be admitted if their establishment proved that the witness committed a dishonest act or false statement. A dishonest act is fraud, misrepresentation or theft. A misdemeanor involving a dishonest act that (a) was committed as adult and (b) for which conviction occurred ten years ago or less is automatically admitted. No balancing test applies.
+---
 
-**Rule 609(b)** puts a limit on using evidence of a conviction if more than 10 years have passed since the witness’s conviction or release from confinement for it, whichever is later. Evidence of the conviction is admissible only if:
-- {:.indent-2}(1) its probative value, supported by specific facts and circumstances, substantially outweighs its prejudicial effect; and
-- {:.indent-2}(2) the proponent gives an adverse party reasonable written notice of the intent to use it so that the party has a fair opportunity to contest its use.
+## Rule 608b Specific Instances of Conduct for Witness Character for Truthfulness or Untruthfulness
 
-If evidence is admitted under Rule 609, a party can still use **Rule 403** to argue that the probative value of the evidence to prove the witness’s general character for truthfulness or untruthfulness is substantially outweighed by unfair prejudice.
+Extrinsic evidence is not admissible to prove specific instances of a witness’s conduct in order to attack or support the witness’s character for truthfulness (except when criminal convictions under Rule 609). However, **Rule 608(b)** allows the attorney during cross-examination to ask questions about specific instances of a witness’s conduct to prove truthfulness or untruthfulness. The attorney's purpose is to get the jury to infer that because the witness has a character for truthfulness or untruthfulness, it is more or less likely that the witness’s current testimony is true.
 
-- {:.indent-2}**United States v. Barr U.S. District Court for the District of New Jersey 2015 U.S. Dist. LEXIS 150864** (court allowed evidence of one of two prior felony convictions for drug dealing and did not permit the other. Allows one because [1] felony-grade offense relevant to credibility; [2] drug dealing not similar to current offense of illegal possession of a weapon so not prejudicial for similarity; [3] prior conviction not more than ten years old; and [4] defendant only relevant fact witness for defense so testimony is critical. Judge issued limiting instruction that jury only consider convictions for impeachment. Did not permit evidence of second conviction because second very similar drug felony cumulative of the first.)
+---
 
-- {:.indent-2}**United States v.Casarez 2018 WL 3340871 (D. Nevada 2018) (unreported)** (court allows evidence of prior convictions substantially similar to current charges for purpose of impeachment but instructs prosecution to refer to them as “felonies.” Denies defendant's motion to impeach victim for prior conviction because defendant failed to show that victim's impeachment would be more probative than prejudicial. Allows defendant to impeach witness for prior convictions because no reason to believe violates Rule 403.).
+## Rule 609 Witness Impeachment for Prior Convictions to Show Character for Untruthfulness
 
-**Rule 609(d)** provides that evidence of a **juvenile adjudication** is admissible only if:
-(1) it is offered in a criminal case;
-(2) the adjudication was of a witness other than the defendant;
-(3) an adult’s conviction for that offense would be admissible to attack the adult’s credibility; and
-(4) admitting the evidence is necessary to fairly determine guilt or innocence.
-
-The policy reason for this rule is that the law promotes the rehabilitation of juvenile offenders by limiting disclosure of their convictions.
+Rule 609 will not be on the final. For a breakdown of Rule 609 see [earlier version of outline](https://binipringle.github.io/evidence/texts/5-earlierversionofoutline/).
 
 ---
 
