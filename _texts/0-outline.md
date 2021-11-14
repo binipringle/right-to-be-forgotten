@@ -7,7 +7,7 @@ source:
 toc:
 - Rule 102 Purpose
 - Rule 104 Preliminary Questions
-- Rule 901(a) Authentication
+- Rule 901a Authentication
 - Rule 105 Limiting Instructions
 - Rule 401 Relevance
 - Rule 402 Admissibility of Relevant Evidence
@@ -57,7 +57,7 @@ The standard of proof for a judge's evidentiary decisions is a preponderance of 
 
 ---
 
-## Rule 901(a) Authentication
+## Rule 901a Authentication
 
 **Rule 901(a)** requires that evidence be authenticated. To authenticate evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be.
 
@@ -81,11 +81,11 @@ Relevance is a relationship  - it depends on the cause of action / charge / clai
 
 401 and 403 often play off each other.
 
-[^1]:U.S. v. Roger Stone (USDC for District of Columbia, 2019) (Movie clip from the Godfather is relevant to place defendant’s statements about Frank Panganeli in context by showing the jury the image that Stone intended to evoke in Person 2’s mind when he named Panganeli)
+[^1]:U.S. v. Roger Stone (USDC for District of Columbia, 2019) *illustrates 401 Relevance* (Movie clip from the Godfather is relevant to place defendant’s statements about Frank Panganeli in context by showing the jury the image that Stone intended to evoke in Person 2’s mind when he named Panganeli)
 
-[^2]:Wielgus v. Ryobi Techs., Inc. (Northern District of Illinois, Eastern Division, 2012) (motion in limine to bar plaintiff from presenting video and in-court demonstrations of SawStop Technology on model not substantially similar to model that caused injury denied without prejudice because SawStop functions in the same manner on both models and the probative value of the demonstration could substantially outweigh the danger of any unfair prejudice)
+[^2]:Wielgus v. Ryobi Techs., Inc. (Northern District of Illinois, Eastern Division, 2012) *illustrates 401 Relevance* (motion in limine to bar plaintiff from presenting video and in-court demonstrations of SawStop Technology on model not substantially similar to model that caused injury denied without prejudice because SawStop functions in the same manner on both models and the probative value of the demonstration could substantially outweigh the danger of any unfair prejudice)
 
-[^3]:U.S. v. Boros (7th Cir. 2012) (admission of doctor's testimony about types of medications Boros sold over internet had minimal relevance and low probative value but trial court allowed because provided context for jury so it met the low bar for relevance)
+[^3]:U.S. v. Boros (7th Cir. 2012) *illustrates 401 Relevance* (admission of doctor's testimony about types of medications Boros sold over internet had minimal relevance and low probative value but trial court allowed because provided context for jury so it met the low bar for relevance)
 
 ---
 
@@ -99,20 +99,19 @@ Relevance is a relationship  - it depends on the cause of action / charge / clai
 
 Under **Rule 403**, a judge **may** exclude evidence it considers unfairly prejudicial. Relevant evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence will mislead a jury by leading the jury to make a decision on an improper ground, or by causing confusion, delay, or waste of time. Rule 403 provides judges with the means to counterbalance the broad admissibility of evidence that other rules allow so as to make proceedings fair, minimize expense, and help the court reach a just determination. [^4] [^5] [^6] [^7]
 
-[^4]:State v. Poe, 21 Utah 113 (1968) (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
+[^4]:State v. Poe, 21 Utah 113 (1968) *illustrates 403 Prejudice* (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
 
-[^5]:Haley, v. Gross, McKee, and Ellis, 86 F.3d 630 (7th Cir. 1996) (trial court did not abuse discretion by admitting photograph of burned cell with dead body of Haley's cellmate because while disturbing, its contents were highly relevant, and its very significant probative value was not substantially outweighed by danger of unfair prejudice; nor did trial court abuse discretion by admitting photograph of Haley in hospital severely burned and with leg shackles because not prejudicial)
+[^5]:Haley, v. Gross, McKee, and Ellis, 86 F.3d 630 (7th Cir. 1996) *illustrates 403 Prejudice* (trial court did not abuse discretion by admitting photograph of burned cell with dead body of Haley's cellmate because while disturbing, its contents were highly relevant, and its very significant probative value was not substantially outweighed by danger of unfair prejudice; nor did trial court abuse discretion by admitting photograph of Haley in hospital severely burned and with leg shackles because not prejudicial)
 
-[^6]:Old Chief (court reinforced general rule that parties can always present evidence even if other side is willing to stipulate to the evidence. But can also use 403 to say in a particular case the evidence should have been stipulated to because was unfairly prejudicial given the specific facts of the case.)
+[^6]:Old Chief *illustrates 403 Prejudice* (court reinforced general rule that parties can always present evidence even if other side is willing to stipulate to the evidence. But can also use 403 to say in a particular case the evidence should have been stipulated to because was unfairly prejudicial given the specific facts of the case.)
 
-[^7]:U.S. v. Boros** (dry testimony of doctor barely relevant but relevant because charge is conspiracy to import controlled substances. Prosecutor’s mistake was to use it in summation and talk about how people could have had miscarriages, could have died, which doesn’t have anything to do with the charge. Court says evidence not very probative.
-Court says evidence very prejudicial because people dying, having miscarriages.)
+[^7]:U.S. v. Boros** *illustrates 403 Prejudice* (dry testimony of doctor barely relevant but relevant because charge is conspiracy to import controlled substances. Prosecutor’s mistake was to use it in summation and talk about how people could have had miscarriages, could have died, which doesn’t have anything to do with the charge. Court says evidence not very probative but very prejudicial because people dying, having miscarriages.)
 
 ---
 
 ## Rules 601 602 603 Witness Competency
 
-**Rule 601** states that every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. **Rule 602** limits Rule 601 by providing that a witness may testify to a matter only if the witness has personal knowledge of the matter. Evidence to prove personal knowledge may consist of the witness’s testimony. To have personal knowledge, a witness must (1) be able to perceive the events they are testifying to, (2) be able to understand and take an oath or affirmation that they will tell the truth (**Rule 603**), and (3) have memory (recall) of the events and the ability to narrate. 
+**Rule 601** states that every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. **Rule 602** limits Rule 601 by providing that a witness may testify to a matter only if the witness has personal knowledge of the matter. Evidence to prove personal knowledge may consist of the witness’s testimony. To have personal knowledge, a witness must (1) be able to perceive the events they are testifying to, (2) be able to understand and take an oath or affirmation that they will tell the truth (**Rule 603**), and (3) have memory (recall) of the events and the ability to narrate.
 
 - {:.indent-2}**Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994)** (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
 
