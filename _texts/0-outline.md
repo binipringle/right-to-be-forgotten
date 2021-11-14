@@ -5,15 +5,13 @@ author:
 editor: Sabina Pringle
 source:
 toc:
-- I. Purpose
-- II. Authentication
-- Types of evidence
-- III. Raising and Resolving Evidentiary Objections
-- IV. Preserving Claims of Error
-- V. Limiting Instructions
-- VI. Preliminary Questions
-- VII. Relevance
-- VIII. Prejudice
+- Rule 102 Purpose
+- Rule 104 Preliminary Questions
+- Rule 901(a) Authentication
+- Rule 105 Limiting Instructions
+- Rule 401 Relevance
+- Rule 402 Admissibility of Relevant Evidence
+- Rule 403 Prejudice
 - IX. Witness Competency
 - X. Witness Impeachment
 - Bias
@@ -37,151 +35,84 @@ See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre
 
 ---
 
-## I. Purpose
+## Rule 102 Purpose
 
 The purposes of the Federal Rules of Evidence are to (1) help the jury reach a fair and just determination, (2) eliminate unjustifiable expense and delay, and (3) promote the development of evidence law. **Rule 102**.
 
 ---
 
-## II. Authentication
+## Rule 104 Preliminary Questions
 
-**Rule 901(a)** requires that evidence be authenticated. To authenticate evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be.
+Trial judges are given enormous discretion in determining whether evidence should be admitted or excluded.
 
-### Types of evidence
-
-**Oral testimony:**
-
-- {:.indent-2}**Fact witnesses** are people who perceived facts related to the lawsuit and testify about those facts.
-- {:.indent-2}**Expert witnesses** use specialized knowledge to interpret evidence or explain it to the jury.
-- {:.indent-2}**Character witnesses** offer information about the "good" or "bad" character of a party or witness.
-
-**Real evidence** is “any physical evidence that a party claims played a direct role in the controversy.”
-
-**Documentary evidence** is any type of writing or recording of information.
-
-**Demonstrative evidence** is an object that did not play a role in the disputed events. Charts, tables, pictures, maps and graphs are common types of demonstrative evidence.
-
-**Stipulations** are when both parties agree on a fact. When they do, they can stipulate that the fact is true for the purposes of litigation.
-
-**Judicial Notice**: “if a fact is indisputably true (…) the trial judge can take judicial notice of the fact.” The fact must be either “generally known” or “accurately and readily determined.” (p. 10)
-
-**Circumstantial evidence** (FRE does not use this phrase) is “any evidence that requires the jury to make an inference connecting the evidence with a disputed fact.” Compare with direct evidence.
-
-**Direct evidence** directly establishes a contested fact and requires no inferential bridge.
-
-**Indirect evidence** requires more inferential leaps.
-
----
-
-## III. Raising and resolving evidentiary objections
-
-**Motion to suppress** is a pretrial motion that argues that the opposing party’s evidence was illegally obtained.
-
-**Motion in limine** is a pretrial motion to exclude evidence. "The purpose of such motions is to perform a gatekeeping function and permit the trial judge to eliminate from further consideration evidentiary submissions that clearly ought not to be presented to the jury because they clearly would be inadmissible for any purpose. … The moving party bears the burden of demonstrating blanket inadmissibility." (Wielgus v. Ryobi Techs [table saw case])
-
-**Objection** is made in trial to stop the other party from admitting evidence not allowed by the FRE. An objection is made before the evidence is admitted. If evidence is inadmissible but a party does not object in time and/or fails to state the specific ground of the objection, the evidence might be admitted.
-
-**Motion to strike** is made in trial when an item of evidence not allowed by the FRE has already entered the record.  A motion to strike is a recourse a party uses when they weren’t fast enough to forestall objectionable evidence; if the motion to strike is granted, the judge tells the jury that the item is struck from the evidence and they should ignore.  
-
-**Offer of proof**. If one party objects to the evidence they can make an offer of proof to show the judge what the evidence entails. *If the party doesn’t make the offer of proof, the party waives the right to object on appeal.* If the substance of the evidence is apparent from the context, the party doesn’t have to make an offer of proof. ( pp. 44-45)
-
----
-
-## IV. Preserving Claims of Error
-
-**Rule 103**. If there was an error in an evidentiary ruling, a party may claim error if the erroneous ruling affects a substantial right of the party **and**
-
-- {:.indent-2}(I) if the ruling admits evidence, a party
-- {:.indent-4}(A) timely objects or moves to strike; **and**
-- {:.indent-4}(B) states the specific ground, unless it was apparent from the context; **or**
-- {:.indent-2}(II) if the ruling excludes evidence, a party informs the court of its substance by an offer of proof, unless the substance was apparent from the context.
-
-A **substantial right of a party** is affected when there is a reasonable probability that had the judge not made the error, the outcome of the trial would have been different.
-
-**Plain error** is an error that is so egregious that a reasonable person would lose faith in the justice system. A court may take notice of a plain error affecting a substantial right, even if the claim of error was not properly preserved. **103(e).**
-
-What triggers the difference standards of review - plain error and abuse of discretion - is whether objection was made in a timely and specific manner. If the objection was made in a timely and specific manner, the court applies abuse of discretion. If the objection was **not** made in a timely and specific manner, the court applies plain error.
-
-- {:.indent-2}**U.S. v. Gomez-Norena (9th Cir. 1990)** (district court did not commit plain error by admitting the drug courier profile testimony for the limited purpose of providing the jury with background information).
-
-- {:.indent-2}**U.S. v. Smalls (10th Cir. 2014)** (while incarcerated accused of murdering other incarcerated person, who had asthma, by smothering; raised four evidentiary objections; appellate court reviewed for abuse of discretion considering the record as a whole and found no plain error; "The plain error standard presents a heavy burden for an appellant" and "is to be used sparingly.")
-
-To be successful on appeal, an appellant must convince the appellate court that the trial judge’s evidentiary determination was **both** (1) (a) abuse of discretion **or** (b) plain error, **and** (2) a substantial right was violated.
-
-**Reversible error** is an error by a trial judge that affects a substantial right of a party.
-
-**Harmless error** is when the error did not affect a substantial right because there was other evidence that supported the trial verdict.  
-
----
-
-## V. Limiting Instructions
-
-A **limiting instruction** is an instruction from the judge to the jury, telling the jury to disregard evidence for a specific purpose or against a party.
-
-**Rule 105** provides that if the court admits evidence that is admissible for one purpose (or against one party) but not another, the court, on timely request, must restrict the evidence to its proper scope and instruct the jury accordingly. Such instructions are not always easy for juries to follow, but the courts need to suppose that juries will follow instructions. Relying on that supposition, Rule 105 aims to ensure that proceedings are fair.
-
----
-
-## VI. Preliminary Questions
-
-**Rule 104(a)** provides that the court must decide any preliminary question about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. In so deciding, the court is not bound by evidence rules, except those on privilege. Whoever wants the evidence in has the burden of proof. (standard of proof is a preponderance of the evidence).
+**Rule 104(a)** provides that the court must decide any preliminary question about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. In so deciding, the court is not bound by evidence rules, except those on privilege. The burden of proof is on the party offering the evidence.  
 
 **Rule 104(b)** provides that when the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist.
 
-- {:.indent-2}**Dowling v. U.S. (1990)** (Dowling accused of robbing bank wearing ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt; however, a reasonable jury could still find by a preponderance of the evidence that Dowling robbed the house)
+The standard of proof for a judge's evidentiary decisions is a preponderance of the evidence standard. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission of the evidence are true. This is in keeping with the idea behind rules that all relevant evidence should be admitted unless it is excluded by a rule or precedent.
+
+- {:.indent-2}**Dowling v. U.S. (1990)** (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
+
+**Rule 104(c)** The court must conduct any hearing on a preliminary question so that the jury cannot hear it if (1) the hearing involves the admissibility of a confession; (2) a defendant in a criminal case is a witness and so requests; or (3) justice so requires.
 
 ---
 
-## VII. Relevance
+## Rule 901(a) Authentication
 
-**Rule 401** of the Federal Rules of Evidence states that evidence is relevant if it has any tendency to make a fact of consequence more or less probable than that fact would be without that evidence. A fact of consequence is a fact that goes to prove or disprove some part of an element of a claim, charge or defense, cause of action or theory of the case. The broad admissibility written into this rule is to allow parties to bring in as much evidence as possible so that a jury or judge can render a fair and just determination of the case. Relevance supports efficiency by keeping the jury focused on relevant facts.
-
-- {:.indent-2}**Hitchcock v. Walsh hypo** (D crossed center line of highway, hitting P's car and seriously injuring P, who sued D for negligence claiming D drunk; D seeks to admit W testimony that D was sober 3 hours before accident; P argues 3 hours long time but court finds relevant because any tendency)
-
-- {:.indent-2}**Walsh v. Hospital hypo** (Walsh sued hospital for medical malpractice where following car accident nurse gave him wrong medicine causing permanent paralysis; defendant's drunkenness was fact of consequence and W testimony relevant because any tendency)
-
-- {:.indent-2}**U.S. v. Roger Stone (USDC for District of Columbia, 2019)** (Movie clip from the Godfather is relevant to place defendant’s statements about Frank Panganeli in context by showing the jury the image that Stone intended to evoke in Person 2’s mind when he named  Panganeli)
-
-- {:.indent-2}**U.S. v. Boros (7th Cir. 2012)** (admission of doctor's testimony about type of medications Boros sold over internet was harmless error because minimal relevance, minimal probative value, and despite overtones of prejudice, excluding doctor's testimony would not have led an "average juror" to find that the evidence was "significantly less persuasive.")
-
-- {:.indent-2}**Wielgus v. Ryobi Techs., Inc. (Northern District of Illinois, Eastern Division, 2012)** (motion in limine to bar plaintiff from presenting video and in-court demonstrations of SawStop Technology on model not substantially similar to model that caused injury denied without prejudice because SawStop functions in the same manner on both models and the probative value of the demonstration could substantially outweigh the danger of any unfair prejudice)
-
-- {:.indent-2}**Hypo** Alan is accused of selling cocaine. Prosecutor offers evidence that Alan regularly uses marijuana. Prosecutor would say relevant because Alan is charged with selling an illegal drug, and use of an illegal drug – marijuana – has some tendency to show that Alan knows and handles drugs. Defense would argue that use of a drug is unlike selling a drug. Just because I eat food doesn’t mean I sell food. Furthermore, marijuana is very different from cocaine. Cocaine is a schedule II drug and marijuana is a schedule I drug. Marijuana is legal in some states and cocaine is illegal everywhere. Defendant could raise 403. Could say jury might think that a drug user could sell drugs.
-
-- {:.indent-2}**Hypo** Greg (D) is accused of assaulting Alex. Prosecutor calls a psychic to the stand, who testifies that the day before the assault, she had a vision of the future in which she saw Alex stabbing Greg’s wife with a steak knife. D objects that not relevant under 401. The issue is whether the psychic's testimony is relevant.
-- {:.indent-5}**Offer of proof:** Psychic testifies that greg visited her every week and has done so for the past 15 years, has always followed her advice and believed her visions, and that she related this vision to him the morning of the assault.
-- {:.indent-5}**Relevance:** Prosecution would say Psychic's testimony is relevant because it could give Greg  motive. Although prosecutors don’t have to show motive, it is relevant because it ties it all together. Defense would say it’s not relevant because hearsay and because the inferential leap is too great. We are expected to infer Greg’s reaction to being told that Alex stabbed his wife is to assault the person who allegedly stabbed his wife.
-
-- {:.indent-2}**Hypo** about swastika tattoo on neck
-
-401 and 403 often play off each other.  
+**Rule 901(a)** requires that evidence be authenticated. To authenticate evidence, the proponent of evidence must produce evidence that shows that the evidence the proponent seeks to admit is really the evidence the proponent claims it to be.
 
 ---
 
-## VIII. Prejudice
+## Rule 105 Limiting Instructions
 
-If a judge finds that evidence is unfairly prejudicial, they may exclude it under **Rule 403**. Courts find that relevant evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting cumulative evidence. Prejudice must be unfair. Unfair prejudice is when evidence will lead a jury to make a decision on an improper ground. Rule 403 provides judges with the means to counterbalance the broad admissibility of evidence that other rules allow so as to make proceedings fair, minimize expense, and help the court reach a just determination.
+A **limiting instruction** is an instruction from the judge to the jury, telling the jury to disregard evidence for a specific purpose or against a party.
 
-- {:.indent-2}**State v. Poe, 21 Utah 113 (1968)** (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
+**Rule 105**: If requested the trial judge **must** (no discretion) issue a limiting instruction if evidence is admitted against one party or for one purpose but not against another party or for another purpose.
 
-- {:.indent-2}**Haley, v. Gross, McKee, and Ellis, 86 F.3d 630 (7th Cir. 1996)** (trial court did not abuse discretion by admitting photograph of burned cell with dead body of Haley's cellmate because while disturbing, its contents were highly relevant, and its very significant probative value was not substantially outweighed by danger of unfair prejudice; nor did trial court abuse discretion by admitting photograph of Haley in hospital severely burned and with leg shackles because not prejudicial)
+Limiting instructions are not always easy for juries to follow, but courts need to suppose that juries will follow instructions. Relying on that supposition, Rule 105 aims to ensure that proceedings are fair.
 
-- {:.indent-2}**Old Chief** (court reinforced general rule that parties can always present evidence even if other side willing to stipulate to the evidence. But can also use 403 to say in a particular case the evidence should have been stipulated to because was unfairly prejudicial given the specific facts of the case. Supreme court said yes on relevance (401) but no on 403. It's relevant, you get to present it, but jury is going to get really confused, so we will tell jury there is a felony and the felony is for a gun.)
+---
 
-- {:.indent-2}**U.S. v. Boros** (dry testimony of doctor barely relevant but relevant because charge is conspiracy to import controlled substances. Prosecutor’s mistake was to use it in summation and talk about how people could have had miscarriages, could have died, which doesn’t have anything to do with the charge. Court says evidence not very probative.
+## Rule 401 Relevance
+
+**Rule 401** states that evidence is relevant if it has any tendency to make a fact of consequence more or less probable than that fact would be without that evidence. A fact of consequence is a fact that goes to prove or disprove some part of an element of a claim, charge or defense, cause of action or theory of the case. The broad admissibility written into this rule is to allow parties to bring in as much evidence as possible so that a jury or judge can render a fair and just determination of the case. Relevance also supports efficiency by keeping the jury focused on relevant facts.[^1] [^2] [^3]
+
+Relevance is a relationship  - it depends on the cause of action / charge / claim or defense  (theory of the case)
+
+401 and 403 often play off each other.
+
+[^1]:U.S. v. Roger Stone (USDC for District of Columbia, 2019) (Movie clip from the Godfather is relevant to place defendant’s statements about Frank Panganeli in context by showing the jury the image that Stone intended to evoke in Person 2’s mind when he named Panganeli)
+
+[^2]:Wielgus v. Ryobi Techs., Inc. (Northern District of Illinois, Eastern Division, 2012) (motion in limine to bar plaintiff from presenting video and in-court demonstrations of SawStop Technology on model not substantially similar to model that caused injury denied without prejudice because SawStop functions in the same manner on both models and the probative value of the demonstration could substantially outweigh the danger of any unfair prejudice)
+
+[^3]:U.S. v. Boros (7th Cir. 2012) (admission of doctor's testimony about types of medications Boros sold over internet had minimal relevance and low probative value but trial court allowed because provided context for jury so it met the low bar for relevance)
+
+---
+
+## Rule 402 Admissibility of Relevant Evidence
+
+**Rule 402** provides that relevant evidence is admissible unless the U.S. Constitution, a federal statute, these rules or other rules prescribed by the Supreme Court provide otherwise. Irrelevant evidence is not admissible.
+
+---
+
+## Rule 403 Prejudice
+
+Under **Rule 403**, a judge **may** exclude evidence it considers unfairly prejudicial. Relevant evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence will mislead a jury by leading the jury to make a decision on an improper ground, or by causing confusion, delay, or waste of time. Rule 403 provides judges with the means to counterbalance the broad admissibility of evidence that other rules allow so as to make proceedings fair, minimize expense, and help the court reach a just determination. [^4] [^5] [^6] [^7]
+
+[^4]:State v. Poe, 21 Utah 113 (1968) (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
+
+[^5]:Haley, v. Gross, McKee, and Ellis, 86 F.3d 630 (7th Cir. 1996) (trial court did not abuse discretion by admitting photograph of burned cell with dead body of Haley's cellmate because while disturbing, its contents were highly relevant, and its very significant probative value was not substantially outweighed by danger of unfair prejudice; nor did trial court abuse discretion by admitting photograph of Haley in hospital severely burned and with leg shackles because not prejudicial)
+
+[^6]:Old Chief (court reinforced general rule that parties can always present evidence even if other side is willing to stipulate to the evidence. But can also use 403 to say in a particular case the evidence should have been stipulated to because was unfairly prejudicial given the specific facts of the case.)
+
+[^7]:U.S. v. Boros** (dry testimony of doctor barely relevant but relevant because charge is conspiracy to import controlled substances. Prosecutor’s mistake was to use it in summation and talk about how people could have had miscarriages, could have died, which doesn’t have anything to do with the charge. Court says evidence not very probative.
 Court says evidence very prejudicial because people dying, having miscarriages.)
 
 ---
 
-## IX. Witness Competency
+## Rules 601 602 603 Witness Competency
 
-**Rule 601** states that every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. **Rule 602** limits Rule 601 by providing that a witness may testify to a matter only if the witness has personal knowledge of the matter. Evidence to prove personal knowledge may consist of the witness’s testimony. To have personal knowledge, a witness must (1) be able to perceive the events they are testifying to, (2) be able to understand and take an oath or affirmation that they will tell the truth (**Rule 603**), and (3) have memory (recall) of the events and the ability to narrate.
-
-A judge cannot be a witness (Rule 605) and a member of the jury cannot be a witness in a case which they are sitting on the jury for (Rule 606).
-
-**Bias** character witnesses - is that fair?
-
-A **Leading question** can be asked in cross examination, but only about information that was provided in direct examination. You can also ask leading questions in redirect examination and recross examination but only about information provided in direct examination and cross examination (**Rule 611**).
+**Rule 601** states that every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. **Rule 602** limits Rule 601 by providing that a witness may testify to a matter only if the witness has personal knowledge of the matter. Evidence to prove personal knowledge may consist of the witness’s testimony. To have personal knowledge, a witness must (1) be able to perceive the events they are testifying to, (2) be able to understand and take an oath or affirmation that they will tell the truth (**Rule 603**), and (3) have memory (recall) of the events and the ability to narrate. 
 
 - {:.indent-2}**Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994)** (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
 
@@ -189,13 +120,15 @@ A **Leading question** can be asked in cross examination, but only about informa
 
 ---
 
-## X. Witness Impeachment
+## Rules 607 611 613 Witness Impeachment
 
 Witnesses can be impeached for incompetency, bias, prior inconsistent statement and general character for untruthfulness. Sometimes, extrinsic evidence can be brought in to impeach. **Rules 607, 611, 613**.
 
 **Extrinsic evidence** is any evidence other than testimony from the witness already on the stand.   
 
-**Collateral and non-collateral**. Extrinsic evidence can be collateral or non-collateral. A collateral matter is relevant to the case solely because it impeaches a witness. A non-collateral matter proves a fact of consequence other than impeachment. Judges use their discretion under rules 403 and 611 to prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but parties may present extrinsic evidence of prior inconsistent statements related to non-collateral matters (Merritt 229).
+**Collateral and non-collateral**. Extrinsic evidence can be collateral or non-collateral. A collateral matter is relevant to the case solely because it impeaches a witness. A non-collateral matter proves a fact of consequence other than impeachment.
+
+A **Leading question** can be asked in cross examination, but only about information that was provided in direct examination. You can also ask leading questions in redirect examination and recross examination but only about information provided in direct examination and cross examination (**Rule 611**).
 
 ---  
 
@@ -218,7 +151,7 @@ Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent st
 | Bias | 611(b)	| yes	| yes |
 | Prior Inconsistent Statements | 613	| yes	| yes |
 
-I might want something else there
+Judges use their discretion under rules 403 and 611 to prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but parties may present extrinsic evidence of prior inconsistent statements related to non-collateral matters (Merritt 229).
 
 - {:.indent-2}**United States v. Kelly 436 F.3d 992 (8th Cir. 2006)** (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
 
@@ -239,6 +172,7 @@ I might want something else there
 **Rule 608(b)** allows the attorney during cross-examination to inquire into specific instances of a witness’s conduct to prove truthfulness or untruthfulness. When the attorney inquires into specific instances of a witness’s conduct under 608(b), they are attempting to get the jury to infer that because the witness has a character for truthfulness or untruthfulness, it is more or less likely that the witness’s testimony is true.
 
 - {:.indent-2}**United States v. Martinez 923 F.3d 806 (10th Cir. 2019)** (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case (his intent), not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity.”] If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.)
+
 
 ---
 
