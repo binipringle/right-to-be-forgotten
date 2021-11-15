@@ -20,8 +20,6 @@ toc:
 - Bias
 - Rule 404a1 General Prohibition of Character Evidence
 - Rule 608 Witness Impeachment for Character for Untruthfulness
-- Rule 608a Reputation or Opinion Testimony for Witness Character for Truthfulness or Untruthfulness
-- Rule 608b Specific Instances of Conduct for Witness Character for Truthfulness or Untruthfulness
 - Rule 609 Witness Impeachment for Prior Convictions
 - Rule 407 Subsequent Remedial Measures
 - Rule 408 Compromise Offers and Negotiations
@@ -176,23 +174,15 @@ Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent st
 
 Rule 404(a)(1) thus excludes most character evidence. **Rule 608** lets some character evidence back in by allowing **opinion or reputation evidence** to attack a fact witness’s character for truthfulness, and **inquiry into specific instances of conduct** to prove a witness’s character for truthfulness or untruthfulness, during cross-examination. [^14] [^15] [^16]
 
+**Rule 608(a)** states that a witness’s credibility may be attacked or supported by testimony about the witness’s **reputation** for having a character for truthfulness or untruthfulness, or  testimony of an **opinion** about that character. Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked.
+
+Extrinsic evidence is **not admissible** to prove specific instances of a witness’s conduct in order to attack or support the witness’s character for truthfulness (except criminal convictions under Rule 609). However, **Rule 608(b)** allows the attorney to ask questions during cross-examination about **specific instances of a witness’s conduct** to prove truthfulness or untruthfulness. The attorney's purpose is to get the jury to infer that because the witness has a character for truthfulness or untruthfulness, it is more or less likely that the witness’s current testimony is true.
+
 [^14]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
 
 [^15]:United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
 
 [^16]:United States v. Martinez 923 F.3d 806 (10th Cir. 2019) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case [his intent], not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity"]. "If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.")
-
----
-
-## Rule 608a Reputation or Opinion Testimony for Witness Character for Truthfulness or Untruthfulness
-
-**Rule 608(a)** states that a witness’s credibility may be attacked or supported by testimony about the witness’s reputation for having a character for truthfulness or untruthfulness, or  testimony of an opinion about that character. Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked.
-
----
-
-## Rule 608b Specific Instances of Conduct for Witness Character for Truthfulness or Untruthfulness
-
-Extrinsic evidence is **not admissible** to prove specific instances of a witness’s conduct in order to attack or support the witness’s character for truthfulness (except criminal convictions under Rule 609). However, **Rule 608(b)** allows the attorney to ask questions during cross-examination about specific instances of a witness’s conduct to prove truthfulness or untruthfulness. The attorney's purpose is to get the jury to infer that because the witness has a character for truthfulness or untruthfulness, it is more or less likely that the witness’s current testimony is true.
 
 ---
 
@@ -291,7 +281,7 @@ The court can always rule on a **Rule 403 objection** and decide to exclude any 
 
 ## Rules 801 and 802 Hearsay
 
-Hearsay is any statement by a declarant made out of court offered to prove the truth of the matter asserted. A declarant is a person (not animal nor machine) who made the out of court statement based on personal knowledge. Hearsay is prohibited because the jury cannot assess the declarant’s sincerity or credibility, the declarant cannot be cross examined (to test for mistake or clarity, and the statements were not made under oath, which makes them unreliable. Hearsay is inadmissible unless an exception or exemption applies.
+**Hearsay** is any statement by a declarant made out of court offered to prove the truth of the matter asserted. A declarant is a person (not animal nor machine) who made the out of court statement based on personal knowledge. Hearsay is prohibited because the jury cannot assess the declarant’s sincerity or credibility, the declarant cannot be cross examined (to test for mistake or clarity, and the statements were not made under oath, which makes them unreliable. Hearsay is inadmissible unless an exception or exemption applies.
 
 ---
 
