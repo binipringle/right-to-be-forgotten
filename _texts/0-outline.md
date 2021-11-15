@@ -13,9 +13,10 @@ toc:
 - Rule 402 Admissibility of Relevant Evidence
 - Rule 403 Prejudice
 - Rules 601 602 603 Witness Competency
+- Rule 611 Control by the Court and Leading Questions
 - Rule 607 Witness Impeachment
 - Extrinsic Evidence Collateral and Non Collateral
-- Rule 613b Prior Inconsistent Statement
+- Rule 613 Prior Inconsistent Statement
 - Bias
 - Rule 404a1 General Prohibition of Character Evidence
 - Rule 608 Witness Impeachment for Character for Untruthfulness
@@ -134,20 +135,15 @@ Under **Rule 607**, any party, including the party that called the witness, may 
 
 **Extrinsic evidence** is any evidence other than testimony from the witness already on the stand. Extrinsic evidence can be **collateral and non-collateral**. A **collateral matter** is relevant to the case solely because it impeaches a witness. A **non-collateral matter** proves a fact of consequence other than impeachment.
 
+Judges use their discretion under Rules 403 and 611 to prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but under Rule 613 parties may present extrinsic evidence of prior inconsistent statements related to non-collateral matters.
+
 ---
 
-## Rule 613b Prior Inconsistent Statement
+## Rule 613 Prior Inconsistent Statement
+
+**Rule 613(a)** provides that when examining a witness about the witness’s prior statement, a party need not show it or disclose its contents to the witness but must, on request, show it or disclose its contents to an adverse party’s attorney.
 
 Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent statement is admissible if the witness is given the opportunity to explain or deny the statement and the other party is given the opportunity to examine the witness about it, or if justice so requires. [^11] [^12]
-
-| Witness’s | governing rule | question on cross | offer extrinsic evidence |
-| Ability to perceive, recall, narrate | 601 | yes | yes |
-| Ability to understand and take oath | 603 | yes	| yes |
-| Personal knowledge  | 602	| yes	| yes |
-| Bias | 611(b)	| yes	| yes |
-| Prior Inconsistent Statements | 613	| yes	| yes |
-
-Judges use their discretion under rules 403 and 611 to prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but parties may present extrinsic evidence of prior inconsistent statements related to non-collateral matters (Merritt 229).
 
 [^11]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates prior inconsistent statement Rule 613(b)* (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
 [^12]:Taylor v. Cheddar's Casual Cafe, Inc. 2017 WL 157886 (W.D. La 2017)(unreported) *illustrates prior inconsistent statement Rule 613(b)* (evidence of Young’s alleged theft from Cheddar’s is inadmissible because Young neither charged with nor convicted of a crime based on this allegation and there is no other relevant purpose for the admission of this evidence.) (Young’s statements to Cheddar’s’ management and the two insurance adjusters after Taylor’s fall at the restaurant are  inadmissible as hearsay if offered to prove the truth of the matter asserted, but nonetheless admissible for the purpose of impeachment by prior inconsistent statement.)
@@ -156,7 +152,7 @@ Judges use their discretion under rules 403 and 611 to prohibit extrinsic eviden
 
 ## Bias
 
-“**Bias** is a term used in the ‘common law of evidence’ to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, his testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest.” (U.S. v. Abel) [^13]
+“**Bias** is a term used in the ‘common law of evidence’ to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, [their] testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest.” (U.S. v. Abel) [^13]
 
 [^13]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias* (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
 
@@ -188,7 +184,7 @@ Judges use their discretion under rules 403 and 611 to prohibit extrinsic eviden
 
 ## Rule 608a Reputation or Opinion Testimony for Witness Character for Truthfulness or Untruthfulness
 
-**Rule 608(a)** states that a witness’s credibility may be attacked or supported by (a) testimony about the witness’s reputation for having a character for truthfulness or untruthfulness, or (b) testimony of an opinion about that character. Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked.
+**Rule 608(a)** states that a witness’s credibility may be attacked or supported by testimony about the witness’s reputation for having a character for truthfulness or untruthfulness, or  testimony of an opinion about that character. Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked.
 
 ---
 
@@ -217,9 +213,9 @@ Evidence of subsequent remedial measures is **admissible** when offered for anot
 - {:.indent-2}to prove feasibility of precautionary measures; and/or
 - {:.indent-2}to impeach a witness.
 
-The court **may** admit evidence of a remedial measure **if the measure was taken by a non-party** *(a third party who makes a similar product or holds a similar event is completely outside of Rule 407; thus, a party does not have to wait until the defendant denies feasibility to bring third-party evidence in)*.
+The court **may** admit evidence of a remedial measure **if the measure was taken by a non-party (third party)**
 
-Rule 407 is based on specific concerns that evidence that the rules limits or excludes will often fail the Rule 403 balancing test. **Concerns about the evidence’s probative value** are that even when evidence is admissible under Rule 407 with a limiting instruction, it can be difficult to explain how to apply the evidence for impeachment or feasibility but not for liability. **Concern about unfair prejudice specific to admitting evidence of a subsequent remedial measure** is that if the evidence is admissible under Rule 407 but the judge applies Rule 403 at the defendant’s request, the prejudice has to substantially outweigh the probative value of the evidence as required by Rule 403. Because a substantial remedial measure is often highly probative, Rule 403 will often not keep the evidence out. [^17] [^18] [^19] [^20] [^21]   
+Rule 407 is based on specific concerns that limited or excluded evidence will often fail the Rule 403 balancing test. **Concerns about the evidence’s probative value** are that even when evidence is admissible under Rule 407 with a limiting instruction, it is still difficult to explain how to apply evidence for impeachment or feasibility but not liability. **Concern about unfair prejudice specific to admitting evidence of a subsequent remedial measure** is that if the evidence is admissible under Rule 407 but the judge applies Rule 403 at the defendant’s request, so prejudice has to substantially outweigh the probative value of the evidence, because a substantial remedial measure is often highly probative, Rule 403 will often not keep the evidence out. [^17] [^18] [^19] [^20] [^21]   
 
 [^17]:Hunter-McLeod v. Dollar Gen., Eastern District of Pennsylvania 2014 U.S. District. LEXIS 129177, CIVIL ACTION NO. 13-3113 (E.D. Pennsylvania, 2014) *illustrates subsequent remedial measures (Rule 407)* (video surveillance footage showing store employee putting cardboard on the floor where plaintiff fell is inadmissible as evidence of subsequent remedial measures because it does not directly contradict employee's witness testimony.)
 
@@ -239,18 +235,7 @@ Rule 407 is based on specific concerns that evidence that the rules limits or ex
 
  **Rule 408(a)** states that evidence is **not admissible** to prove or disprove the validity or amount of a disputed claim or to impeach by a prior inconsistent statement or a contradiction if it is evidence of (1) furnishing, promising, offering, accepting, promising to accept, or offering to accept a consideration to settle a claim; **and** (2) conduct or statements made during negotiations about the claim. [^23]
 
-**There must be a disputed claim** for there to be offers of consideration or settlement negotiations. If there is no dispute about the amount or validity of a claim, there is no offer of consideration or settlement, and no negotiation. [^24]
-
-- {:.indent-2}**Steps of analysis:** The question is whether the statements or conduct were intended to be part of the negotiations toward compromise. Look for:
-- {:.indent-4}a clear dispute or disagreement communicated between parties
-- {:.indent-4}a clear intent to compromise (after dispute)
-- {:.indent-4}whether the offer was unilateral or bilateral
-- {:.indent-4}whether the offer was concrete or vague
-- {:.indent-4}whether the offer was in response to another offer
-- {:.indent-4}whether litigation was threatened or started
-- {:.indent-4}attorneys or formal negotiations
-- {:.indent-4}"legalese"
-- {:.indent-4}distinction between business discussions and legal negotiations
+**There must be a disputed claim** for there to be offers of consideration or settlement negotiations. If there is no dispute about the amount or validity of a claim, there is no offer of consideration or settlement, and no negotiation. [^24] [^25]
 
 Discussion of otherwise discoverable evidence or witnesses at a settlement conference does not automatically bring that evidence/witness within 408 protection and other rules may apply.
 
@@ -261,6 +246,8 @@ Discussion of otherwise discoverable evidence or witnesses at a settlement confe
 [^23]:except statements made during negotiations with a government agency; these can be introduced in a subsequent criminal investigation. **This will not be tested on the final**.
 
 [^24]:MCI Communs. Servs. v. Hagan, 641 F.3d 112 (5th Cir. 2011) *illustrates compromise offers and negotiations (Rule 408)* (testimony about phone call asking how much damaged cable would cost was not excluded under Rule 408 because there was not yet an actual dispute)
+
+[^25]:Steps of analysis: The question is whether the statements or conduct were intended to be part of the negotiations toward compromise. Look for: a clear dispute or disagreement communicated between parties > a clear intent to compromise (after dispute) > whether the offer was unilateral or bilateral > whether the offer was concrete or vague > whether the offer was in response to another offer > whether litigation was threatened or started > attorneys or formal negotiations > "legalese" > distinction between business discussions and legal negotiations.
 
 ---
 
@@ -286,17 +273,17 @@ The following exceptions under **Rule 404(a)(2) aka the Mercy Rule** apply **in 
 
 do not always act according to character making character evidence not particularly probative; and (2) the drafters of the rules do not want the jury to make propensity-based decisions as this would be unfairly prejudicial jury misuse. There are exceptions to this rule. One exception is **Rule 608**, which allows a witness’s character for untruthfulness to come in for impeachment purposes by allowing testimony about reputation and opinion, and questions about specific prior conduct on cross-examination, but allows no extrinsic evidence. Other exceptions are in **Rule 404(a)(2) aka the Mercy Rule** which provides that a defendant in a criminal case may offer evidence of the defendant’s pertinent trait and evidence of an alleged victim’s pertinent trait except if the alleged victim is an alleged sex-offense victim, and, in a homicide case, the prosecutor may offer evidence of the alleged victim’s trait of peacefulness to rebut evidence that the victim was the first aggressor.
 
-**Rule 405** lays out methods of proving character. Under **Rule 405(a)**, when evidence of a person’s character or character trait is admissible, the character or character trait may be proved by testimony about the person’s **reputation** or **opinion** about the person's character. Under **Rule 405(b)**, when a person’s character or character trait is an essential element of a charge, claim, or defense, the character or trait may also be proved by **relevant specific instances of the person’s conduct**. When character evidence is an element, character can be proved in any way the rules provide, and there is no bar on extrinsic evidence. Character evidence is an element in disputes about child custody, defamation, negligent entrustment, and in the defense of entrapment.
-
-- {:.indent-2}**Child Custody**: character evidence can be an essential element because a child's wellbeing can depend on the "character" of the custodial parent.  
-
-- {:.indent-2}**Defamation**: because libel or slander is a false statement about someone that harms their reputation, truth is a defense; thus, parties to the case will try to prove or disprove the “character” of the party in question.
-
-- {:.indent-2}**Negligent entrustment** is when the plaintiff alleges that the defendant was negligent in entrusting a dangerous instrument (e.g., a car, gun, fireworks, skill saw, etc.) to a third party who the defendant knew or had reason to know would misuse or be negligent in using the instrument. The character of the third party is what is at issue, and the question is whether their character was such that the defendant should have known not to allow them access to the dangerous instrument.
-
-- {:.indent-2}**Defense of entrapment** is when (1) a government agent induced the defendant to commit a crime that (2) the defendant was not otherwise predisposed to commit.
+**Rule 405** lays out methods of proving character. Under **Rule 405(a)**, when evidence of a person’s character or character trait is admissible, the character or character trait may be proved by testimony about the person’s **reputation** or **opinion** about the person's character. Under **Rule 405(b)**, when a person’s character or character trait is an essential element of a charge, claim, or defense, the character or trait may also be proved by **relevant specific instances of the person’s conduct**. When character evidence is an element, character can be proved in any way the rules provide, and there is no bar on extrinsic evidence. Character evidence is an element in disputes about **child custody**[^26], **defamation**[^27], **negligent entrustment**[^28], and in the **defense of entrapment**[^29].
 
 The court can always rule on a **Rule 403 objection** and decide to exclude any character evidence (403 backstop). Unfair prejudice will generally be jury misuse or overvaluing of character evidence.
+
+[^26]:Child Custody: character evidence can be an essential element because a child's wellbeing can depend on the "character" of the custodial parent.  
+
+[^27]:Defamation: because libel or slander is a false statement about someone that harms their reputation, truth is a defense; thus, parties to the case will try to prove or disprove the “character” of the party in question.
+
+[^28]:Negligent entrustment: when the plaintiff alleges that the defendant was negligent in entrusting a dangerous instrument (e.g., a car, gun, fireworks, skill saw, etc.) to a third party who the defendant knew or had reason to know would misuse or be negligent in using the instrument. The character of the third party is what is at issue, and the question is whether their character was such that the defendant should have known not to allow them access to the dangerous instrument.
+
+[^29]:Defense of entrapment: when (1) a government agent induced the defendant to commit a crime that (2) the defendant was not otherwise predisposed to commit.
 
 ---
 
@@ -316,9 +303,9 @@ Hearsay is any statement by a declarant made out of court offered to prove the t
 
 Under **Rule 803(4)**, a statement made **for medical diagnosis or treatment** is not excluded by the rule against hearsay, regardless of whether the declarant is available as a witness, if the statement (A) is made for — and is reasonably pertinent to — medical diagnosis or treatment; and (B) describes medical history; past or present symptoms or sensations; their inception; or their general cause.
 
-The "**business records**” exception to hearsay in **Rule 803(6)** provides that a record of an act, event, condition, opinion, or diagnosis is not excluded by the rule against hearsay, regardless of whether the declarant is available as a witness, if (A) the record was made at or near the time by — or from information transmitted by — someone with knowledge; (B) the record was kept in the course of a regularly conducted activity of a business, organization, occupation, or calling, whether or not for profit; (C) making the record was a regular practice of that activity; (D) all these conditions are shown by the testimony of the custodian or another qualified witness, or by a certification[^25]; and (E) the opponent does not show that the source of information or the method or circumstances of preparation indicate a lack of trustworthiness.
+The "**business records**” exception to hearsay in **Rule 803(6)** provides that a record of an act, event, condition, opinion, or diagnosis is not excluded by the rule against hearsay, regardless of whether the declarant is available as a witness, if (A) the record was made at or near the time by — or from information transmitted by — someone with knowledge; (B) the record was kept in the course of a regularly conducted activity of a business, organization, occupation, or calling, whether or not for profit; (C) making the record was a regular practice of that activity; (D) all these conditions are shown by the testimony of the custodian or another qualified witness, or by a certification[^30]; and (E) the opponent does not show that the source of information or the method or circumstances of preparation indicate a lack of trustworthiness.
 
-[^25]:The certification has to comply with **Rule 902(11)**, which states that certified domestic records of a regularly conducted activity are self-authenticating where they are shown by a certification of the custodian or another qualified person that complies with a federal statute or a rule prescribed by the Supreme Court and the proponent gives the adverse party reasonable written notice of the intent to offer the record and makes the record and certification available for inspection so that the adverse party has a fair opportunity to challenge them; or **Rule 902(12)**.
+[^30]:The certification has to comply with **Rule 902(11)**, which states that certified domestic records of a regularly conducted activity are self-authenticating where they are shown by a certification of the custodian or another qualified person that complies with a federal statute or a rule prescribed by the Supreme Court and the proponent gives the adverse party reasonable written notice of the intent to offer the record and makes the record and certification available for inspection so that the adverse party has a fair opportunity to challenge them; or **Rule 902(12)**.
 
 ---
 
@@ -330,18 +317,16 @@ The "**business records**” exception to hearsay in **Rule 803(6)** provides th
 
 ## Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
 
-Rules: 804(a), 804(b)
-
-Readings: Text 48, 51
+Rules: 804(a), 804(b);
+Readings: Text 48, 51;
 Additional Material: US. V. Chang
 
 ---
 
 ## Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
 
-Rules: 801(d)(2) focus on (A), (D), (E)
-
-Readings: Text: 53, 55
+Rules: 801(d)(2) focus on (A), (D), (E);
+Readings: Text: 53, 55;
 Additional Material: Baines, Conrad
 
 ---
@@ -352,22 +337,4 @@ Chapter 58
 
 ---
 
-template for poem layout:
-
-- {:.indent-2}**Something**
-- {:.indent-2}Something
-
-- {:.indent-3}(1) **Something** Something
-- {:.indent-5}(i)	Something
-- {:.indent-5}(ii)	Something
-
-- {:.indent-3}(2)	**Something** Something
-- {:.indent-5}(a)	Something
-- {:.indent-7}(i)	Something
-- {:.indent-9}(1)	Something
-- {:.indent-9}(2)	Something
-- {:.indent-7}(ii)	Something
-- {:.indent-9}(1)	Something
-- {:.indent-9}(2)	Something
-
----
+## Footnotes
