@@ -19,14 +19,12 @@ Meter
 
 The purpose is to help the jury reach
 
-×   /   ×   /   ×   /   /   /   ×   /
+×   /   ×   /   ×   /   x   /   ×   x
 
 a fair and just determination and
 
-×   /   x  /  ×   /   ×   /   ×   /
+×   /   ×   /   ×   /   ×   /   ×   /
 
-eliminate unjustifiable
-
-expense and delay, and (3) promote the development of evidence law. **Rule 102**.
+avoid unjustified expense delay 
 
 ---
