@@ -4,18 +4,17 @@ title: Section Three
 author:
 editor: Sabina Pringle
 rights:
-source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
+source:
 toc:
-- College-in-prison programs in New York State
-- Programs and Initiatives in other states and other countries
 
 ---
 
-# Hello
+# Something
 
-Hi what's up how are you
+might be forthcoming
 
-## I'm well *thank you*
+## on this page *but also may not*
 
+**stay tuned for further development**
 
 ---
