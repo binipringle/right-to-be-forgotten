@@ -309,21 +309,34 @@ The "**business records**” exception to hearsay in **Rule 803(6)** provides th
 
 ## Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
 
-Rules: 804(a), 804(b);
-Readings: Text 48, 51;
-Additional Material: US. V. Chang
+**Rule 804(a)** provides that a declarant is an unavailable witness if the declarant (1) is exempted because a privilege applies; (2) refuses to testify; (3) does not remember; (4) is dead or ill; or (5) is absent and the proponent was unable to procure (A) the declarant’s attendance in the case of a hearsay exception under Rule 804(b)(1) or (6); or (B) the declarant’s attendance or testimony in the case of a hearsay exception under Rule 804(b)(2), (3), or (4). Rule 804(a) does not apply if the proponent caused the declarant’s unavailability to prevent the declarant from testifying. [^32]
+
+**Rule 804(b)(3)** provides that if the declarant is unavailable as a witness, the rule against hearsay does not exclude a **statement against interest** that (A) a reasonable person in the declarant’s position would have made only if the person believed it to be true because it was so contrary to the declarant’s proprietary or pecuniary interest or had so great a tendency to invalidate the declarant’s claim against someone else or to expose the declarant to civil or criminal liability; **and** (B) **is supported by corroborating circumstances that clearly indicate its trustworthiness** if offered in a criminal case. [^33] [^34]
+
+[^32]:Hypo Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement against interest exception to rule against hearsay* (if Hardin's statement used against Stone the statement is untrustworthy because Hardin was cooperating with prosecutors when he taped the conversation [no idea whether I got this right])
+
+[^33]:United States v. Chang 999 F,3d 1059 (C.A. 7th 2021) *illustrates statement against interest exception to rule against hearsay* (Court barred Lola Chang's self-incriminating statements exculpating Ely Lao where they had been arrested in a car that broke down on the highway and cops found drugs and illegally modified guns in the car, because the court found her statements untrustworthy because either coerced [cops thought maybe partner abuse] or for affection [cops thought Chang and Lao were "culturally" married] and because other evidence contradicted what Chang said)
 
 ---
 
 ## Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
 
-Rules: 801(d)(2) focus on (A), (D), (E);
-Readings: Text: 53, 55;
-Additional Material: Baines, Conrad
+Under **Rule 801(d)(2)(A)** an **opposing party's statement** is not hearsay if it is offered against an opposing party and was **made by the party in an individual or representative capacity**.
+
+Under **Rule 801(d)(2)(D)** an **opposing party's statement** is not hearsay if it is offered against an opposing party and was **made by the party’s agent or employee** within the scope of that relationship or while it existed. [^34]
+
+Under **Rule 801(d)(2)(E)** an **opposing party's statement** is not hearsay if it is offered against an opposing party and was **made by the party’s coconspirator** during and in furtherance of the conspiracy. The proponent must establish by a preponderance of the evidence that a conspiracy existed, that the defendant was a member of the conspiracy, and that the statement was made during the course of the conspiracy. A conspiracy is loosely defined as ... Mere idle chatter or casual conversation about past events is not considered a statement in furtherance of the conspiracy. [^35]
+
+[^34]:Baines v. Walgreen 863 F.3d 656 (7th Cir. 2007) *illustrates opposing party's statement made by agent or employee; also illustrates hearsay within hearsay* (Baines allowed to admit Martin's statement that Ruehs stated that Birch told Ruehs not to hire Baines because Martin was a Walgreen's employee and Ruehs was her supervisor and statements were within the scope of employment, and because innermost level of testimony [what Birch said to Ruehs] was not a statement but a command)
+
+[^35]:Hypo Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement of opposing party exception to rule against hearsay* (go back and look at rules and hypo because not getting this)
 
 ---
 
 ## Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
+
+Amendment VI. In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the state and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the assistance of counsel for his defense.
+
 
 Chapter 58
 
