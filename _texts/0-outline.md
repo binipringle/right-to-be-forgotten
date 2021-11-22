@@ -43,23 +43,23 @@ See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre
 
 ## Rule 102 Purpose
 
-The purposes of the Federal Rules of Evidence are to (1) help the jury reach a fair and just determination, (2) eliminate unjustifiable expense and delay, and (3) promote the development of evidence law. **Rule 102**.
+The purposes of the Federal Rules of Evidence are to help the jury reach a fair and just determination, eliminate unjustifiable expense and delay, and promote the development of evidence law.
 
 ---
 
 ## Rule 104 Preliminary Questions
 
-Trial judges are given enormous discretion in determining whether evidence should be admitted or excluded.
+The rules give trial judges huge discretion in determining what evidence to admit and what to exclude.
 
-**Rule 104(a)** provides that the court must decide any preliminary question about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. In so deciding, the court is not bound by evidence rules, except those on privilege. The burden of proof is on the party offering the evidence.  
+Under **Rule 104(a)** the court **must** decide preliminary questions about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. When deciding preliminary questions the court is not bound by evidence rules except those on privilege. The burden of proof is on the party offering the evidence.  
 
-**Rule 104(b)** provides that when the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist.
+Under **Rule 104(b)** when the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist.
 
-The standard of proof for a judge's evidentiary decisions is a **preponderance of the evidence standard**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission of the evidence are true. This is in keeping with the idea behind rules that all relevant evidence should be admitted unless it is excluded by a rule or precedent. [^1]
-
-[^1]:Dowling v. U.S. (1990) *illustrates preliminary questions (Rule 104)* (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
+The standard of proof for a judge's evidentiary decisions is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. This is in keeping with the idea behind the rules that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
 
 **Rule 104(c)** gives the judge broad discretion in preliminary questions, providing that the court **must** conduct any hearing on a preliminary question so that the jury cannot hear it if (1) the hearing involves the admissibility of a confession; (2) a defendant in a criminal case is a witness and so requests; or (3) justice so requires.
+
+[^1]:Dowling v. U.S. (1990) *illustrates preliminary questions (Rule 104)* (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
 
 ---
 
@@ -71,7 +71,9 @@ The standard of proof for a judge's evidentiary decisions is a **preponderance o
 
 ## Rule 105 Limiting Instructions
 
-A limiting instruction is an instruction from the judge to the jury, telling the jury to disregard evidence for a specific purpose or against a party. **Rule 105** provides that if the court admits evidence that is admissible for one purpose (or against one party) but not another, the court, **if requested**, the trial judge **must** (no discretion) restrict the evidence to its proper scope and instruct the jury accordingly. Such instructions are not always easy for juries to follow, but the courts need to suppose that juries will follow instructions. Relying on that supposition, Rule 105 aims to ensure that proceedings are fair.
+A limiting instruction is an instruction from the judge to the jury, telling the jury to disregard evidence for a specific purpose or against a party.
+
+**Rule 105** provides that if the court admits evidence that is admissible for one purpose (or against one party) but not another, the trial judge **must**, if requested, restrict the evidence to its proper scope and instruct the jury accordingly. Limiting instructions are not always easy for juries to follow, but the courts need to suppose they will follow them. Relying on that supposition, Rule 105 aims to ensure that proceedings are fair.
 
 ---
 
@@ -119,13 +121,15 @@ Under **Rule 403**, a judge **may** exclude evidence it considers unfairly preju
 
 ## Rule 611 Control by the Court and Leading Questions
 
-**Rule 611(a)** provides that the court should exercise reasonable control over procedures for examining witnesses and presenting evidence so as to (1) make those procedures effective for determining the truth; (2) avoid wasting time; and (3) protect witnesses from harassment or undue embarrassment. Under **Rule 611(b)** and **(c)**, leading questions can be asked in cross examination, but only about information that was provided in direct examination; and leading questions are allowed when a party calls a hostile witness, an adverse party, or a witness identified with an adverse party.
+**Rule 611(a)** provides that the court should exercise reasonable control over procedures for examining witnesses and presenting evidence so as to (1) make those procedures effective for determining the truth; (2) avoid wasting time; and (3) protect witnesses from harassment or undue embarrassment.
+
+Under **Rule 611(b)** and **(c)**, leading questions can be asked in cross examination, but only about information that was provided in direct examination; and leading questions are allowed when a party calls a hostile witness, an adverse party, or a witness identified with an adverse party.
 
 ---
 
 ## Rule 607 Witness Impeachment  
 
-Under **Rule 607**, any party, including the party that called the witness, may attack the witness’s credibility. Witnesses can be impeached for incompetency, bias, prior inconsistent statement and general character for untruthfulness. Sometimes, extrinsic evidence can be brought in to impeach.
+Under **Rule 607**, any party, including the party that called the witness, may attack the witness’s credibility. Witnesses can be impeached for **incompetency, bias, prior inconsistent statement** and **general character for untruthfulness**. Sometimes, extrinsic evidence can be brought in to impeach.
 
 ---
 
@@ -133,7 +137,7 @@ Under **Rule 607**, any party, including the party that called the witness, may 
 
 **Extrinsic evidence** is any evidence other than testimony from the witness already on the stand. Extrinsic evidence can be **collateral and non-collateral**. A **collateral matter** is relevant to the case solely because it impeaches a witness. A **non-collateral matter** proves a fact of consequence other than impeachment.
 
-Judges use their discretion under Rules 403 and 611 to prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but under Rule 613 parties may present extrinsic evidence of prior inconsistent statements related to non-collateral matters.
+Rules 403 and 611 prohibit extrinsic evidence of a prior inconsistent statement on a purely collateral matter, but Rule 613 allows extrinsic evidence of prior inconsistent statements related to non-collateral matters.
 
 ---
 
@@ -150,7 +154,7 @@ Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent st
 
 ## Bias
 
-“**Bias** is a term used in the ‘common law of evidence’ to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, [their] testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest.” (U.S. v. Abel) [^13]
+**Bias** is a term used in the "common law of evidence" to describe the relationship between a party and a witness which might lead the witness to slant, unconsciously or otherwise, [their] testimony in favor of or against a party. Bias may be induced by a witness's like, dislike, or fear of a party, or by the witness's self-interest. (U.S. v. Abel) [^13]
 
 [^13]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias* (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
 
@@ -174,9 +178,9 @@ Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent st
 
 Rule 404(a)(1) thus excludes most character evidence. **Rule 608** lets some character evidence back in by allowing **opinion or reputation evidence** to attack a fact witness’s character for truthfulness, and **inquiry into specific instances of conduct** to prove a witness’s character for truthfulness or untruthfulness, during cross-examination. [^14] [^15] [^16]
 
-**Rule 608(a)** states that a witness’s credibility may be attacked or supported by testimony about the witness’s **reputation** for having a character for truthfulness or untruthfulness, or  testimony of an **opinion** about that character. Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked.
+**Rule 608(a)** states that a witness’s credibility may be attacked or supported by testimony about the witness’s **reputation** for having a character for truthfulness or untruthfulness, or  testimony of an **opinion** about that character. **Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked**.
 
-Extrinsic evidence is **not admissible** to prove specific instances of a witness’s conduct in order to attack or support the witness’s character for truthfulness (except criminal convictions under Rule 609). However, **Rule 608(b)** allows the attorney to ask questions during cross-examination about **specific instances of a witness’s conduct** to prove truthfulness or untruthfulness. The attorney's purpose is to get the jury to infer that because the witness has a character for truthfulness or untruthfulness, it is more or less likely that the witness’s current testimony is true.
+Extrinsic evidence is **not admissible** to prove **specific instances of a witness’s conduct** in order to attack or support the witness’s character for truthfulness (except criminal convictions under Rule 609). However, **Rule 608(b)** allows the attorney to ask questions during cross-examination about **specific instances of a witness’s conduct** to prove truthfulness or untruthfulness. The attorney aims to get the jury to infer that because the witness has a character for truthfulness or untruthfulness, it is more or less likely that the witness’s current testimony is true or false.
 
 [^14]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
 
@@ -200,12 +204,12 @@ Rule 609 will not be on the final. For Rule 609 see [earlier version of outline]
 - {:.indent-2}a defect in a product or its design; or
 - {:.indent-2}a need for a warning or instruction.
 
-Evidence of subsequent remedial measures is **admissible** when offered for another purpose, such as
+Evidence of subsequent remedial measures is **admissible** when offered
 - {:.indent-2}to prove ownership and/or control;
 - {:.indent-2}to prove feasibility of precautionary measures; and/or
 - {:.indent-2}to impeach a witness.
 
-The court **may** admit evidence of a remedial measure **if the measure was taken by a non-party (third party)**
+The court **may admit** evidence of a remedial measure **if the measure was taken by a third party**.
 
 Rule 407 is based on specific concerns that limited or excluded evidence will often fail the Rule 403 balancing test. **Concerns about the evidence’s probative value** are that even when evidence is admissible under Rule 407 with a limiting instruction, it is still difficult to explain how to apply evidence for impeachment or feasibility but not liability. **Concern about unfair prejudice specific to admitting evidence of a subsequent remedial measure** is that if the evidence is admissible under Rule 407 but the judge applies Rule 403 at the defendant’s request, so prejudice has to substantially outweigh the probative value of the evidence, because a substantial remedial measure is often highly probative, Rule 403 will often not keep the evidence out. [^17] [^18] [^19] [^20] [^21]   
 
@@ -229,9 +233,7 @@ Rule 407 is based on specific concerns that limited or excluded evidence will of
 
 **There must be a disputed claim** for there to be offers of consideration or settlement negotiations. If there is no dispute about the amount or validity of a claim, there is no offer of consideration or settlement, and no negotiation. [^24] [^25]
 
-Discussion of otherwise discoverable evidence or witnesses at a settlement conference does not automatically bring that evidence/witness within 408 protection and other rules may apply.
-
-**Rule 408(b)** exceptions will not be tested on the final.
+Discussion of otherwise discoverable evidence at a settlement conference is not automatically protected by Rule 408 and other rules may apply.
 
 [^22]:Weems v. Tyson Foods, Inc., 665 F.3d 958 (C.A 8th Cir. 2011) *illustrates compromise offers and negotiations (Rule 408)* (district court violated Rule 408 by admitting into evidence a separation agreement and related testimony and this error likely materially influenced the jury’s verdict)
 
@@ -309,11 +311,11 @@ The "**business records**” exception to hearsay in **Rule 803(6)** provides th
 
 ## Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
 
-**Rule 804(a)** provides that a declarant is an unavailable witness if the declarant (1) is exempted because a privilege applies; (2) refuses to testify; (3) does not remember; (4) is dead or ill; or (5) is absent and the proponent was unable to procure (A) the declarant’s attendance in the case of a hearsay exception under Rule 804(b)(1) or (6); or (B) the declarant’s attendance or testimony in the case of a hearsay exception under Rule 804(b)(2), (3), or (4). Rule 804(a) does not apply if the proponent caused the declarant’s unavailability to prevent the declarant from testifying. [^32]
+Under **Rule 804(a)**, a declarant is an unavailable witness if the declarant (1) is exempted because a privilege applies; (2) refuses to testify; (3) does not remember; (4) is dead or ill; or (5) is absent and the proponent was unable to procure (A) the declarant’s attendance in the case of a hearsay exception under Rule 804(b)(1) or (6); or (B) the declarant’s attendance or testimony in the case of a hearsay exception under Rule 804(b)(2), (3), or (4). Rule 804(a) does not apply if the proponent caused the declarant’s unavailability to prevent the declarant from testifying. [^32]
 
-**Rule 804(b)(3)** provides that if the declarant is unavailable as a witness, the rule against hearsay does not exclude a **statement against interest** that (A) a reasonable person in the declarant’s position would have made only if the person believed it to be true because it was so contrary to the declarant’s proprietary or pecuniary interest or had so great a tendency to invalidate the declarant’s claim against someone else or to expose the declarant to civil or criminal liability; **and** (B) **is supported by corroborating circumstances that clearly indicate its trustworthiness** if offered in a criminal case. [^33] [^34]
+Under **Rule 804(b)(3)**, if the declarant is unavailable as a witness, the rule against hearsay does not exclude a **statement against interest** that (A) a reasonable person in the declarant’s position would have made only if the person believed it to be true because it was so contrary to the declarant’s proprietary or pecuniary interest or had so great a tendency to invalidate the declarant’s claim against someone else or to expose the declarant to civil or criminal liability; **and** (B) is supported by **corroborating circumstances** that clearly indicate its trustworthiness **if offered in a criminal case**. [^33] [^34]
 
-[^32]:Hypo Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement against interest exception to rule against hearsay* (if Hardin's statement used against Stone the statement is untrustworthy because Hardin was cooperating with prosecutors when he taped the conversation [no idea whether I got this right])
+[^32]:Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement against interest exception to rule against hearsay* (if Hardin's statement used against Stone the statement is untrustworthy because Hardin was cooperating with prosecutors when he taped the conversation [no idea whether I got this right])
 
 [^33]:United States v. Chang 999 F,3d 1059 (C.A. 7th 2021) *illustrates statement against interest exception to rule against hearsay* (Court barred Lola Chang's self-incriminating statements exculpating Ely Lao where they had been arrested in a car that broke down on the highway and cops found drugs and illegally modified guns in the car, because the court found her statements untrustworthy because either coerced [cops thought maybe partner abuse] or for affection [cops thought Chang and Lao were "culturally" married] and because other evidence contradicted what Chang said)
 
@@ -325,20 +327,17 @@ Under **Rule 801(d)(2)(A)** an **opposing party's statement** is not hearsay if 
 
 Under **Rule 801(d)(2)(D)** an **opposing party's statement** is not hearsay if it is offered against an opposing party and was **made by the party’s agent or employee** within the scope of that relationship or while it existed. [^34]
 
-Under **Rule 801(d)(2)(E)** an **opposing party's statement** is not hearsay if it is offered against an opposing party and was **made by the party’s coconspirator** during and in furtherance of the conspiracy. The proponent must establish by a preponderance of the evidence that a conspiracy existed, that the defendant was a member of the conspiracy, and that the statement was made during the course of the conspiracy. A conspiracy is loosely defined as ... Mere idle chatter or casual conversation about past events is not considered a statement in furtherance of the conspiracy. [^35]
+Under **Rule 801(d)(2)(E)** an **opposing party's statement** is not hearsay if it is offered against an opposing party and was **made by the party’s coconspirator** during and in furtherance of the conspiracy. The proponent must establish by a preponderance of the evidence that a conspiracy existed, that the defendant was a member of the conspiracy, and that the statement was made during the course of the conspiracy. Mere idle chatter or casual conversation about past events is not considered a statement in furtherance of the conspiracy. [^35]
 
 [^34]:Baines v. Walgreen 863 F.3d 656 (7th Cir. 2007) *illustrates opposing party's statement made by agent or employee; also illustrates hearsay within hearsay* (Baines allowed to admit Martin's statement that Ruehs stated that Birch told Ruehs not to hire Baines because Martin was a Walgreen's employee and Ruehs was her supervisor and statements were within the scope of employment, and because innermost level of testimony [what Birch said to Ruehs] was not a statement but a command)
 
-[^35]:Hypo Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement of opposing party exception to rule against hearsay* (go back and look at rules and hypo because not getting this)
+[^35]:Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement of opposing party exception to rule against hearsay* (go back and look at rules and hypo because not getting this)
 
 ---
 
 ## Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
 
 Amendment VI. In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the state and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the assistance of counsel for his defense.
-
-
-Chapter 58
 
 ---
 
