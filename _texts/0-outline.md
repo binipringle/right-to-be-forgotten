@@ -49,15 +49,13 @@ The purposes of the Federal Rules of Evidence are to help the jury reach a fair 
 
 ## Rule 104 Preliminary Questions
 
-The rules give trial judges huge discretion in determining what evidence to admit and what to exclude.
-
 Under **Rule 104(a)** the court **must** decide preliminary questions about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. When deciding preliminary questions the court is not bound by evidence rules except those on privilege. The burden of proof is on the party offering the evidence.  
 
 Under **Rule 104(b)** when the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist.
 
-The standard of proof for a judge's evidentiary decisions is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. This is in keeping with the idea behind the rules that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
-
 **Rule 104(c)** gives the judge broad discretion in preliminary questions, providing that the court **must** conduct any hearing on a preliminary question so that the jury cannot hear it if (1) the hearing involves the admissibility of a confession; (2) a defendant in a criminal case is a witness and so requests; or (3) justice so requires.
+
+The standard of proof for a judge's evidentiary decisions is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. This is in keeping with the idea behind the rules that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
 
 [^1]:Dowling v. U.S. (1990) *illustrates preliminary questions (Rule 104)* (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
 
