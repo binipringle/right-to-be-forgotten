@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Section Three
+title: Triggers
 author:
 editor: Sabina Pringle
 rights:
