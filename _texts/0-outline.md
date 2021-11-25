@@ -35,7 +35,7 @@ toc:
 
 ---
 
-Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the copious footnotes to the text. 
+Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the copious footnotes throughout. 
 
 See [Glossary](https://binipringle.github.io/evidence/texts/8-glossary/) for terms.
 
