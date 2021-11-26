@@ -304,7 +304,7 @@ The Court in *Crawford* (2004)[^33] ruled that the confrontation clause bars **T
 - {:.indent-4}If no, stop analysis (statement does not come in).
 - {:.indent-4}If yes, is the statement testimonial?
 - {:.indent-6}If no, admit.
-- {:.indent-6}If testimonial, is declarant available and subject to cross?
+- {:.indent-6}If yes, is declarant available and subject to cross?
 - {:.indent-8}If yes, admit.
 - {:.indent-8}If no, was there prior opportunity to cross examine?
 - {:.indent-9}If yes, admit.
