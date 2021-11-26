@@ -16,3 +16,7 @@ Evidentiary rules were originally developed as part of common law. In the 1960s,
 The FRE apply in civil and criminal cases and proceedings in federal courts, and to contempt proceedings, except those in which the court may act summarily. The FRE do not govern proceedings before the U.S. Supreme Court nor apply to administrative agencies but agencies can adopt the FRE if they choose or are required (for example, the IRS requires their use in Tax Court).
 
 ---
+
+More notes from class may be dumped on this page.  
+
+---

@@ -59,4 +59,12 @@ United States v. Chang 999 F,3d 1059 (C.A. 7th 2021) illustrates statement again
 
 Baines v. Walgreen 863 F.3d 656 (7th Cir. 2007) illustrates opposing party’s statement made by agent or employee; also illustrates hearsay within hearsay (Baines allowed to admit Martin’s statement that Ruehs stated that Birch told Ruehs not to hire Baines because Martin was a Walgreen’s employee and Ruehs was her supervisor and statements were within the scope of employment, and because innermost level of testimony [what Birch said to Ruehs] was not a statement but a command)  
 
-Hardin’s taped conversations with Stone and Johnson (Hypo for class 24) illustrates statement of opposing party exception to rule against hearsay (go back and look at rules and hypo because not getting this)
+Crawford v. Washington 541 US 36 (2004) shifted application of confrontation clause (unexamined testimonial ex parte statements against defendant is what the confrontation clause bars)
+
+Davis v. Washington 547 US 813 (2006) narrowed application of confrontation clause (hearsay statements made in 911 call asking for aid were not “testimonial” because they were seeking help, not made for a prosecutorial purpose) (since Davis, statements are only testimonial when the circumstances objectively indicate that there is no ongoing emergency and that the primary purpose of the interrogation is to establish or prove past events potentially relevant to criminal prosecution)
+
+Michigan v. Bryant 562 US 344 (2011) narrowed application of Davis primary purpose test (Covington wounded and dying in gas station parking lot, told police that Bryant shot him outside Bryant’s house; police testimony inadmissible under confrontation clause because police asked questions for the purpose of catching Bryant, and there was no ongoing emergency because Covington had left the area where Bryant had shot him)
+
+Bullcoming v. New Mexico 564 US 647 (2011) illustrates lab report testimonial for confrontation clause (lab analyst who analyzed blood alcohol test taken under a search warrant was required to take the stand; second surrogate analyst could not testify in analyst’s place)
+
+Melendez-Diaz v. Massachussetts 557 US 305 (2009) illustrates lab report testimonial for confrontation clause (police seized around 28 grams of cocaine from Walmart employee and sent for analysis; lab report testimonial so analyst required in court)
