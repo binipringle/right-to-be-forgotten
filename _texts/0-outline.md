@@ -49,7 +49,7 @@ Help jurors reach fair and just determinations, eliminate delay, and develop evi
 
 ## Rule 104 Preliminary Questions
 
-The trial judge has broad discretion in deciding what evidence to admit and what to exclude. The trial court **must** decide preliminary questions and is not bound by evidence rules except those on privilege. The proponent of the evidence has the burden of proving that the fact they want to introduce exists. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
+The trial judge has broad discretion in deciding what evidence to admit and what to exclude. The trial court **must** decide preliminary questions and is not bound by evidence rules except those on privilege. The proponent of the evidence has the burden of proving that the fact they seek to introduce exists. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
 
 [^1]:Dowling v. U.S. (1990) *illustrates preliminary questions (Rule 104)* (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
 
@@ -231,14 +231,6 @@ In a **defense of entrapment**, character evidence can be an essential element w
 
 [^26]:Full set of rules for Rule 405 analysis: Rule 404(a)(1) generally prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with the character or trait. The rationale is to focus the jury on particular actions of parties and not on their “character” because (1) people do not always act according to character making character evidence not particularly probative; and (2) the drafters of the rules do not want the jury to make propensity-based decisions as this would be unfairly prejudicial jury misuse. There are exceptions to this rule. One exception is Rule 608, which allows a witness’s character for untruthfulness to come in for impeachment purposes by allowing testimony about reputation and opinion, and questions about specific prior conduct on cross-examination, but allows no extrinsic evidence. Other exceptions are in Rule 404(a)(2) aka the Mercy Rule which provides that a defendant in a criminal case may offer evidence of the defendant’s pertinent trait and evidence of an alleged victim’s pertinent trait except if the alleged victim is an alleged sex-offense victim, and, in a homicide case, the prosecutor may offer evidence of the alleged victim’s trait of peacefulness to rebut evidence that the victim was the first aggressor. Rule 405 lays out methods of proving character. Under Rule 405(a), when evidence of a person’s character or character trait is admissible, the character or character trait may be proved by testimony about the person’s reputation or opinion about the person’s character. Under Rule 405(b), when a person’s character or character trait is an essential element of a charge, claim, or defense, the character or trait may also be proved by relevant specific instances of the person’s conduct. When character evidence is an element, character can be proved in any way the rules provide, and there is no bar on extrinsic evidence. Character evidence is an element in disputes about child custody26, defamation27, negligent entrustment28, and in the defense of entrapment29.The court can always rule on a Rule 403 objection and decide to exclude any character evidence (403 backstop). Unfair prejudice will generally be jury misuse or overvaluing of character evidence.
 
-[^27]:Child Custody: character evidence can be an essential element because a child's wellbeing can depend on the "character" of the custodial parent.  
-
-[^28]:Defamation: because libel or slander is a false statement about someone that harms their reputation, truth is a defense; thus, parties to the case will try to prove or disprove the “character” of the party in question.
-
-[^29]:Negligent entrustment: when the plaintiff alleges that the defendant was negligent in entrusting a dangerous instrument (e.g., a car, gun, fireworks, skill saw, etc.) to a third party who the defendant knew or had reason to know would misuse or be negligent in using the instrument. The character of the third party is what is at issue, and the question is whether their character was such that the defendant should have known not to allow them access to the dangerous instrument.
-
-[^30]:Defense of entrapment: when (1) a government agent induced the defendant to commit a crime that (2) the defendant was not otherwise predisposed to commit.
-
 ---
 
 ## Rules 801 and 802 Hearsay
@@ -259,8 +251,6 @@ A statement made **for medical diagnosis or treatment** is not excluded by the r
 
 The "**business records**” exception to hearsay provides that a record of an act, event, condition, opinion, or diagnosis is not excluded by the rule against hearsay, regardless of whether the declarant is available as a witness, if (A) the record was made at or near the time by someone with knowledge or from information transmitted by someone with knowledge; (B) the record was kept in the course of a regularly conducted activity of a business, organization, occupation, or calling, including not-for-profit; (C) making the record was a regular practice of that activity; (D) all these conditions are shown by the testimony of the custodian or another qualified witness, or by a certification[^31; and (E) the opponent does not show a lack of trustworthiness. Business records are highly reliable because they are generally kept to run businesses. **Rule 803(6)**.
 
-[^31]:The certification has to comply with **Rule 902(11)**, which states that certified domestic records of a regularly conducted activity are self-authenticating where they are shown by a certification of the custodian or another qualified person that complies with a federal statute or a rule prescribed by the Supreme Court and the proponent gives the adverse party reasonable written notice of the intent to offer the record and makes the record and certification available for inspection so that the adverse party has a fair opportunity to challenge them; or **Rule 902(12)**.
-
 ---
 
 ## Rule 805 Hearsay Within Hearsay
@@ -273,27 +263,27 @@ The "**business records**” exception to hearsay provides that a record of an a
 
 A declarant is an unavailable witness if (1) a privilege applies; (2) the declarant refuses to testify, (3) does not remember, (4) is dead or ill, or (5) is absent and the proponent was unable to procure the declarant’s attendance or testimony in the case of a hearsay exception. A declarant is not an unavailable witness if the proponent caused the declarant’s unavailability to prevent the declarant from testifying.
 
-Under **Rule 804(b)(3)**, if the declarant is unavailable as a witness, the rule against hearsay does not exclude a **statement against interest** that (A) a reasonable person in the declarant’s position would have made only if the person believed it to be true because it was so contrary to the declarant’s proprietary or pecuniary interest or had so great a tendency to invalidate the declarant’s claim against someone else or to expose the declarant to civil or criminal liability; **and** (B) is supported by **corroborating circumstances** that clearly indicate its trustworthiness **if offered in a criminal case**. [^33] [^34]
+Under **Rule 804(b)(3)**, if the declarant is unavailable as a witness, the rule against hearsay does not exclude a **statement against interest** that (A) a reasonable person in the declarant’s position would have made only if the person believed it to be true because it was so contrary to the declarant’s proprietary or pecuniary interest or had so great a tendency to invalidate the declarant’s claim against someone else or to expose the declarant to civil or criminal liability; **and** (B) is supported by **corroborating circumstances** that clearly indicate its trustworthiness **if offered in a criminal case**. [^27] [^28]
 
-[^32]:Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement against interest exception to rule against hearsay* (if Hardin's statement used against Stone the statement is untrustworthy because Hardin was cooperating with prosecutors when he taped the conversation [no idea whether I got this right])
+[^27]:Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement against interest exception to rule against hearsay* (if Hardin's statement used against Stone the statement is untrustworthy because Hardin was cooperating with prosecutors when he taped the conversation [no idea whether I got this right])
 
-[^33]:United States v. Chang 999 F,3d 1059 (C.A. 7th 2021) *illustrates statement against interest exception to rule against hearsay* (Court barred Lola Chang's self-incriminating statements exculpating Ely Lao where they had been arrested in a car that broke down on the highway and cops found drugs and illegally modified guns in the car, because the court found her statements untrustworthy because either coerced [cops thought maybe partner abuse] or for affection [cops thought Chang and Lao were "culturally" married] and because other evidence contradicted what Chang said)
+[^28]:United States v. Chang 999 F,3d 1059 (C.A. 7th 2021) *illustrates statement against interest exception to rule against hearsay* (Court barred Lola Chang's self-incriminating statements exculpating Ely Lao where they had been arrested in a car that broke down on the highway and cops found drugs and illegally modified guns in the car, because the court found her statements untrustworthy because either coerced [cops thought maybe partner abuse] or for affection [cops thought Chang and Lao were "culturally" married] and because other evidence contradicted what Chang said)
 
 ---
 ## Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
 
-An **opposing party's statement** is not hearsay if **made by the opposing party in an individual or representative capacity**, or **by the opposing party’s agent or employee** within the scope of that relationship or while it existed and within the scope of their duties. [^34] An opposing party's statement is not hearsay if it was **made by the party’s co-conspirator during and in furtherance of the conspiracy.** Neither declarant nor conspiracy have to be charged. **Proponent must offer additional evidence** that a conspiracy existed and that the party and declarant were members of the conspiracy. A conspiracy is broadly defined as a common plan or joint venture. Idle chatter or casual conversation about past events are not statements in furtherance of a conspiracy. [^35] [^36] [^37]
+An **opposing party's statement** is not hearsay if **made by the opposing party in an individual or representative capacity**, or **by the opposing party’s agent or employee** within the scope of that relationship or while it existed and within the scope of their duties. [^29] An opposing party's statement is not hearsay if it was **made by the party’s co-conspirator during and in furtherance of the conspiracy.** Neither declarant nor conspiracy have to be charged. **Proponent must offer additional evidence** that a conspiracy existed and that the party and declarant were members of the conspiracy. A conspiracy is broadly defined as a common plan or joint venture. Idle chatter or casual conversation about past events are not statements in furtherance of a conspiracy. [^30] [^31] [^32]
 
 The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a judicial device that holds a party responsible for all statements they make and therefore "estops" them from objecting to their own statement on grounds that it is unreliable.  However, a declarant can always take the stand and explain.
 
 
-[^34]:Baines v. Walgreen 863 F.3d 656 (7th Cir. 2007) *illustrates opposing party's statement made by agent or employee; also illustrates hearsay within hearsay* (Baines allowed to admit Martin's statement that Ruehs stated that Birch told Ruehs not to hire Baines because Martin was a Walgreen's employee and Ruehs was her supervisor and statements were within the scope of employment, and because innermost level of testimony [what Birch said to Ruehs] was not a statement but a command)
+[^29]:Baines v. Walgreen 863 F.3d 656 (7th Cir. 2007) *illustrates opposing party's statement made by agent or employee; also illustrates hearsay within hearsay* (Baines allowed to admit Martin's statement that Ruehs stated that Birch told Ruehs not to hire Baines because Martin was a Walgreen's employee and Ruehs was her supervisor and statements were within the scope of employment, and because innermost level of testimony [what Birch said to Ruehs] was not a statement but a command)
 
-[^35]:Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement of opposing party exception to rule against hearsay* (go back and look at rules and hypo because not getting this)
+[^30]:Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement of opposing party exception to rule against hearsay* (go back and look at rules and hypo because not getting this)
 
-[^36]:Mahlandt (pp. 671-672) *illustrates statement of opposing party exception to rule against hearsay* (any statement made by opposing party is broadly construed; does not have to be incriminating or inculpatory; includes diaries, off-hand remarks, things said in anger, things the declarant does not have personal knowledge of, things the declarant is mistaken about)
+[^31]:Mahlandt (pp. 671-672) *illustrates statement of opposing party exception to rule against hearsay* (any statement made by opposing party is broadly construed; does not have to be incriminating or inculpatory; includes diaries, off-hand remarks, things said in anger, things the declarant does not have personal knowledge of, things the declarant is mistaken about)
 
-[^37]:McDaniel (pp. 669-670) *illustrates statement of opposing party exception to rule against hearsay* (cannot admit own statement because no self serving)
+[^32]:McDaniel (pp. 669-670) *illustrates statement of opposing party exception to rule against hearsay* (cannot admit own statement because no self serving)
 
 ---
 
@@ -301,7 +291,7 @@ The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a ju
 
 The **Sixth Amendment** states that in all **criminal prosecutions**, the accused shall enjoy the right ... to be confronted with the witnesses against him. In criminal trials, the confrontation clause is in tension when out-of-court statements are admitted against the defendant for the truth of the matter asserted because defendant is unable to cross examine (confront) the declarant.
 
-The Court in *Crawford* (2004)[^39] ruled that the confrontation clause bars **Testimonial** statements against a criminal defendant unless the declarant testifies at trial or the defendant had a prior opportunity to cross examine the declarant. A testimonial statement is a formal declaration or affirmation made for the purpose of establishing a fact which the declarant would reasonably expect to be used in a criminal investigation or prosecution. [^40] The court in *Davis* (2006)[^41] ruled that statements are **non-testimonial** when theprimary purpose of a police interrogation is to enable police  assistancefor meeting an ongoing emergency.[^42]
+The Court in *Crawford* (2004)[^33] ruled that the confrontation clause bars **Testimonial** statements against a criminal defendant unless the declarant testifies at trial or the defendant had a prior opportunity to cross examine the declarant. A testimonial statement is a formal declaration or affirmation made for the purpose of establishing a fact which the declarant would reasonably expect to be used in a criminal investigation or prosecution. [^34] The court in *Davis* (2006)[^35] ruled that statements are **non-testimonial** when theprimary purpose of a police interrogation is to enable police  assistancefor meeting an ongoing emergency.[^36]
 
 *Out-of-court statements offered for the truth of the matter asserted against criminal defendant must satisfy both the rules against hearsay and the confrontation clause.*
 
@@ -324,7 +314,7 @@ The Court in *Crawford* (2004)[^39] ruled that the confrontation clause bars **T
 
 **Davis primary purpose test**
 
-Statements made in response to police interrogation are **non-testimonial** if circumstances objectively indicate that the **primary purpose of interrogation is to meet an ongoing emergency**. Statements made in response to police interrogation are **testimonial** when circumstances **objectively indicate** that there is **no ongoing emergency** and **the primary purpose of the interrogation is to establish or prove past facts relevant to prosecution**. The primary purpose must be of both the defendant and the interrogator. The court must objectively consider all relevant circumstances including formality or informality of interrogation or questioning (ongoing emergency is only one factor). [^43]
+Statements made in response to police interrogation are **non-testimonial** if circumstances objectively indicate that the **primary purpose of interrogation is to meet an ongoing emergency**. Statements made in response to police interrogation are **testimonial** when circumstances **objectively indicate** that there is **no ongoing emergency** and **the primary purpose of the interrogation is to establish or prove past facts relevant to prosecution**. The primary purpose must be of both the defendant and the interrogator. The court must objectively consider all relevant circumstances including formality or informality of interrogation or questioning (ongoing emergency is only one factor). [^37] [^38]
 
 **Factors to determine primary purpose**
 
@@ -352,23 +342,23 @@ Statements made in response to police interrogation are **non-testimonial** if c
 
 **Lab or scientific reports are testimonial**
 
-In *Bullcoming* (2011)[^45] and *Melendez Diaz* (2009)[^46] the Court ruled that laboratory reports or affidavits accompanying reports are testimonial because they are made for the purpose of establishing or proving some fact in a criminal proceeding. Therefore, these records cannot be admitted unless the person who did the test takes the stand.
+In *Bullcoming* (2011)[^39] and *Melendez Diaz* (2009)[^40] the Court ruled that laboratory reports or affidavits accompanying reports are testimonial because they are made for the purpose of establishing or proving some fact in a criminal proceeding. Therefore, these records cannot be admitted unless the person who did the test takes the stand.
 
-[^39]:Crawford v. Washington 541 US 36 (2004) *shifted application of confrontation clause* (unexamined testimonial ex parte statements against defendant is what the confrontation clause bars)
+[^33]:Crawford v. Washington 541 US 36 (2004) *shifted application of confrontation clause* (unexamined testimonial ex parte statements against defendant is what the confrontation clause bars)
 
-[^40]:Hearsay exceptions that require the declarant to take the stand do not raise confrontation clause because declarant can confront (cross-examine). See list above.
+[^34]:Hearsay exceptions that require the declarant to take the stand do not raise confrontation clause because declarant can confront (cross-examine). See list above.
 
-[^41]:Davis v. Washington 547 US 813 (2006) *narrowed application of confrontation clause* (hearsay statements made in 911 call asking for aid were not "testimonial" because they were seeking help, not made for a prosecutorial purpose)
+[^35]:Davis v. Washington 547 US 813 (2006) *narrowed application of confrontation clause* (hearsay statements made in 911 call asking for aid were not "testimonial" because they were seeking help, not made for a prosecutorial purpose)
 
-[^42]:Since Davis, statements are only testimonial when the circumstances objectively indicate that there is no ongoing emergency and that the primary purpose of the interrogation is to establish or prove past events potentially relevant to criminal prosecution.
+[^36]:Since Davis, statements are only testimonial when the circumstances objectively indicate that there is no ongoing emergency and that the primary purpose of the interrogation is to establish or prove past events potentially relevant to criminal prosecution.
 
-[^43]:Michigan v. Bryant 562 US 344 (2011) *narrowed application of Davis primary purpose test* (Covington wounded and dying in gas station parking lot, told police that Bryant shot him outside Bryant's house; police testimony inadmissible under confrontation clause because police asked questions for the purpose of catching Bryant, and there was no ongoing emergency because Covington had left the area where Bryant had shot him)
+[^37]:Michigan v. Bryant 562 US 344 (2011) *narrowed application of Davis primary purpose test* (Covington wounded and dying in gas station parking lot, told police that Bryant shot him outside Bryant's house; police testimony inadmissible under confrontation clause because police asked questions for the purpose of catching Bryant, and there was no ongoing emergency because Covington had left the area where Bryant had shot him)
 
-[^44]:People v. Clay 88 AD 3d 14 (NY App. Div. 2011) *illustrates dying declaration exception to confrontation clause* (dying victim's words in reply to police questioning were testimonial but were a dying declaration so admissible as an exception to the confrontation clause)
+[^38]:People v. Clay 88 AD 3d 14 (NY App. Div. 2011) *illustrates dying declaration exception to confrontation clause* (dying victim's words in reply to police questioning were testimonial but were a dying declaration so admissible as an exception to the confrontation clause)
 
-[^45]:Bullcoming v. New Mexico 564 US 647 (2011) *illustrates lab report testimonial for confrontation clause* (lab analyst who analyzed blood alcohol test taken under a search warrant was required to take the stand; second surrogate analyst could not testify in analyst's place)
+[^39]:Bullcoming v. New Mexico 564 US 647 (2011) *illustrates lab report testimonial for confrontation clause* (lab analyst who analyzed blood alcohol test taken under a search warrant was required to take the stand; second surrogate analyst could not testify in analyst's place)
 
-[^46]:Melendez-Diaz v. Massachussetts 557 US 305 (2009) *illustrates lab report testimonial for confrontation clause* (police seized around 28 grams of cocaine from Walmart employee and sent for analysis; lab report testimonial so analyst required in court)
+[^40]:Melendez-Diaz v. Massachussetts 557 US 305 (2009) *illustrates lab report testimonial for confrontation clause* (police seized around 28 grams of cocaine from Walmart employee and sent for analysis; lab report testimonial so analyst required in court)
 
 ---
 
