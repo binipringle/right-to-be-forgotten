@@ -31,7 +31,7 @@ toc:
 - Rule 805 Hearsay Within Hearsay
 - Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
 - Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
-- Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
+- Sixth Amendment Confrontation Clause
 
 ---
 
@@ -396,7 +396,7 @@ The court must objectively consider all relevant circumstances including formali
 
 **Lab or scientific reports are testimonial**
 
-In *Bullcoming* (2011)[^45] and *Melendez Diaz* (2009)[^46] the Court ruled that laboratory reports or affidavits accompanying reports are testimonial because made for the purpose of establishing or proving some fact in a criminal proceeding. Therefore, these records cannot be admitted unless the person who did the test takes the stand and describes the specific testing procedures followed. *Williams v. Illinois* (2012) was a split court and kind of threw the question of lab or scientific reports up in the air. 
+In *Bullcoming* (2011)[^45] and *Melendez Diaz* (2009)[^46] the Court ruled that laboratory reports or affidavits accompanying reports are testimonial because made for the purpose of establishing or proving some fact in a criminal proceeding. Therefore, these records cannot be admitted unless the person who did the test takes the stand and describes the specific testing procedures followed. *Williams v. Illinois* (2012) was a split court and kind of threw the question of lab or scientific reports up in the air.
 
 ---
 
