@@ -33,6 +33,14 @@ toc:
 
 ---
 
+Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the copious footnotes throughout.
+
+See [Glossary](https://binipringle.github.io/evidence/texts/8-glossary/) for terms.
+
+See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre) for law.
+
+---
+
 ## Rule 102 Purpose
 
 Help jurors reach fair and just determinations, eliminate delay, and develop evidence law.

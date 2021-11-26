@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Earlier version of outline
+title: Outline First Iteration
 author:
 editor: Sabina Pringle
 source:
