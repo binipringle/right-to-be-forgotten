@@ -342,11 +342,11 @@ The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a ju
 
 ---
 
-## Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
+## Sixth Amendment Confrontation Clause
 
-In all **criminal prosecutions**, the accused shall enjoy the right ... to be confronted with the witnesses against him. 6th Amendment. [^38]
+In all **criminal prosecutions**, the accused shall enjoy the right ... to be confronted with the witnesses against him. [^38]
 
-Since *Crawford* (2004),[^40] **Testimonial** statements cannot be introduced against a criminal defendant unless the declarant testifies at trial or the defendant had a prior opportunity to cross examine the declarant about the statement. A testimonial statement is a formal declaration or affirmation made for the purpose of establishing a fact which the declarant would reasonably expect to be used in a criminal investigation or prosecution. [^39] A statement of opposing party used against the defendant including statements by co-conspirators is never excluded by the confrontation clause. General business records are not testimonial so they are not protected by the confrontation clause. The court in *Davis* (2006)[^41] ruled that statements are **non-testimonial** when theprimary purpose of a police interrogation is to enable police assistanceto meet an ongoing emergency.[^42]
+The Court in *Crawford* (2004)[^39] ruled that the 6th Amendment confrontation clause bars **Testimonial** statements against a criminal defendant unless the declarant testifies at trial or the defendant had a prior opportunity to cross examine the declarant. A testimonial statement is a formal declaration or affirmation made for the purpose of establishing a fact which the declarant would reasonably expect to be used in a criminal investigation or prosecution. [^40] The court in *Davis* (2006)[^41] ruled that statements are **non-testimonial** when theprimary purpose of a police interrogation is to enable police assistancefor meeting an ongoing emergency.[^42]
 
 
 **Steps of analysis:**
@@ -364,7 +364,7 @@ Since *Crawford* (2004),[^40] **Testimonial** statements cannot be introduced ag
 - {:.indent-9}If yes, admit.
 - {:.indent-9}If no, exclude.
 
-**Davis Primary Purpose Test**
+**Davis primary purpose test**
 
 Statements made in response to police interrogation are **non-testimonial** if circumstances objectively indicate that the primary purpose of interrogation is to meet an ongoing emergency.
 
@@ -372,46 +372,39 @@ Statements made in response to police interrogation are **testimonial** when cir
 
 The court must objectively consider all relevant circumstances including formality or informality of interrogation or questioning. Ongoing emergency is only one factor. [^43]
 
-**Factors to look at to determine “primary purpose” of statement**
+**Factors to determine primary purpose**
 
-- Declarant’s safety at time of statement
-- Goal of questioning (resolve ongoing emergency or prosecution)
-- Formality of statement (location, who declarant speaking to, calm vs fluid events)
-- Declarant describing past or current events
-- Objective belief of declarant **and** interrogator
+- {:.indent-2}Declarant’s safety at time of statement
+- {:.indent-2}Goal of questioning (resolve ongoing emergency or prosecution)
+- {:.indent-2}Formality of statement (location, who declarant speaking to, calm vs fluid events)
+- {:.indent-2}Declarant describing past or current events
+- {:.indent-2}Objective belief of declarant **and** interrogator
 
-Analyze circumstances/factors to support arguments on both sides
+*Analyze circumstances/factors to support arguments on both sides.*
 
 ---
 
 **Hearsay exceptions/exemptions that do not raise confrontation clause issues**
 
-- Defendant witness testifying about prior inconsistent statements (because subject to cross)
-- Any 801(d)(1) exceptions (because declarant subject to cross)
-- Any 801(d)(2) exceptions (because declarant subject to cross)
-- Opposing party statements used against defendant in a criminal case (because made by defendant)
-- Opposing party co-conspirator statements (because in furtherance, not testimonial)
-- Business records generally (because purpose not prosecutorial and trustworthy)
-- Dying declarations (because "founding era exception" to confrontation clause)
+- {:.indent-2}Defendant witness testifying about prior inconsistent statements (because subject to cross)
+- {:.indent-2}Any 801(d)(1) exceptions (because declarant subject to cross)
+- {:.indent-2}Any 801(d)(2) exceptions (because declarant subject to cross)
+- {:.indent-2}Opposing party statements used against defendant in a criminal case (because made by defendant)
+- {:.indent-2}Opposing party co-conspirator statements (because in furtherance, not testimonial)
+- {:.indent-2}Business records generally (because purpose not prosecutorial and trustworthy)
+- {:.indent-2}Dying declarations (because "founding era exception" to confrontation clause)
 
-**Lab or scientific reports yes testimonial**
+**Lab or scientific reports are testimonial**
 
-In *Bullcoming*[^45] and *Melendez Diaz* the Court ruled that  (5/4) both held laboratory report or affidavits accompanying report to be testimonial b/c made for the purpose of establishing or proving some fact” in a criminal proceeding.
-This means that the record could not be admitted – would need someone who did the test to take the stand and describe the specific testing procedures done
-
-Williams: fractured opinion  concurrence- not testimonial b/c at time made was not ”targeting an individual”  for prosecution vs.  Thomas not testimonial b/c informal report – all dicta right now
-For class use Crawford’s Primary Purpose test and for lab reports the Bullcoming/Melendez-Diaz approach
-
-Area not settled and in practice necessary to research doctrinal approach  followed in your jurisdiction
-
+In *Bullcoming* (2011)[^45] and *Melendez Diaz* (2009)[^46] the Court ruled that laboratory reports or affidavits accompanying reports are testimonial because made for the purpose of establishing or proving some fact in a criminal proceeding. Therefore, these records cannot be admitted unless the person who did the test takes the stand and describes the specific testing procedures followed. *Williams v. Illinois* (2012) was a split court and kind of threw the question of lab or scientific reports up in the air. 
 
 ---
 
-[^38]:The confrontation clause is in tension when out-of-court statements are admitted against the defendant for the truth of the matter asserted because defendant is unable to cross examine (confront) the declarant.   
+[^38]:6th Amendment to the U.S. Constitution. In criminal trials, the confrontation clause is in tension when out-of-court statements are admitted against the defendant for the truth of the matter asserted because defendant is unable to cross examine (confront) the declarant.   
 
 [^39]:Crawford v. Washington 541 US 36 (2004) *shifted application of confrontation clause* (unexamined testimonial ex parte statements against defendant is what the confrontation clause bars)
 
-[^40]:Statement of opposing party offered against the defendant in a criminal case are not protected by the confrontation clause because those statements are assumed made by the defendant, who can take the stand. Statement by co-conspirator must be in furtherance of the conspiracy and therefore is not “testimonial.”
+[^40]:Hearsay exceptions that require the declarant to take the stand do not raise confrontation clause because declarant can confront (cross-examine). See list above.
 
 [^41]:Davis v. Washington 547 US 813 (2006) *narrowed application of confrontation clause* (hearsay statements made in 911 call asking for aid were not "testimonial" because they were seeking help, not made for a prosecutorial purpose)
 
