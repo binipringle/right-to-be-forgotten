@@ -19,6 +19,7 @@ toc:
 - Rule 613 Prior Inconsistent Statement
 - Bias
 - Rule 404a1 General Prohibition of Character Evidence
+- Rule 404b1 and 404b2 Other Crimes Wrongs or Acts
 - Rule 608 Witness Impeachment for Character for Untruthfulness
 - Rule 609 Witness Impeachment for Prior Convictions
 - Rule 407 Subsequent Remedial Measures
@@ -166,7 +167,7 @@ Under **Rule 613(b)**, extrinsic evidence of a witness’s prior inconsistent st
 
 ---
 
-## Rule 404b1 and 404b2 Other Crimes Wrongs or Acts for Proving Character
+## Rule 404b1 and 404b2 Other Crimes Wrongs or Acts
 
 **Rule 404(b)(1)** provides that evidence of any other crime, wrong, or act is not admissible to prove a person’s character in order to show that on a particular occasion the person acted in accordance with the character. However, under **Rule 404(b)(2)** this evidence may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
 
@@ -198,20 +199,9 @@ Rule 609 will not be on the final. For Rule 609 see [earlier version of outline]
 
 ## Rule 407 Subsequent Remedial Measures
 
-**Rule 407** excludes relevant evidence in order to promote socially valuable activities or protect socially valuable relationships by (1) encouraging defendants to make repairs promptly without worrying about their effects on pending litigation, and (2) protecting plaintiffs from prejudice that could arise from the jury interpreting subsequent remedial measures as an admission of fault. Subsequent remedial measures are measures that would have made an earlier harm less likely to occur. Evidence of subsequent remedial measures is **not admissible** to prove
-- {:.indent-2}negligence;
-- {:.indent-2}culpable conduct;
-- {:.indent-2}a defect in a product or its design; or
-- {:.indent-2}a need for a warning or instruction.
+**Rule 407** excludes relevant evidence in order to promote socially valuable activities or protect socially valuable relationships by (1) encouraging defendants to make repairs promptly without worrying about their effects on pending litigation, and (2) protecting plaintiffs from prejudice that could arise from the jury interpreting subsequent remedial measures as an admission of fault. Subsequent remedial measures are measures that would have made an earlier harm less likely to occur. Evidence of subsequent remedial measures is **not admissible** to prove negligence; culpable conduct; a defect in a product; or a need for a warning or instruction. Evidence of subsequent remedial measures is **admissible** when offered to prove ownership and/or control; feasibility of precautionary measures; and/or to impeach a witness. The court **may admit** evidence of a remedial measure **if the measure was taken by a third party**.
 
-Evidence of subsequent remedial measures is **admissible** when offered
-- {:.indent-2}to prove ownership and/or control;
-- {:.indent-2}to prove feasibility of precautionary measures; and/or
-- {:.indent-2}to impeach a witness.
-
-The court **may admit** evidence of a remedial measure **if the measure was taken by a third party**.
-
-Rule 407 is based on specific concerns that limited or excluded evidence will often fail the Rule 403 balancing test. **Concerns about the evidence’s probative value** are that even when evidence is admissible under Rule 407 with a limiting instruction, it is still difficult to explain how to apply evidence for impeachment or feasibility but not liability. **Concern about unfair prejudice specific to admitting evidence of a subsequent remedial measure** is that if the evidence is admissible under Rule 407 but the judge applies Rule 403 at the defendant’s request, so prejudice has to substantially outweigh the probative value of the evidence, because a substantial remedial measure is often highly probative, Rule 403 will often not keep the evidence out. [^17] [^18] [^19] [^20] [^21]   
+Rule 407 is based on specific concerns that limited or excluded evidence will often fail the Rule 403 balancing test. **Concerns about the evidence’s probative value** are that even when evidence is admissible under Rule 407 with a limiting instruction, it is still difficult to explain how to apply evidence for impeachment or feasibility but not liability. **Concern about unfair prejudice specific to admitting evidence of a subsequent remedial measure** is that if the evidence is admissible under Rule 407 but at the defendant's request the judge applies Rule 403 where prejudice has to substantially outweigh the probative value of the evidence, Rule 403 will often not keep it out because evidence of a substantial remedial measure is often highly probative. [^17] [^18] [^19] [^20] [^21]   
 
 [^17]:Hunter-McLeod v. Dollar Gen., Eastern District of Pennsylvania 2014 U.S. District. LEXIS 129177, CIVIL ACTION NO. 13-3113 (E.D. Pennsylvania, 2014) *illustrates subsequent remedial measures (Rule 407)* (video surveillance footage showing store employee putting cardboard on the floor where plaintiff fell is inadmissible as evidence of subsequent remedial measures because it does not directly contradict employee's witness testimony.)
 
