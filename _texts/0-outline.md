@@ -353,14 +353,14 @@ Since *Crawford* (2004),[^40] **Testimonial** statements cannot be introduced ag
 
  Out-of-court statements offered for the truth of the matter asserted against criminal defendant must satisfy both the rules against hearsay and the confrontation clause.
 
-- {:.indent-0}(1) Is the statement hearsay (out-of-court statement offered for the truth of the matter asserted)?
+- {:.indent-0}Is the statement hearsay (out-of-court statement offered for the truth of the matter asserted)?
 - {:.indent-2}If yes, does it meet or fall within a hearsay exemption or exception?
 - {:.indent-4}If no, stop analysis because the statement does not come in.
-- {:.indent-4}If yes (statement is hearsay and meets an exemption or exception), is the statement testimonial?
-- {:.indent-6}If not testimonial, admit (because it meets hearsay exemption/exception).
+- {:.indent-4}If yes, is the statement testimonial?
+- {:.indent-6}If non-testimonial, admit.
 - {:.indent-6}If testimonial, is declarant available and subject to cross?
 - {:.indent-8}If yes, admit.
-- {:.indent-8}If declarant not available, did defendant have a prior opportunity to cross examine the declarant?
+- {:.indent-8}If no, did defendant have prior opportunity to cross examine declarant?
 - {:.indent-9}If yes, admit.
 - {:.indent-9}If no, exclude.
 
