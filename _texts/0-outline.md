@@ -355,12 +355,12 @@ Since *Crawford* (2004),[^40] **Testimonial** statements cannot be introduced ag
 
 - {:.indent-0}Is the statement hearsay?
 - {:.indent-2}If yes, does it meet or fall within a hearsay exemption or exception?
-- {:.indent-4}If no, stop analysis because statement does not come in.
+- {:.indent-4}If no, stop analysis (statement does not come in).
 - {:.indent-4}If yes, is the statement testimonial?
-- {:.indent-6}If non-testimonial, admit.
+- {:.indent-6}If no, admit.
 - {:.indent-6}If testimonial, is declarant available and subject to cross?
 - {:.indent-8}If yes, admit.
-- {:.indent-8}If no, did def have prior opportunity to cross examine?
+- {:.indent-8}If no, was there prior opportunity to cross examine?
 - {:.indent-9}If yes, admit.
 - {:.indent-9}If no, exclude.
 
