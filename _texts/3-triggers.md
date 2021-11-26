@@ -9,12 +9,6 @@ toc:
 
 ---
 
-# Something
-
-might be forthcoming
-
-## on this page *but also may not*
-
-**stay tuned for further development**
+Triggers may be forthcoming. 
 
 ---

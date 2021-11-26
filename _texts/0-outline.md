@@ -35,7 +35,7 @@ toc:
 
 ---
 
-Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the copious footnotes throughout. 
+Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the copious footnotes throughout.
 
 See [Glossary](https://binipringle.github.io/evidence/texts/8-glossary/) for terms.
 
@@ -229,7 +229,7 @@ Rule 407 is based on specific concerns that limited or excluded evidence will of
 
 **Rule 408** promotes the socially valuable activity of settling disputes. Rule 408 protects only conduct or statements made in compromise negotiations regarding a claim that was disputed as to validity or amount. This rule is designed to encourage settlements by fostering free and full discussion of the issues and ensure that parties are not inhibited from making offers or statements while negotiating a settlement. Litigation does not need to have commenced for Rule 408 to apply, but there must be an actual dispute or a difference of opinion. [^22]
 
- **Rule 408(a)** states that evidence is **not admissible** to prove or disprove the validity or amount of a disputed claim or to impeach by a prior inconsistent statement or a contradiction if it is evidence of (1) furnishing, promising, offering, accepting, promising to accept, or offering to accept a consideration to settle a claim; **and** (2) conduct or statements made during negotiations about the claim. [^23]
+**Rule 408(a)** states that evidence is **not admissible** to prove or disprove the validity or amount of a disputed claim or to impeach by a prior inconsistent statement or a contradiction if it is evidence of (1) furnishing, promising, offering, accepting, promising to accept, or offering to accept a consideration to settle a claim; **and** (2) conduct or statements made during negotiations about the claim. [^23]
 
 **There must be a disputed claim** for there to be offers of consideration or settlement negotiations. If there is no dispute about the amount or validity of a claim, there is no offer of consideration or settlement, and no negotiation. [^24] [^25]
 
@@ -283,7 +283,7 @@ The court can always rule on a **Rule 403 objection** and decide to exclude any 
 
 ## Rules 801 and 802 Hearsay
 
-**Hearsay** is any statement by a declarant made out of court offered to prove the truth of the matter asserted. A declarant is a person (not animal nor machine) who made the out of court statement based on personal knowledge. Hearsay is prohibited because the jury cannot assess the declarant’s sincerity or credibility, the declarant cannot be cross examined (to test for mistake or clarity, and the statements were not made under oath, which makes them unreliable. Hearsay is inadmissible unless an exception or exemption applies.
+**Hearsay** is any statement by a declarant made  out-of-court offered to prove the truth of the matter asserted. A declarant is a person (not animal nor machine) who made the  out-of-court statement based on personal knowledge. Hearsay is prohibited because the jury cannot assess the declarant’s sincerity or credibility, the declarant cannot be cross examined (to test for mistake or clarity, and the statements were not made under oath, which makes them unreliable. Hearsay is inadmissible unless an exception or exemption applies.
 
 ---
 
@@ -323,21 +323,107 @@ Under **Rule 804(b)(3)**, if the declarant is unavailable as a witness, the rule
 
 ## Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
 
-Under **Rule 801(d)(2)(A)** an **opposing party's statement** is not hearsay if it is offered against an opposing party and was **made by the party in an individual or representative capacity**.
+Under **Rule 801(d)(2)(A)** an **opposing party's statement** is not hearsay if offered against an opposing party and **made by the party in an individual or representative capacity**.
 
-Under **Rule 801(d)(2)(D)** an **opposing party's statement** is not hearsay if it is offered against an opposing party and was **made by the party’s agent or employee** within the scope of that relationship or while it existed. [^34]
+Under **Rule 801(d)(2)(D)** an **opposing party's statement** is not hearsay if offered against an opposing party and **made by the party’s agent or employee** within the scope of that relationship or while it existed. Statements by agents or employees of an opposing party must be on matters that fall within the scope of their duties. [^34]
 
-Under **Rule 801(d)(2)(E)** an **opposing party's statement** is not hearsay if it is offered against an opposing party and was **made by the party’s coconspirator** during and in furtherance of the conspiracy. The proponent must establish by a preponderance of the evidence that a conspiracy existed, that the defendant was a member of the conspiracy, and that the statement was made during the course of the conspiracy. Mere idle chatter or casual conversation about past events is not considered a statement in furtherance of the conspiracy. [^35]
+Under **Rule 801(d)(2)(E)** an **opposing party's statement** is not hearsay if offered against an opposing party and **made by the party’s co-conspirator** during and in furtherance of the conspiracy. Neither declarant nor conspiracy have to be charged. Proponent must offer **additional evidence** beyond statement that a conspiracy existed and that defendant and declarant were members of the conspiracy. A conspiracy is broadly defined as a common plan or joint venture. Idle chatter or casual conversation about past events are not statements in furtherance of a conspiracy. [^35] [^36] [^37]
+
+The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a judicial device that holds a party responsible for all statements they make and therefore "estops" them from objecting to their own statement on grounds that it is unreliable.  However, a declarant can always take the stand and explain.
+
 
 [^34]:Baines v. Walgreen 863 F.3d 656 (7th Cir. 2007) *illustrates opposing party's statement made by agent or employee; also illustrates hearsay within hearsay* (Baines allowed to admit Martin's statement that Ruehs stated that Birch told Ruehs not to hire Baines because Martin was a Walgreen's employee and Ruehs was her supervisor and statements were within the scope of employment, and because innermost level of testimony [what Birch said to Ruehs] was not a statement but a command)
 
 [^35]:Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement of opposing party exception to rule against hearsay* (go back and look at rules and hypo because not getting this)
 
+[^36]:Mahlandt (pp. 671-672) *illustrates statement of opposing party exception to rule against hearsay* (any statement made by opposing party is broadly construed; does not have to be incriminating or inculpatory; includes diaries, off-hand remarks, things said in anger, things the declarant does not have personal knowledge of, things the declarant is mistaken about)
+
+[^37]:McDaniel (pp. 669-670) *illustrates statement of opposing party exception to rule against hearsay* (cannot admit own statement because no self serving)
+
 ---
 
 ## Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
 
-Amendment VI. In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the state and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the assistance of counsel for his defense.
+In all **criminal prosecutions**, the accused shall enjoy the right ... to be confronted with the witnesses against him. 6th Amendment. [^38]
+
+Since *Crawford* (2004),[^40] **Testimonial** statements cannot be introduced against a criminal defendant unless the declarant testifies at trial or the defendant had a prior opportunity to cross examine the declarant about the statement. A testimonial statement is a formal declaration or affirmation made for the purpose of establishing a fact which the declarant would reasonably expect to be used in a criminal investigation or prosecution. [^39] A statement of opposing party used against the defendant including statements by co-conspirators is never excluded by the confrontation clause. General business records are not testimonial so they are not protected by the confrontation clause. The court in *Davis* (2006)[^41] ruled that statements are **non-testimonial** when theprimary purpose of a police interrogation is to enable police assistanceto meet an ongoing emergency.[^42]
+
+
+**Steps of analysis:**
+
+ Out-of-court statements offered for the truth of the matter asserted against criminal defendant must satisfy both the rules against hearsay and the confrontation clause.
+
+- {:.indent-0}(1) Is the statement hearsay (out-of-court statement offered for the truth of the matter asserted)?
+- {:.indent-2}If yes, does it meet or fall within a hearsay exemption or exception?
+- {:.indent-4}If no, stop analysis because the statement does not come in.
+- {:.indent-4}If yes (statement is hearsay and meets an exemption or exception), is the statement testimonial?
+- {:.indent-6}If not testimonial, admit (because it meets hearsay exemption/exception).
+- {:.indent-6}If testimonial, is declarant available and subject to cross?
+- {:.indent-8}If yes, admit.
+- {:.indent-8}If declarant not available, did defendant have a prior opportunity to cross examine the declarant?
+- {:.indent-9}If yes, admit.
+- {:.indent-9}If no, exclude.
+
+**Davis Primary Purpose Test**
+
+Statements made in response to police interrogation are **non-testimonial** if circumstances objectively indicate that the primary purpose of interrogation is to meet an ongoing emergency.
+
+Statements made in response to police interrogation are **testimonial** when circumstances objectively indicate no ongoing emergency and the primary purpose of the interrogation is to establish or prove past facts relevant to prosecution. The primary purpose must be of both the defendant and the interrogator.
+
+The court must objectively consider all relevant circumstances including formality or informality of interrogation or questioning. Ongoing emergency is only one factor. [^43]
+
+**Factors to look at to determine “primary purpose” of statement**
+
+- Declarant’s safety at time of statement
+- Goal of questioning (resolve ongoing emergency or prosecution)
+- Formality of statement (location, who declarant speaking to, calm vs fluid events)
+- Declarant describing past or current events
+- Objective belief of declarant **and** interrogator
+
+Analyze circumstances/factors to support arguments on both sides
+
+---
+
+**Hearsay exceptions/exemptions that do not raise confrontation clause issues**
+
+- Defendant witness testifying about prior inconsistent statements (because subject to cross)
+- Any 801(d)(1) exceptions (because declarant subject to cross)
+- Any 801(d)(2) exceptions (because declarant subject to cross)
+- Opposing party statements used against defendant in a criminal case (because made by defendant)
+- Opposing party co-conspirator statements (because in furtherance, not testimonial)
+- Business records generally (because purpose not prosecutorial and trustworthy)
+- Dying declarations (because "founding era exception" to confrontation clause)
+
+**Lab or scientific reports yes testimonial**
+
+In *Bullcoming*[^45] and *Melendez Diaz* the Court ruled that  (5/4) both held laboratory report or affidavits accompanying report to be testimonial b/c made for the purpose of establishing or proving some fact” in a criminal proceeding.
+This means that the record could not be admitted – would need someone who did the test to take the stand and describe the specific testing procedures done
+
+Williams: fractured opinion  concurrence- not testimonial b/c at time made was not ”targeting an individual”  for prosecution vs.  Thomas not testimonial b/c informal report – all dicta right now
+For class use Crawford’s Primary Purpose test and for lab reports the Bullcoming/Melendez-Diaz approach
+
+Area not settled and in practice necessary to research doctrinal approach  followed in your jurisdiction
+
+
+---
+
+[^38]:The confrontation clause is in tension when out-of-court statements are admitted against the defendant for the truth of the matter asserted because defendant is unable to cross examine (confront) the declarant.   
+
+[^39]:Crawford v. Washington 541 US 36 (2004) *shifted application of confrontation clause* (unexamined testimonial ex parte statements against defendant is what the confrontation clause bars)
+
+[^40]:Statement of opposing party offered against the defendant in a criminal case are not protected by the confrontation clause because those statements are assumed made by the defendant, who can take the stand. Statement by co-conspirator must be in furtherance of the conspiracy and therefore is not “testimonial.”
+
+[^41]:Davis v. Washington 547 US 813 (2006) *narrowed application of confrontation clause* (hearsay statements made in 911 call asking for aid were not "testimonial" because they were seeking help, not made for a prosecutorial purpose)
+
+[^42]:Since Davis, statements are only testimonial when the circumstances objectively indicate that there is no ongoing emergency and that the primary purpose of the interrogation is to establish or prove past events potentially relevant to criminal prosecution.
+
+[^43]:Michigan v. Bryant 562 US 344 (2011) *narrowed application of Davis primary purpose test* (Covington wounded and dying in gas station parking lot, told police that Bryant shot him outside Bryant's house; police testimony inadmissible under confrontation clause because police asked questions for the purpose of catching Bryant, and there was no ongoing emergency because Covington had left the area where Bryant had shot him)
+
+[^44]:People v. Clay 88 AD 3d 14 (NY App. Div. 2011) *illustrates dying declaration exception to confrontation clause* (dying victim's words in reply to police questioning were testimonial but were a dying declaration so admissible as an exception to the confrontation clause)
+
+[^45]:Bullcoming v. New Mexico 564 US 647 (2011) *illustrates lab report testimonial for confrontation clause* (lab analyst who analyzed blood alcohol test taken under a search warrant was required to take the stand; second surrogate analyst could not testify in analyst's place)
+
+[^46]:Melendez-Diaz v. Massachussetts 557 US 305 (2009) *illustrates lab report testimonial for confrontation clause* (police seized around 28 grams of cocaine from Walmart employee and sent for analysis; lab report testimonial so analyst required in court)
 
 ---
 
