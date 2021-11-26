@@ -330,11 +330,9 @@ Statements made in response to police interrogation are **non-testimonial** if c
 
 **Hearsay exceptions/exemptions that do not raise confrontation clause issues**
 
-- {:.indent-1}Defendant witness testifying about prior statements (because subject to cross)
-- {:.indent-1}Any 801(d)(1) exceptions (because declarant subject to cross)
-- {:.indent-1}Any 801(d)(2) exceptions (because declarant subject to cross)
-- {:.indent-1}Opposing party statements used against defendant in a criminal case (because made by defendant)
-- {:.indent-1}Opposing party co-conspirator statements (because in furtherance, not testimonial)
+- {:.indent-1}Declarant-witness testifying about prior statements (because subject to cross) (801(d)(1))
+- {:.indent-1}Opposing party statements used against defendant in a criminal case (because made by defendant) (801(d)(2))
+- {:.indent-1}Opposing party co-conspirator statements (because in furtherance, not testimonial) (801(d)(2))
 - {:.indent-1}Business records generally (purpose not prosecutorial; trustworthy)
 - {:.indent-1}Dying declarations (because "founding era exception" to confrontation clause)
 
