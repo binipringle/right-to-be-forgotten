@@ -35,9 +35,7 @@ toc:
 
 Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.
 
-Here is a link to the course on [TWEN](https://lawschool.westlaw.com/manage/HomePage.aspx?NavChoice=mycourses&task=coursehomepage&courseid=299900).
-
-See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre) for law.
+See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre) for law. Course materials are on [TWEN](https://lawschool.westlaw.com/manage/HomePage.aspx?NavChoice=mycourses&task=coursehomepage&courseid=299900).
 
 ---
 
