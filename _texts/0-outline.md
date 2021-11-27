@@ -35,7 +35,7 @@ toc:
 
 Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.
 
-See [Glossary](https://binipringle.github.io/evidence/texts/8-glossary/) for terms.
+Here is a link to the course on [TWEN](https://lawschool.westlaw.com/manage/HomePage.aspx?NavChoice=mycourses&task=coursehomepage&courseid=299900).
 
 See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre) for law.
 
@@ -235,7 +235,7 @@ In a **defense of entrapment**, character evidence can be an essential element w
 
 ## Rules 801 and 802 Hearsay
 
-**Hearsay** is an out-of-court statement offered for the truth of the matter asserted. A declarant is a person (not an animal nor a machine) who made the statement based on personal knowledge. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies.
+**Hearsay** is an out-of-court statement made by a person offered for the truth of the matter asserted. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies.
 
 ---
 
