@@ -33,7 +33,7 @@ toc:
 
 ---
 
-Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the copious footnotes throughout.
+Welcome to my outline. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.
 
 See [Glossary](https://binipringle.github.io/evidence/texts/8-glossary/) for terms.
 
@@ -217,7 +217,7 @@ Evidence is **not admissible** to prove or disprove the validity or amount of a 
 
 *Start analysis by providing Rule 404(a)(1). Then Provide Rule 608 and maybe Rule 404(a)(2) aka The Mercy Rule*.[^26]
 
-Under **Rule 405(a)**, when evidence of a person’s character or character trait is admissible, the character or character trait may be proved by testimony about the person’s **reputation** or **opinion** about the person's character. Under **Rule 405(b)**, when a person’s character or character trait is an essential element of a charge, claim, or defense, the character or trait may also be proved by **relevant specific instances of the person’s conduct**. **When character evidence is an element, character can be proved in any way the rules provide, and there is no bar on extrinsic evidence.** Character evidence is an element in disputes about **child custody**, **defamation**, **negligent entrustment**, and in the **defense of entrapment**. The court can always rule on a **403 objection** to exclude any character evidence.
+When admissible, "character" or "character trait" may be proved by testimony about a person’s **reputation**, or **opinion** about the person's "character" (**Rule 405(a)**). When a person’s character or character trait is an essential element of a charge, claim, or defense, the character or trait may also be proved by **relevant specific instances of the person’s conduct** (**Rule 405(b)**). **When character evidence is an element, character can be proved in any way the rules provide, and there is no bar on extrinsic evidence.** Character evidence is an element in disputes about **child custody**, **defamation**, **negligent entrustment**, and **defense of entrapment**. The court can always rule on a **403 objection** to exclude character evidence.
 
 *Unfair prejudice will generally be jury misuse or overvaluing of character evidence.*
 
