@@ -47,7 +47,7 @@ Help jurors reach fair and just determinations, eliminate delay, and develop evi
 
 ## Rule 104 Preliminary Questions
 
-The trial judge decides preliminary questions and is not bound by evidence rules except those on privilege. The proponent of the evidence has the burden of proving that the fact they seek to introduce exists. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
+The trial judge decides preliminary questions and is not bound by evidence rules except those on privilege. The proponent of the evidence has the burden of proving that the fact they seek to introduce exists. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy rationale is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
 
 [^1]:Dowling v. U.S. (1990) *illustrates preliminary questions (Rule 104)* (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
 
