@@ -33,13 +33,13 @@ toc:
 
 ---
 
-*Please note that this condensed outline is not newly condensed yet because when it was condensed it was better than the outline so it became the outline. Here it will be condensed again when I have time.*
+*This condensed outline is a work in progress (when I first condensed the outline the condensed outline was better than the outline so it became the outline, but now I'm condensing it again).*
 
 ---
 
 ## Rule 102 Purpose
 
-Reach fair and just determinations, eliminate delay, develop evidence law.
+Reach fair and just determinations; eliminate delay; develop evidence law.
 
 ---
 
@@ -239,7 +239,7 @@ In a **defense of entrapment**, character evidence can be an essential element w
 
 A statement of a **present sense impression** is an exception to the rule against hearsay, regardless of whether the declarant is available as a witness. A present sense impression is a statement describing or explaining an event or condition, made while or immediately after the declarant perceived it. **Rule 803(1)**.
 
-A statement of an **excited utterance** is an exception to the rule against hearsay, regardless of whether the declarant is available as a witness. An excited utterance is a statement relating to a startling event. (1) The event must be startling enough to cause nervous excitement; (2) the statement must be made before the declarant has had time to contrive or misrepresent; (3) the statement must be made while under stress of excitement; (4) and the statement must be about the startling event. Courts allow excited utterances because they are highly reliable as the declarant’s excited state does not allow the declarant to think much about what they say. **Rule 803(2)**.
+An excited utterance is a statement responsive to a startling event, made before the declarant had time to contrive or misrepresent, while under stress of excitement, and about the startling event. Excited utterances are reliable because excitement doesn't allow declarant to think much about what they say. **Rule 803(2)**.
 
 A statement of the declarant’s **then-existing state of mind** is an exception to the rule against hearsay, regardless of whether the declarant is available as a witness. State of mind is the declarant's **then-existing state of mind** (such as motive, intent, or plan) or emotional, sensory, or physical condition (such as mental feeling, pain, or bodily health). State of mind does not include a statement of memory or belief to prove the fact remembered or believed unless it relates to the validity or terms of the declarant’s will. Courts allow statements of the declarant's then-existing state of mind because they are highly reliable as the declarant is pretty much thinking aloud without planning beforehand what they are going to say. **Rule 803(3)**.
 
@@ -287,7 +287,7 @@ The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a ju
 
 The **Sixth Amendment** states that in all **criminal prosecutions**, the accused shall enjoy the right ... to be confronted with the witnesses against him. In criminal trials, the confrontation clause is in tension when out-of-court statements are admitted against the defendant for the truth of the matter asserted because defendant is unable to cross examine (confront) the declarant.
 
-The Court in *Crawford* (2004)[^33] ruled that the confrontation clause bars **Testimonial** statements against a criminal defendant unless the declarant testifies at trial or the defendant had a prior opportunity to cross examine the declarant. A testimonial statement is a formal declaration or affirmation made for the purpose of establishing a fact which the declarant would reasonably expect to be used in a criminal investigation or prosecution. [^34] The court in *Davis* (2006)[^35] ruled that statements are **non-testimonial** when theprimary purpose of a police interrogation is to enable police  assistancefor meeting an ongoing emergency.[^36]
+The confrontation clause bars **Testimonial** statements against a criminal defendant unless the declarant testifies at trial or the defendant had a prior opportunity to cross examine the declarant (*Crawford* (2004)[^33]). A testimonial statement is a formal declaration or affirmation made for the purpose of establishing a fact which the declarant would reasonably expect to be used in a criminal investigation or prosecution.[^34] Statements are **non-testimonial** when theprimary purpose of a police interrogation is to enable police assistancefor meeting an ongoing emergency. To show that a police interrogation is testimonial, the defendant must provet that there was no ongoing emergency (*Davis* (2006)[^35]).[^36]
 
 *Out-of-court statements offered for the truth of the matter asserted against criminal defendant must satisfy both the rules against hearsay and the confrontation clause.*
 
