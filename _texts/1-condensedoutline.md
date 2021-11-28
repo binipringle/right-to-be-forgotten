@@ -29,7 +29,7 @@ toc:
 - Rule 805 Hearsay Within Hearsay
 - Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
 - Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
-- Sixth Amendment Confrontation Clause and Hearsay in Criminal Cases
+- Sixth Amendment Confrontation Clause
 
 ---
 
@@ -285,9 +285,7 @@ The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a ju
 
 ## Sixth Amendment Confrontation Clause
 
-The **Sixth Amendment** states that in all **criminal prosecutions**, the accused shall enjoy the right ... to be confronted with the witnesses against him. In criminal trials, the confrontation clause is in tension when out-of-court statements are admitted against the defendant for the truth of the matter asserted because defendant is unable to cross examine (confront) the declarant.
-
-The confrontation clause bars **Testimonial** statements against a criminal defendant unless the declarant testifies at trial or the defendant had a prior opportunity to cross examine the declarant (*Crawford* (2004)[^33]). A testimonial statement is a formal declaration or affirmation made for the purpose of establishing a fact which the declarant would reasonably expect to be used in a criminal investigation or prosecution.[^34] Statements are **non-testimonial** when theprimary purpose of a police interrogation is to enable police assistancefor meeting an ongoing emergency. To show that a police interrogation is testimonial, the defendant must provet that there was no ongoing emergency (*Davis* (2006)[^35]).[^36]
+The **Sixth Amendment** states that in all **criminal prosecutions**, the accused shall enjoy the right ... to be confronted with the witnesses against him. This means that out-of-court **Testimonial** statements against a criminal defendant offered for the truth of the matter asserted are excluded unless the defendant can cross examine the declarant or had a prior opportunity to cross-examine the declarant (*Crawford* (2004)[^33]). A testimonial statement is a formal declaration or affirmation made for the purpose of establishing a fact which the declarant would reasonably expect to be used in a criminal investigation or prosecution.[^34] Statements are **non-testimonial** when theprimary purpose of a police interrogation is to enable police assistancefor meeting an ongoing emergency. To show that a police interrogation is testimonial, the defendant must prove that there was no ongoing emergency (*Davis* (2006)[^35]).[^36]
 
 *Out-of-court statements offered for the truth of the matter asserted against criminal defendant must satisfy both the rules against hearsay and the confrontation clause.*
 
