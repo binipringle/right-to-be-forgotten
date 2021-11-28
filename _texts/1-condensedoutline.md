@@ -285,7 +285,7 @@ The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a ju
 
 ## Sixth Amendment Confrontation Clause
 
-The **Sixth Amendment** states that in all **criminal prosecutions**, the accused shall enjoy the right ... to be confronted with the witnesses against him. This means that out-of-court **Testimonial** statements against a criminal defendant offered for the truth of the matter asserted are excluded unless the defendant can cross examine the declarant or had a prior opportunity to cross-examine the declarant (*Crawford* (2004)[^33]). A testimonial statement is a formal declaration or affirmation made for the purpose of establishing a fact which the declarant would reasonably expect to be used in a criminal investigation or prosecution.[^34] Statements are **non-testimonial** when theprimary purpose of a police interrogation is to enable police assistancefor meeting an ongoing emergency. To show that a police interrogation is testimonial, the defendant must prove that there was no ongoing emergency (*Davis* (2006)[^35]).[^36]
+The **Sixth Amendment** states that in all **criminal prosecutions**, the accused shall enjoy the right ... to be confronted with the witnesses against him. Out-of-court statements against a criminal defendant offered for the truth of the matter asserted are thus excluded unless the declarant testifies at trial or the defendant had a prior opportunity to cross-examine the declarant. The out-of-court statement must be **Testimonial**. A testimonial statement is a formal declaration or affirmation made to establish a fact that the declarant would reasonably expect to be used for criminal investigation or prosecution (*Crawford* (2004)[^33]).[^34] Statements are **non-testimonial** when the**primary purpose** of a police interrogation is to enable police assistancefor meeting an **ongoing emergency**. To show that a police interrogation is testimonial hence subject to the confrontation clause, the defendant has to prove that there was no ongoing emergency (*Davis* (2006)[^35]).[^36]
 
 *Out-of-court statements offered for the truth of the matter asserted against criminal defendant must satisfy both the rules against hearsay and the confrontation clause.*
 
@@ -338,7 +338,7 @@ In *Bullcoming* (2011)[^39] and *Melendez Diaz* (2009)[^40] the Court ruled that
 
 [^33]:Crawford v. Washington 541 US 36 (2004) *shifted application of confrontation clause* (unexamined testimonial ex parte statements against defendant is what the confrontation clause bars)
 
-[^34]:Hearsay exceptions that require the declarant to take the stand do not raise confrontation clause because declarant can confront (cross-examine). See list above.
+[^34]:Note that hearsay exceptions that require the declarant to take the stand do not raise confrontation clause issues because declarant can confront (see list above).
 
 [^35]:Davis v. Washington 547 US 813 (2006) *narrowed application of confrontation clause* (hearsay statements made in 911 call asking for aid were not "testimonial" because they were seeking help, not made for a prosecutorial purpose)
 
