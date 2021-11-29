@@ -231,7 +231,7 @@ In a **defense of entrapment**, character evidence can be an essential element w
 
 ## Rules 801 and 802 Hearsay
 
-**Hearsay** is an out-of-court statement made by a person offered for the truth of the matter asserted. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies.
+**Hearsay** is an out-of-court statement made by a person offered for the truth of the matter asserted. A statement is an assertion of fact and the declarant is the person who made the statement. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies.
 
 ---
 
