@@ -45,7 +45,17 @@ Reach fair and just determinations; eliminate delay; develop evidence law.
 
 ## Rule 104 Preliminary Questions
 
-The trial judge decides preliminary questions and is not bound by evidence rules except those on privilege. The proponent of the evidence has the burden of proving that the fact they seek to introduce exists. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy rationale is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
+The trial judge has a huge amount of discretion in deciding preliminary questions and is not bound by evidence rules except those on privilege. The court determines preliminary questions such as whether the witness is qualified, a privilege exists, or the evidence is admissible, including if it is hearsay and if an exception applies. The proponent of the evidence has the burden of proving that the fact they seek to introduce exists. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy rationale is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
+
+**Not required to stipulate**
+
+Old Chief rule: a party does not automatically have to stipulate.
+
+*With 403 a court often looks at whether there is other less prejudicial evidence that could make the same proof, so could forbid because prejudicial and another way to get evidence in.*
+
+**Triggers:**
+
+- objections or challenges that suggest fact does not exist/event did not happen (remember that if good faith belief that thing happened the evidence can come in)
 
 [^1]:Dowling v. U.S. (1990) *illustrates preliminary questions (Rule 104)* (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
 
@@ -67,11 +77,15 @@ If the court admits evidence that is admissible for one purpose (or against one 
 
 Evidence is relevant if it has any tendency to make a fact of consequence more or less probable than it would be without the evidence. A fact of consequence is a fact that goes to prove or disprove an element of a claim, charge, defense, cause of action or theory of the case. This broad admissibility is to allow parties to bring in as much evidence as possible to help a jury or judge reach a fair and just determination. At the same time, Rule 401 supports efficiency by keeping the jury focused on relevant facts. [^2] [^3] [^4]
 
+Parties are not required to stipulate; Advisory Committee notes to Rule 401 observe that the fact which the evidence is offered to prove need not be in dispute. In other words, evidence is relevant even if it addresses a matter that the opponent concedes (stipulates). See *Old Chief v. United States*. [^5]
+
 [^2]:U.S. v. Roger Stone (USDC for District of Columbia, 2019) *illustrates relevance (Rule 401)* (Movie clip from the Godfather is relevant to place defendant’s statements about Frank Panganeli in context by showing the jury the image that Stone intended to evoke in Person 2’s mind when he named Panganeli)
 
 [^3]:Wielgus v. Ryobi Techs., Inc. (Northern District of Illinois, Eastern Division, 2012) *illustrates relevance (Rule 401)* (motion in limine to bar plaintiff from presenting video and in-court demonstrations of SawStop Technology on model not substantially similar to model that caused injury denied without prejudice because SawStop functions in the same manner on both models and the probative value of the demonstration could substantially outweigh the danger of any unfair prejudice)
 
 [^4]:U.S. v. Boros (7th Cir. 2012) *illustrates relevance (Rule 401)* (admission of doctor's testimony about types of medications Boros sold over internet had minimal relevance and low probative value but trial court allowed because provided context for jury so it met the low bar for relevance)
+
+[^5]: Old Chief v. United States 519 US 172, 177, 179 (1997) *illustrates relevance despite stipulation* (Johnny Lynn Old Chief offered to stipulate that he had been convicted of a felony because he didn't want the prosecutor to present this evidence, but the court held that the prosecutor didn't have to stipulate if they didn't want to and the evidence was relevant regardless)
 
 ---
 
@@ -84,6 +98,14 @@ Relevant evidence is admissible unless a statute or rules provide otherwise. Irr
 ## Rule 403 Prejudice
 
 Under Rule 403 the judge **may** exclude evidence they consider unfairly prejudicial. Relevant evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence misleads a jury to make a decision on an improper ground and/or causes confusion, delay or waste of time. By allowing judges to counterbalance the broad admissibility of evidence allowed by other rules, Rule 403 aims to make proceedings fair, minimize expense, and help the court reach a just determination. [^5] [^6] [^7] [^8]
+
+**Analysis**
+
+Always both probative and prejudice for each party. Analyze probative for defendant, prejudice for defendant; and probative for plaintiff/prosecution, prejudice for plaintiff/prosecution.  
+
+Probative is dependent on what the evidence is being offered to prove and what rules limit the use for (e.g., 407, 408, 608)
+
+Prejudice is always jury misuse (making a decision on improper ground); also affected by policy of rule (e.g., 408 juries overvalue settlements); character evidence generally overvalued and decisions made on character rather than event on day in question.
 
 [^5]:State v. Poe, 21 Utah 113 (1968) *illustrates prejudice (Rule 403)* (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
 
@@ -107,7 +129,9 @@ Every person is competent to be a witness unless the Federal Rules, or, in a civ
 
 ## Rule 611 Control by the Court and Leading Questions
 
-The court should reasonably control procedures for examining witnesses and presenting evidence so as to (1) make procedures effective; (2) avoid wasting time; and (3) protect witnesses from harassment or undue embarrassment. **Leading questions** can be asked in cross examination, but only about information that was provided in direct examination, or when a party calls a hostile witness, adverse party, or witness identified with an adverse party.
+**Rule 611** provides that the court should reasonably control procedures for examining witnesses and presenting evidence so as to (1) make procedures effective; (2) avoid wasting time; and (3) protect witnesses from harassment or undue embarrassment.
+
+**Leading questions** can be asked in cross examination, but only about information that was provided in direct examination, or when a party calls a hostile witness, adverse party, or witness identified with an adverse party.
 
 ---
 
@@ -121,7 +145,7 @@ Any party, including the party that called the witness, may attack a witness’s
 
 When examining a witness about a prior statement, a party does not need to show or disclose the contents of the prior statement to the witness. However, if requested, they must show or disclose it to the adverse party’s attorney.
 
-Extrinsic evidence of a prior inconsistent statement **cannot** be brought in to prove a collateral matter (prohibited by 403 and 611). Extrinsic evidence of a prior inconsistent statement **can** be brought in to prove a non-collateral matter (allowed by 613). If brought in, the witness must be given the opportunity to explain or deny the statement and the other party the opportunity to examine the witness about it, or if justice so requires. [^11] [^12]
+Extrinsic evidence of a prior inconsistent statement **cannot** be brought in to prove a collateral matter (prohibited by 403 and 611). It **can**, however, be brought in to prove a non-collateral matter (allowed by 613). If brought in, the witness must be given the opportunity to explain or deny the statement and the other party the opportunity to examine the witness about it. [^11] [^12]
 
 [^11]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates prior inconsistent statement Rule 613(b)* (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
 
@@ -133,19 +157,23 @@ Extrinsic evidence of a prior inconsistent statement **cannot** be brought in to
 
 **Bias** is the relationship between a party and a witness which might lead the witness to slant their testimony in favor of or against a party. Bias can be conscious or unconscious. (U.S. v. Abel) [^13]
 
+*Bias is always non-collateral.*
+
 [^13]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias* (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
 
 ---
 
 ## Rule 404a1 General Prohibition of Character Evidence
 
-**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. The rationale is to focus the jury on actions, not "character," because (1) character evidence is not particularly probative given that people do not always act according to "character"; and (2) propensity-based decisions would be unfairly prejudicial jury misuse.
+**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
 
 ---
 
 ## Rule 404b1 and 404b2 Other Crimes Wrongs or Acts
 
 Evidence of any other crime, wrong, or act is not admissible to prove a person’s character for the purpose of showing that on a particular occasion the person acted in accordance with that character. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
+
+For evidence of prior acts to be admissible, the evidence must be offered for a proper purpose under Rule 404(b); (2) the evidence must be relevant; (3) the trial court must make a Rule 403 determination that the probative value of the similar acts evidence is not substantially outweighed by its potential for unfair prejudice; and (4) under Rule 105, the trial court must, upon request, instruct the jury that the evidence of similar acts is to be considered only for the  proper purpose for which it was admitted. United States v. Joe.
 
 ---
 
@@ -167,7 +195,11 @@ Rule 404(a)(1) thus excludes most character evidence. **Rule 608** lets some cha
 
 ## Rule 407 Subsequent Remedial Measures
 
-Evidence of measures taken that would have made an earlier injury or harm less likely to occur are not admissible to prove negligence, culpable conduct, defect, need for warning, or need for instructions. Evidence of such measures may be admissible for another purpose such as impeachment or, if disputed, for proving ownership, control, or feasibility. **Rule 407**. Evidence of a remedial measure is admissible if the measure was taken by a third party. This rule aims to promote socially valuable activities by not discouraging defendants from making prompt repairs. The rule also aims to protect plaintiffs from prejudice that could arise from jury misuse, given that even with a limiting instruction it can be difficult to explain how to apply evidence for impeachment or feasibility but not liability. The rule is also based on the concern that evidence of a subsequent remedial measure will often fail the Rule 403 balancing test because if the evidence is admissible under Rule 407 and at the defendant's request the judge applies Rule 403 where prejudice has to substantially outweigh the probative value of the evidence, because evidence of a substantial remedial measure is often highly probative, Rule 403 will not keep it out. [^17] [^18] [^19] [^20] [^21]   
+Evidence of measures that would have made an earlier injury or harm less likely to occur are not admissible to prove negligence, culpable conduct, defect, need for warning, or need for instructions. It be admissible for another purpose such as impeachment or, if disputed, to prove ownership, control, or feasibility. **Rule 407**. Evidence of a subsequent remedial measure is admissible if it was taken by a third party. This rule aims to promote socially valuable activities by not discouraging defendants from making prompt repairs. The rule also aims to protect plaintiffs from prejudice that could arise from jury misuse, given that even with a limiting instruction it can be difficult to explain how to apply evidence for impeachment or feasibility but not liability. The rule is also based on the concern that evidence of a subsequent remedial measure will often fail the Rule 403 balancing test because if the evidence is admissible under Rule 407 and at the defendant's request the judge applies Rule 403 where prejudice has to substantially outweigh the probative value of the evidence, because evidence of a substantial remedial measure is often highly probative, Rule 403 will not keep it out. [^17] [^18] [^19] [^20] [^21]   
+
+If a subsequent remedial measure is offered for impeachment, courts use a narrower than usual definition of impeachment, looking at whether a specific statement was in direct conflict with the measure; whether the witness made an absolute declaration (e.g., "safest possible, perfectly safe"); and/or whether the declarant was personally involved with implementing the measure. *Because impeachment is narrower it's a good place to argue 403 because if evidence for impeachment only less probative; prejudice is jury learning about and misusing measure*.
+
+*Party seeking to admit would argue that the exception to this rule is there specifically to let this kind of evidence in to impeach or to prove ownership and/or control or feasibility. Party seeking to exclude would argue that exception is narrow and here this would cause prejudice from jury misuse.*
 
 [^17]:Hunter-McLeod v. Dollar Gen., Eastern District of Pennsylvania 2014 U.S. District. LEXIS 129177, CIVIL ACTION NO. 13-3113 (E.D. Pennsylvania, 2014) *illustrates subsequent remedial measures (Rule 407)* (video surveillance footage showing store employee putting cardboard on the floor where plaintiff fell is inadmissible as evidence of subsequent remedial measures because it does not directly contradict employee's witness testimony.)
 
@@ -187,6 +219,8 @@ Evidence is **not admissible** to prove or disprove the validity or amount of a 
 
 **Rule 408** promotes the socially valuable activity of settling disputes by protecting conduct or statements made in compromise negotiations regarding a claim that was disputed as to validity or amount. This rule is designed to encourage settlements by fostering free and full discussion of the issues and ensure that parties are not inhibited from making offers or statements while negotiating a settlement. Litigation does not need to have commenced for Rule 408 to apply, but there must be an actual dispute or a difference of opinion. Discussion of otherwise discoverable evidence at a settlement conference is not automatically protected by Rule 408 and other rules may apply. [^22] [^23] [^24] [^25]
 
+*Party seeking to exclude would argue that this rule specifically protects statements made in negotiations for the purpose of settling disputes and must be applied only for that, or the policy reason of promoting socially valuable negotiations would be diluted. Party seeking to admit would argue that evidence shows bias and bias always non-collateral.*
+
 [^22]:Weems v. Tyson Foods, Inc., 665 F.3d 958 (C.A 8th Cir. 2011) *illustrates compromise offers and negotiations (Rule 408)* (district court violated Rule 408 by admitting into evidence a separation agreement and related testimony and this error likely materially influenced the jury’s verdict)
 
 [^23]:except statements made during negotiations with a government agency; these can be introduced in a subsequent criminal investigation. **This will not be tested on the final**.
@@ -201,19 +235,23 @@ Evidence is **not admissible** to prove or disprove the validity or amount of a 
 
 *Start analysis by providing Rule 404(a)(1)*
 
-**Rule 404(a)(2)** or **the Mercy Rule** provides exceptions to Rule 404(a)(1) **in a criminal case**. These are (A) a defendant may offer evidence of the defendant’s pertinent trait and if the evidence is admitted, the prosecutor may offer evidence to rebut it; (B) a defendant may offer evidence of an alleged victim’s pertinent trait, and if the evidence is admitted, the prosecutor may (i) offer evidence to rebut it; and (ii) offer evidence of the defendant’s same trait (this exception is subject to limitations in sex-offense cases); and (C) **in a homicide case**, the prosecutor may offer evidence of the alleged victim’s trait of peacefulness to rebut evidence that the victim was the first aggressor.
+**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
+
+**Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing testimony about reputation and opinion and, on cross-examination, questions about specific prior conduct, but allows no extrinsic evidence.
+
+Under **Rule 404(a)(2)** or **the Mercy Rule**, a criminal defendant may offer evidence of pertinent character traits of the victim and/or the defendant. If the evidence is admitted, the prosecutor may attack the evidence in cross examination and bring in evidence of an opposing character trait. The policy reason for this rule is that the accused, whose liberty is at stake, may need a counterweight against the strong investigative and prosecutorial resources of the government. **In a homicide case**, the prosecutor does not have to wait for the defendant to offer pertinent character evidence of the victim to offer evidence of the victim’s trait of peacefulness to rebut evidence that the victim was the first aggressor.
 
 ---
 
 ## Rule 405 Substantive Use of Character or Propensity Evidence
 
-**Rules 404 and 405** specifically allow reputation, opinion and extrinsic evidence to prove character **when character is an element of the claim or defense**.
-
 *Start analysis by providing Rule 404(a)(1). Then Provide Rule 608 and maybe Rule 404(a)(2) aka The Mercy Rule*.[^26]
 
-When admissible, "character" or "character trait" may be proved by testimony about a person’s **reputation**, or **opinion** about the person's "character" (**Rule 405(a)**). When a person’s character or character trait is an essential element of a charge, claim, or defense, the character or trait may also be proved by **relevant specific instances of the person’s conduct** (**Rule 405(b)**). **When character evidence is an element, character can be proved in any way the rules provide, and there is no bar on extrinsic evidence.** Character evidence is an element in disputes about **child custody**, **defamation**, **negligent entrustment**, and **defense of entrapment**. The court can always rule on a **403 objection** to exclude character evidence.
+**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
 
-*Unfair prejudice will generally be jury misuse or overvaluing of character evidence.*
+However, when an exception makes character evidence admissible, **Rule 405(a)** provides that "character" or "character trait" may be proved by testimony about a person’s **reputation**, **opinion** of the person's "character," or, during cross examination, questions about specific instances of the person's conduct.
+
+Substantive use of character or propensity evidence is an exception to Rule 404's prohibition of character evidence. Under **Rule 405(b)**, character evidence is admissible when a person’s character or character trait is an essential element of a charge, claim, or defense. This includes **relevant specific instances of the person’s conduct**, can be proved in **any way the rules provide**, and there is **no bar on extrinsic evidence**. Character evidence is an essential element in disputes about **child custody**, **defamation**, **negligent entrustment**, and **defense of entrapment**. The court can always exclude character evidence under **Rule 403**.
 
 In a **child custody** dispute, character evidence can be an essential element because a child's wellbeing can depend on the "character" of the custodial parent.  
 
@@ -229,7 +267,9 @@ In a **defense of entrapment**, character evidence can be an essential element w
 
 ## Rules 801 and 802 Hearsay
 
-**Hearsay** is an out-of-court statement made by a person offered for the truth of the matter asserted. A statement is an assertion of fact and the declarant is the person who made the statement. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies.
+**Hearsay** is an out-of-court statement made by a person offered for the truth of the matter asserted. A statement is an assertion of fact and the declarant is the person who made the statement. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies. [^90]
+
+[^90]:United States v. Joe 8 F.3d 1488 (10th Cir. 1993) *illustrates hearsay* (court determined that threat and rape statements made by deceased Julia Joe to her doctor were admissible under statement for medical diagnosis or treatment [appellate court found that narrow then-existing mental state exception did not allow statement about alleged perpetrator's identity] and were not precluded under Rule 404(b) crimes, wrongs and other acts, as they were being offered to show defendant's "specific intent")
 
 ---
 
@@ -283,40 +323,20 @@ The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a ju
 
 ## Sixth Amendment Confrontation Clause
 
-The **Sixth Amendment** states that in all **criminal prosecutions**, the accused shall enjoy the right ... to be confronted with the witnesses against him. Out-of-court statements against a criminal defendant offered for the truth of the matter asserted are thus excluded unless the declarant testifies at trial or the defendant had a prior opportunity to cross-examine the declarant. The out-of-court statement must be **Testimonial**. A testimonial statement is a formal declaration or affirmation made to establish a fact that the declarant would reasonably expect to be used for criminal investigation or prosecution (*Crawford* (2004)[^33]).[^34] Statements are **non-testimonial** when the  **primary purpose** of a police interrogation is to enable police assistancefor meeting an **ongoing emergency** (*Davis* (2006)[^35]).[^36]
-
-*Out-of-court statements offered for the truth of the matter asserted against criminal defendant must satisfy both the rules against hearsay and the confrontation clause.*
+The **Sixth Amendment** states that in all **criminal prosecutions**, the accused shall enjoy the right to be confronted with the witnesses against them. Thus, out-of-court statements against a criminal defendant offered for the truth of the matter asserted are excluded unless the declarant testifies at trial or the defendant had a prior opportunity to cross-examine the declarant. The out-of-court statement must be **Testimonial**. A testimonial statement is a formal declaration or affirmation made to establish a fact that the declarant would reasonably expect to be used for criminal investigation or prosecution (*Crawford* (2004)[^33]).[^34] Statements are **non-testimonial** when the **primary purpose** of a police interrogation is to enable police assistancefor meeting an **ongoing emergency**. The primary purpose must be of both the defendant and the interrogator (*Davis* (2006)[^35]). [^36]
 
 ---
 
-**Steps of analysis**
+**Davis primary purpose test**
 
-- {:.indent-0}Is the statement hearsay?
-- {:.indent-2}If yes, does it meet or fall within a hearsay exemption or exception?
-- {:.indent-4}If no, stop analysis (statement does not come in).
-- {:.indent-4}If yes, is the statement testimonial?
-- {:.indent-6}If no, admit.
-- {:.indent-6}If yes, is declarant available and subject to cross?
-- {:.indent-8}If yes, admit.
-- {:.indent-8}If no, was there prior opportunity to cross examine?
-- {:.indent-9}If yes, admit.
-- {:.indent-9}If no, exclude.
-
----
-
-**Rule Explanation/Davis primary purpose test**
-
-Statements made in response to police interrogation are **non-testimonial** if circumstances objectively indicate that the **primary purpose of interrogation is to meet an ongoing emergency**. Statements made in response to police interrogation are **testimonial** when circumstances **objectively indicate** that there is **no ongoing emergency** and **the primary purpose of the interrogation is to establish or prove past facts relevant to prosecution**. The primary purpose must be of both the defendant and the interrogator. The court must objectively consider all relevant circumstances including formality or informality of interrogation or questioning (ongoing emergency is only one factor).
-
-For the confrontation clause to exclude a statement, the statement must be testimonial. A **testimonial statement** is a formal statement made for the purpose of prosecuting or bringing charges against the defendant. Statements made in response to police interrogation are **non-testimonial** if circumstances objectively indicate that the **primary purpose** of interrogation is to meet an **ongoing emergency**. Statements made in response to police interrogation are **testimonial** when circumstances objectively indicate that there is no ongoing emergency and the **primary purpose of the interrogation is to establish or prove past facts relevant to prosecution**. The primary purpose must be of both the defendant and the interrogator. To determine the primary purpose of a statement, courts consider the declarant’s safety when they made the statement; the goal of the questioning; the formality of the statement including location, who took the statement, and fluid or calm environment; whether the declarant described past or current events; and the objective belief of declarant **and** interrogator. [^37] [^38]
+To determine the primary purpose of a statement, courts consider the declarant’s safety when they made the statement; the goal of the questioning; the formality of the statement including location, who took the statement, and fluid or calm environment; whether the declarant described past or current events; and the objective belief of declarant **and** interrogator. [^37] [^38]
 
 **Factors to determine primary purpose**
 
 - {:.indent-1}Declarant’s safety at time of statement
-- {:.indent-1}Goal of questioning (resolve ongoing emergency or prosecution)
+- {:.indent-1}Goal of questioning and objective belief of declarant **and** interrogator.
 - {:.indent-1}Formality of statement (location, who speaking to, calm v fluid events)
 - {:.indent-1}Description of past or current events
-- {:.indent-1}Objective belief of declarant **and** interrogator
 
 *Analyze circumstances/factors to support arguments on both sides.*
 
