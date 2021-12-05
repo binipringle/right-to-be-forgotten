@@ -45,7 +45,11 @@ Reach fair and just determinations; eliminate delay; develop evidence law.
 
 ## Rule 104 Preliminary Questions
 
-The trial judge has a huge amount of discretion in deciding preliminary questions and is not bound by evidence rules except those on privilege. The court determines preliminary questions such as whether the witness is qualified, a privilege exists, or the evidence is admissible, including if it is hearsay and if an exception applies. The proponent of the evidence has the burden of proving that the fact they seek to introduce exists. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy rationale is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
+The trial judge has a huge amount of discretion in deciding preliminary questions and is not bound by evidence rules except those on privilege. Preliminary questions include whether the witness is qualified, a privilege exists, or the evidence is admissible on its face. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy rationale is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
+
+Rule 104(a) provides that the court must decide any preliminary question about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. In so deciding, the court is not bound by evidence rules, except those on privilege. Whoever wants the evidence in has the burden of proof. (standard of proof is a preponderance of the evidence).
+
+Rule 104(b) provides that when the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist. The proponent of the evidence has the burden of proving that the fact they seek to introduce exists.
 
 *Remember Old Chief rule: a party does not automatically have to stipulate.*
 
@@ -59,13 +63,15 @@ The trial judge has a huge amount of discretion in deciding preliminary question
 
 ## Rule 901a Authentication
 
-Evidence must be authenticated. To authenticate evidence, the proponent must show that the evidence they want to admit is what they say it is.
+Real evidence must be authenticated. To authenticate evidence, the proponent must show that the evidence they want to admit is what they say it is. Real evidence is physical objects that a party argues played a role in the controversy.
 
 ---
 
 ## Rule 105 Limiting Instructions
 
-If the court admits evidence that is admissible for one purpose (or against one party) but not another, the trial judge **must**, if requested, restrict the evidence to its proper scope and instruct the jury accordingly. Rule 105 supposes that juries will follow instructions and aims to ensure that proceedings are fair.
+If the court admits evidence that is admissible for one purpose (or against one party) but not another, the trial judge **must**, if requested, restrict the evidence to its proper scope and instruct the jury accordingly. Rule 105 supposes that juries will follow instructions and the limiting instruction will therefore limit any unfair prejudice stemming from jury misuse.
+
+The defense would argue that a limiting instruction is prejudicial because it actually brings other possible uses of the evidence to the jury's attention, which they might not have thought of otherwise. 
 
 ---
 
@@ -93,7 +99,7 @@ Relevant evidence is admissible unless a statute or rules provide otherwise. Irr
 
 ## Rule 403 Prejudice
 
-Under Rule 403 the judge **may** exclude evidence they consider unfairly prejudicial. Relevant evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence misleads a jury to make a decision on an improper ground and/or causes confusion, delay or waste of time. By allowing judges to counterbalance the broad admissibility of evidence allowed by other rules, Rule 403 aims to make proceedings fair, minimize expense, and help the court reach a just determination. [^5] [^6] [^7] [^8]
+Under Rule 403 the judge can exclude evidence they consider unfairly prejudicial. Evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence misleads a jury to make a decision on an improper ground and/or causes confusion, delay or waste of time. By allowing judges to counterbalance the broad admissibility of other rules, Rule 403 aims to ensure fairness and efficiency. [^5] [^6] [^7] [^8]
 
 **Analysis**
 
@@ -165,11 +171,13 @@ Extrinsic evidence of a prior inconsistent statement **cannot** be brought in to
 
 ---
 
-## Rule 404b1 and 404b2 Other Crimes Wrongs or Acts
+## Rule 404b1 and 404b2 Other Crimes Wrongs or Other Acts
 
-Evidence of any other crime, wrong, or act is not admissible to prove a person’s character for the purpose of showing that on a particular occasion the person acted in accordance with that character. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
+Evidence of any other crime, wrong, or other act is not admissible to prove that a person has a propensity or character for committing similar crimes, wrongs or other acts. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
 
-For evidence of prior acts to be admissible, the evidence must be offered for a proper purpose under Rule 404(b); (2) the evidence must be relevant; (3) the trial court must make a Rule 403 determination that the probative value of the similar acts evidence is not substantially outweighed by its potential for unfair prejudice; and (4) under Rule 105, the trial court must, upon request, instruct the jury that the evidence of similar acts is to be considered only for the  proper purpose for which it was admitted. United States v. Joe.
+For evidence of prior acts to be admissible, the evidence must be offered for a proper purpose under Rule 404(b); (2) the evidence must be relevant; (3) the trial court must make a Rule 403 determination that the probative value of the similar acts evidence is not substantially outweighed by its potential for unfair prejudice; and (4) under Rule 105, the trial court must, upon request, instruct the jury that the evidence of similar acts is to be considered only for the  proper purpose for which it was admitted. United States v. Joe. In a criminal case, the prosecution must provide written notice to the defendant of his plan to use past acts, stating the permitted purpose for which the evidence is being offered and the reasoning that supports the purpose.
+
+This type of evidence is admissible because it is prior acts, not directly character evidence but there is a concern for jury misuse for propensity purposes, which is why the evidence must also satisfy 401, 403 and 105.
 
 ---
 
@@ -265,6 +273,8 @@ In a **defense of entrapment**, character evidence can be an essential element w
 
 **Hearsay** is an out-of-court statement made by a person offered for the truth of the matter asserted. A statement is an assertion of fact and the declarant is the person who made the statement. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies. [^90]
 
+*All witnesses are declarants but declarants are witnesses only when they testify under oath at a trial or hearing.*
+
 [^90]:United States v. Joe 8 F.3d 1488 (10th Cir. 1993) *illustrates hearsay* (court determined that threat and rape statements made by deceased Julia Joe to her doctor were admissible under statement for medical diagnosis or treatment [appellate court found that narrow then-existing mental state exception did not allow statement about alleged perpetrator's identity] and were not precluded under Rule 404(b) crimes, wrongs and other acts, as they were being offered to show defendant's "specific intent")
 
 ---
@@ -300,6 +310,25 @@ A **statement against interest** made by an unavailable witness is an exception 
 [^28]:United States v. Chang 999 F,3d 1059 (C.A. 7th 2021) *illustrates statement against interest exception to rule against hearsay* (Court barred Lola Chang's self-incriminating statements exculpating Ely Lao where they had been arrested in a car that broke down on the highway and cops found drugs and illegally modified guns in the car, because the court found her statements untrustworthy because either coerced [cops thought maybe partner abuse] or for affection [cops thought Chang and Lao were "culturally" married] and because other evidence contradicted what Chang said)
 
 ---
+
+## Rule 801d2 Declarant-Witness Prior Statement
+
+(d) Statements That Are Not Hearsay. A statement that meets the following conditions is not hearsay:
+
+(1) A Declarant-Witness’s Prior Statement. The declarant testifies and is subject to cross-examination about a prior statement, and the statement:
+
+(A) is inconsistent with the declarant’s testimony and was given under penalty of perjury at a trial, hearing, or other proceeding or in a deposition;
+
+(B) is consistent with the declarant’s testimony and is offered:
+
+(i) to rebut an express or implied charge that the declarant recently fabricated it or acted from a recent improper influence or motive in so testifying; or
+
+(ii) to rehabilitate the declarant's credibility as a witness when attacked on another ground; or
+
+(C) identifies a person as someone the declarant perceived earlier.
+
+
+---
 ## Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
 
 An **opposing party's statement** is not hearsay if **made by the opposing party in an individual or representative capacity**, or **by the opposing party’s agent or employee** within the scope of that relationship or while it existed and within the scope of their duties. [^29] An opposing party's statement is not hearsay if it was **made by the party’s co-conspirator during and in furtherance of the conspiracy.** Neither declarant nor conspiracy have to be charged. **Proponent must offer additional evidence** that a conspiracy existed and that the party and declarant were members of the conspiracy. A conspiracy is broadly defined as a common plan or joint venture. Idle chatter or casual conversation about past events are not statements in furtherance of a conspiracy. [^30] [^31] [^32]
@@ -320,6 +349,8 @@ The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a ju
 ## Sixth Amendment Confrontation Clause
 
 The **Sixth Amendment** states that in all **criminal prosecutions**, the accused shall enjoy the right to be confronted with the witnesses against them. Thus, out-of-court statements against a criminal defendant offered for the truth of the matter asserted are excluded unless the declarant testifies at trial or the defendant had a prior opportunity to cross-examine the declarant. The out-of-court statement must be **Testimonial**. A testimonial statement is a formal declaration or affirmation made to establish a fact that the declarant would reasonably expect to be used for criminal investigation or prosecution (*Crawford* (2004)[^33]).[^34] Statements are **non-testimonial** when the **primary purpose** of a police interrogation is to enable police assistancefor meeting an **ongoing emergency**. The primary purpose must be of both the defendant and the interrogator (*Davis* (2006)[^35]). [^36]
+
+The policy reason for this rule is to prevent abuses by the court like that of Sir Walter Raleigh.
 
 ---
 
