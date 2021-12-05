@@ -47,15 +47,11 @@ Reach fair and just determinations; eliminate delay; develop evidence law.
 
 The trial judge has a huge amount of discretion in deciding preliminary questions and is not bound by evidence rules except those on privilege. The court determines preliminary questions such as whether the witness is qualified, a privilege exists, or the evidence is admissible, including if it is hearsay and if an exception applies. The proponent of the evidence has the burden of proving that the fact they seek to introduce exists. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy rationale is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
 
-**Not required to stipulate**
+*Remember Old Chief rule: a party does not automatically have to stipulate.*
 
-Old Chief rule: a party does not automatically have to stipulate.
+*Court often excludes prejudicial evidence under 403 if there is another way to get facts in.*
 
-*With 403 a court often looks at whether there is other less prejudicial evidence that could make the same proof, so could forbid because prejudicial and another way to get evidence in.*
-
-**Triggers:**
-
-- objections or challenges that suggest fact does not exist/event did not happen (remember that if good faith belief that thing happened the evidence can come in)
+*Triggers to fact does not exist could be objections or challenges that suggest fact does not exist (remember if good faith belief thing happened evidence can come in)*
 
 [^1]:Dowling v. U.S. (1990) *illustrates preliminary questions (Rule 104)* (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
 
