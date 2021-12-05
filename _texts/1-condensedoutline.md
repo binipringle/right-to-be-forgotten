@@ -28,6 +28,7 @@ toc:
 - Rule 803 Exceptions to the Rule Against Hearsay
 - Rule 805 Hearsay Within Hearsay
 - Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
+- Rule 801d1 Declarant Witness Prior Statement
 - Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
 - Sixth Amendment Confrontation Clause
 
@@ -71,7 +72,7 @@ Real evidence must be authenticated. To authenticate evidence, the proponent mus
 
 If the court admits evidence that is admissible for one purpose (or against one party) but not another, the trial judge **must**, if requested, restrict the evidence to its proper scope and instruct the jury accordingly. Rule 105 supposes that juries will follow instructions and the limiting instruction will therefore limit any unfair prejudice stemming from jury misuse.
 
-The defense would argue that a limiting instruction is prejudicial because it actually brings other possible uses of the evidence to the jury's attention, which they might not have thought of otherwise. 
+The defense would argue that a limiting instruction is prejudicial because it actually brings other possible uses of the evidence to the jury's attention, which they might not have thought of otherwise.
 
 ---
 
@@ -311,22 +312,9 @@ A **statement against interest** made by an unavailable witness is an exception 
 
 ---
 
-## Rule 801d2 Declarant-Witness Prior Statement
+## Rule 801d1 Declarant Witness Prior Statement
 
-(d) Statements That Are Not Hearsay. A statement that meets the following conditions is not hearsay:
-
-(1) A Declarant-Witness’s Prior Statement. The declarant testifies and is subject to cross-examination about a prior statement, and the statement:
-
-(A) is inconsistent with the declarant’s testimony and was given under penalty of perjury at a trial, hearing, or other proceeding or in a deposition;
-
-(B) is consistent with the declarant’s testimony and is offered:
-
-(i) to rebut an express or implied charge that the declarant recently fabricated it or acted from a recent improper influence or motive in so testifying; or
-
-(ii) to rehabilitate the declarant's credibility as a witness when attacked on another ground; or
-
-(C) identifies a person as someone the declarant perceived earlier.
-
+A **declarant-witness’s prior statement** is an exemption to the rule against hearsay if the declarant testifies and is subject to cross-examination about a prior statement, and the statement (A) is inconsistent with the declarant’s testimony and was given under penalty of perjury at a trial, hearing, or other proceeding or in a deposition; (B) is consistent with the declarant’s testimony and is offered (i) to rebut an express or implied charge that the declarant recently fabricated it or acted from a recent improper influence or motive in so testifying; or (ii) to rehabilitate the declarant's credibility as a witness when attacked on another ground; or (C) identifies a person as someone the declarant perceived earlier.
 
 ---
 ## Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
