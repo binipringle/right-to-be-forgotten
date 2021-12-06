@@ -38,6 +38,12 @@ toc:
 
 ---
 
+Welcome to my condensed outline. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.
+
+See [Federal Rules of Evidence, 28 U.S.C.](https://www.law.cornell.edu/rules/fre) for law. Course materials are on [TWEN](https://lawschool.westlaw.com/manage/HomePage.aspx?NavChoice=mycourses&task=coursehomepage&courseid=299900).
+
+---
+
 ## Rule 102 Purpose
 
 Reach fair and just determinations; eliminate delay; develop evidence law.
