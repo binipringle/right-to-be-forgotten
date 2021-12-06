@@ -52,13 +52,11 @@ Reach fair and just determinations; eliminate delay; develop evidence law.
 
 ## Rule 104 Preliminary Questions
 
-Under **Rule 104(a)** the trial judge decides any preliminary question about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. In so deciding, the judge is not bound by evidence rules, except those on privilege. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy rationale behind this rule is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
+The trial judge decides any preliminary question about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. In so deciding, the judge is not bound by evidence rules, except those on privilege. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy rationale behind this rule is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
 
 *Court often excludes prejudicial evidence under 403 if there is another way to get facts in.*
 
-**Rule 104(b)** provides that when the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist.
-
-*Triggers to fact does not exist could be objections or challenges that suggest fact does not exist (remember if good faith belief thing happened evidence can come in)*
+When the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist. *Triggers to fact does not exist could be objections or challenges that suggest fact does not exist (remember if good faith belief thing happened evidence can come in)*
 
 [^1]:Dowling v. U.S. (1990) *illustrates preliminary questions (Rule 104)* (Dowling accused of robbing a bank wearing a ski mask; judge allowed prosecution to bring evidence that Dowling tried to rob a house two weeks later wearing a ski mask even though Dowling was acquitted in the house robbery where there was reasonable doubt [highest standard of proof] because a reasonable jury could still find by a preponderance of the evidence [more likely than not] that Dowling robbed the house)
 
@@ -74,7 +72,7 @@ Real evidence must be authenticated. To authenticate evidence, the proponent mus
 
 If the court admits evidence that is admissible for one purpose (or against one party) but not another, the trial judge **must**, if requested, restrict the evidence to its proper scope and instruct the jury accordingly. Rule 105 supposes that juries will follow instructions and the limiting instruction will therefore limit any unfair prejudice stemming from jury misuse.
 
-The defense would argue that a limiting instruction is prejudicial because it actually brings other possible uses of the evidence to the jury's attention, which they might not have thought of otherwise.
+*The non-proponent party would argue that a limiting instruction is prejudicial because it actually brings possible uses of the evidence to the jury's attention which they might not have thought of otherwise.*
 
 ---
 
