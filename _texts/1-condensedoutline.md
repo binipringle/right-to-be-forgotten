@@ -184,9 +184,9 @@ Under **Rule 404(a)(2)** or **the Mercy Rule**, a criminal defendant may offer e
 
 ---
 
-## Rule 404b1 and 404b2 Other Crimes Wrongs or Other Acts
+## Rule 404b1 and 404b2 Other Crimes Wrongs or Acts
 
-Evidence of any other crime, wrong, or other act is not admissible to prove that a person has a propensity or character for committing similar crimes, wrongs or other acts. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
+Evidence of any other crime, wrong, or act is not admissible to prove that a person has a propensity or character for committing similar crimes, wrongs or acts. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
 
 For evidence of prior acts to be admissible, the evidence must be offered for a proper purpose under Rule 404(b); (2) the evidence must be relevant; (3) the trial court must make a Rule 403 determination that the probative value of the similar acts evidence is not substantially outweighed by its potential for unfair prejudice; and (4) under Rule 105, the trial court must, upon request, instruct the jury that the evidence of similar acts is to be considered only for the  proper purpose for which it was admitted. In a criminal case, the prosecution must provide written notice to the defendant of his plan to use past acts, stating the permitted purpose for which the evidence is being offered and the reasoning that supports the purpose.
 
