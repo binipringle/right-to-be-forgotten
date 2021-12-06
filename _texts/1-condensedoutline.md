@@ -272,7 +272,7 @@ A statement of a **present sense impression** is an exception to the rule agains
 
 ## Rule 803 2 Excited Utterance
 
-An **excited utterance** is a statement responsive to a startling event, made before the declarant had time to contrive or misrepresent, while under stress of excitement, and about the startling event. Excited utterances are reliable because excitement doesn't allow declarant to think much about what they say. **Rule 803(2)**.
+An **excited utterance** is an exception to the rule against hearsay, regardless of whether the declarant is available as a witness. An excited utterance is a statement responsive to a startling event, made before the declarant had time to contrive or misrepresent, while under stress of excitement caused by the startling event, and about the startling event. Excited utterances are reliable because excitement doesn't allow declarant to think much about what they say. **Rule 803(2)**.
 
 ---
 
