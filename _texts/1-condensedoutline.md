@@ -48,11 +48,9 @@ Reach fair and just determinations; eliminate delay; develop evidence law.
 
 Under **Rule 104(a)** the trial judge decides any preliminary question about whether a witness is qualified, a privilege exists, or evidence is admissible on its face. In so deciding, the judge is not bound by evidence rules, except those on privilege. The standard of proof for the judge is a **preponderance of the evidence**. A preponderance of the evidence is just enough evidence to make it more likely than not that the preliminary facts which support admission are true. The policy rationale behind this rule is that all relevant evidence should be admitted unless excluded by a rule or precedent. [^1]
 
-**Rule 104(b)** provides that when the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist. The proponent of the evidence has the burden of proving that the fact they seek to introduce exists.
-
-*Remember Old Chief rule: a party does not automatically have to stipulate.*
-
 *Court often excludes prejudicial evidence under 403 if there is another way to get facts in.*
+
+**Rule 104(b)** provides that when the relevance of evidence depends on whether a fact exists, proof must be introduced sufficient to support a finding that the fact does exist.
 
 *Triggers to fact does not exist could be objections or challenges that suggest fact does not exist (remember if good faith belief thing happened evidence can come in)*
 
@@ -62,7 +60,7 @@ Under **Rule 104(a)** the trial judge decides any preliminary question about whe
 
 ## Rule 901a Authentication
 
-Real evidence must be authenticated. To authenticate evidence, the proponent must show that the evidence they want to admit is what they say it is. Real evidence is physical objects that a party argues played a role in the controversy.
+Real evidence must be authenticated. To authenticate evidence, the proponent must show that the evidence they want to admit is what they say it is.
 
 ---
 
@@ -76,7 +74,7 @@ The defense would argue that a limiting instruction is prejudicial because it ac
 
 ## Rule 401 Relevance
 
-Evidence is relevant if it has any tendency to make a fact of consequence more or less probable than it would be without the evidence. A fact of consequence is a fact that goes to prove or disprove an element of a claim, charge, defense, cause of action or theory of the case. This broad admissibility is to allow parties to bring in as much evidence as possible to help a jury or judge reach a fair and just determination. At the same time, Rule 401 supports efficiency by keeping the jury focused on relevant facts. [^2] [^3] [^4]
+Relevant evidence is admissible unless a statute or rules provide otherwise. Evidence is relevant if it has any tendency to make a fact of consequence more or less probable than it would be without the evidence. A fact of consequence is a fact that goes to prove or disprove an element of a claim, charge, defense, cause of action or theory of the case. This broad admissibility is to allow parties to bring in as much evidence as possible to help a jury or judge reach a fair and just determination. At the same time, Rule 401 supports efficiency by keeping the jury focused on relevant facts. [^2] [^3] [^4]
 
 Parties are not required to stipulate; Advisory Committee notes to Rule 401 observe that the fact which the evidence is offered to prove need not be in dispute. In other words, evidence is relevant even if it addresses a matter that the opponent concedes (stipulates). See *Old Chief v. United States*. [^5]
 
@@ -98,7 +96,7 @@ Relevant evidence is admissible unless a statute or rules provide otherwise. Irr
 
 ## Rule 403 Prejudice
 
-Under Rule 403 the judge can exclude evidence they consider unfairly prejudicial. Evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence misleads a jury to make a decision on an improper ground and/or causes confusion, delay or waste of time. By allowing judges to counterbalance the broad admissibility of other rules, Rule 403 aims to ensure fairness and efficiency. [^5] [^6] [^7] [^8]
+Rule 403 allows the judge to exclude evidence they consider unfairly prejudicial. Evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence misleads a jury to make a decision on an improper ground and/or causes confusion, delay or waste of time. By allowing judges to counterbalance the broad admissibility of other rules, Rule 403 aims to ensure fairness and efficiency. [^5] [^6] [^7] [^8]
 
 **Analysis**
 
@@ -118,16 +116,6 @@ Prejudice is always jury misuse (making a decision on improper ground); also aff
 
 ---
 
-## Rules 601 602 603 Witness Competency
-
-Every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. A witness may only testify to a matter if the witness has personal knowledge of that matter. To have personal knowledge, a witness must be able to (1) perceive the events they testify to, (2) understand and take an oath to tell the truth, and (3) remember the events they narrate. Evidence to prove personal knowledge may be the witness’s testimony itself. [^9] [^10]
-
-[^9]:Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994) *illustrates witness competency (Rules 601, 602, 602)* (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
-
-[^10]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates witness competency (Rules 601, 602, 602)* (Kelly did not raise the issue of competency at trial, so appellate court reviews district court's decision for plain error)
-
----
-
 ## Rule 611 Control by the Court and Leading Questions
 
 **Rule 611** provides that the court should reasonably control procedures for examining witnesses and presenting evidence so as to (1) make procedures effective; (2) avoid wasting time; and (3) protect witnesses from harassment or undue embarrassment.
@@ -138,29 +126,41 @@ Every person is competent to be a witness unless the Federal Rules, or, in a civ
 
 ## Rule 607 Witness Impeachment  
 
-Any party, including the party that called the witness, may attack a witness’s credibility. Witnesses can be impeached for **incompetency, bias, prior inconsistent statement** and **general character for untruthfulness**. **Extrinsic evidence** can sometimes be brought in to impeach. Extrinsic evidence is any evidence other than testimony from the witness on the stand. Extrinsic evidence can be **collateral** and **non-collateral**. A **collateral matter** is only relevant to impeachment. A **non-collateral matter** proves a fact of consequence other than impeachment.
+Any party may attack a witness’s credibility. Witnesses can be impeached for **incompetency, bias, prior inconsistent statement** and **general character for untruthfulness**. **Extrinsic evidence** can sometimes be brought in to impeach. Extrinsic evidence is any evidence other than testimony from the witness on the stand. Extrinsic evidence can be **collateral** and **non-collateral**. A **collateral matter** is only relevant to impeachment. A **non-collateral matter** proves a fact of consequence other than impeachment.
 
 ---
 
-## Rule 613 Prior Inconsistent Statement
+## Rules 601 602 603 Witness Competency
 
-When examining a witness about a prior statement, a party does not need to show or disclose the contents of the prior statement to the witness. However, if requested, they must show or disclose it to the adverse party’s attorney.
+Every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. A witness may only testify to a matter if the witness has personal knowledge of that matter. To have personal knowledge, a witness must be able to (1) perceive the events; (2) take an oath; and (3) remember the events. Evidence for proving personal knowledge can be the witness’s testimony itself. [^9] [^10]
 
-Extrinsic evidence of a prior inconsistent statement **cannot** be brought in to prove a collateral matter (prohibited by 403 and 611). It **can**, however, be brought in to prove a non-collateral matter (allowed by 613). If brought in, the witness must be given the opportunity to explain or deny the statement and the other party the opportunity to examine the witness about it. [^11] [^12]
+[^9]:Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994) *illustrates witness competency (Rules 601, 602, 602)* (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
 
-[^11]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates prior inconsistent statement Rule 613(b)* (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
-
-[^12]:Taylor v. Cheddar's Casual Cafe, Inc. 2017 WL 157886 (W.D. La 2017)(unreported) *illustrates prior inconsistent statement Rule 613(b)* (evidence of Young’s alleged theft from Cheddar’s is inadmissible because Young neither charged with nor convicted of a crime based on this allegation and there is no other relevant purpose for the admission of this evidence.) (Young’s statements to Cheddar’s’ management and the two insurance adjusters after Taylor’s fall at the restaurant are  inadmissible as hearsay if offered to prove the truth of the matter asserted, but nonetheless admissible for the purpose of impeachment by prior inconsistent statement.)
+[^10]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates witness competency (Rules 601, 602, 602)* (Kelly did not raise the issue of competency at trial, so appellate court reviews district court's decision for plain error)
 
 ---  
 
 ## Bias
 
-**Bias** is the relationship between a party and a witness which might lead the witness to slant their testimony in favor of or against a party. Bias can be conscious or unconscious. (U.S. v. Abel) [^13]
+**Bias** is the relationship between a party and a witness which might lead the witness to slant their testimony in favor of or against a party. (U.S. v. Abel) [^13]
 
 *Bias is always non-collateral.*
 
 [^13]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias* (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
+
+---
+
+## Rule 613 Prior Inconsistent Statement
+
+A witness can be impeached with a **prior inconsistent statement** under **Rule 613**. When examining a witness about a prior statement, a party does not need to show or disclose the prior statement to the witness. However, if requested, they must show or disclose it to the other party’s attorney.
+
+**Extrinsic evidence** of a prior inconsistent statement **cannot** be brought in to prove a **collateral matter** but it **can** be brought in to prove a **non-collateral matter**. If brought in, the witness must be given the opportunity to explain or deny the statement and the other party the opportunity to examine the witness about it. [^11] [^12]
+
+Rule 613 regulates the use of prior inconsistent statements to avoid distracting jurors with  tangential matters that could cause delay or confusion.
+
+[^11]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates prior inconsistent statement Rule 613(b)* (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
+
+[^12]:Taylor v. Cheddar's Casual Cafe, Inc. 2017 WL 157886 (W.D. La 2017)(unreported) *illustrates prior inconsistent statement Rule 613(b)* (evidence of Young’s alleged theft from Cheddar’s is inadmissible because Young neither charged with nor convicted of a crime based on this allegation and there is no other relevant purpose for the admission of this evidence.) (Young’s statements to Cheddar’s’ management and the two insurance adjusters after Taylor’s fall at the restaurant are  inadmissible as hearsay if offered to prove the truth of the matter asserted, but nonetheless admissible for the purpose of impeachment by prior inconsistent statement.)
 
 ---
 
@@ -170,29 +170,29 @@ Extrinsic evidence of a prior inconsistent statement **cannot** be brought in to
 
 ---
 
-## Rule 404b1 and 404b2 Other Crimes Wrongs or Other Acts
-
-Evidence of any other crime, wrong, or other act is not admissible to prove that a person has a propensity or character for committing similar crimes, wrongs or other acts. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
-
-For evidence of prior acts to be admissible, the evidence must be offered for a proper purpose under Rule 404(b); (2) the evidence must be relevant; (3) the trial court must make a Rule 403 determination that the probative value of the similar acts evidence is not substantially outweighed by its potential for unfair prejudice; and (4) under Rule 105, the trial court must, upon request, instruct the jury that the evidence of similar acts is to be considered only for the  proper purpose for which it was admitted. United States v. Joe. In a criminal case, the prosecution must provide written notice to the defendant of his plan to use past acts, stating the permitted purpose for which the evidence is being offered and the reasoning that supports the purpose.
-
-This type of evidence is admissible because it is prior acts, not directly character evidence but there is a concern for jury misuse for propensity purposes, which is why the evidence must also satisfy 401, 403 and 105.
-
----
-
 ## Rule 608 Witness Impeachment for Character for Untruthfulness
 
 *Start analysis by providing Rule 404(a)(1)*
 
-Rule 404(a)(1) thus excludes most character evidence. **Rule 608** lets some character evidence back in by allowing **opinion or reputation evidence** and **inquiry into specific instances of conduct** during cross examination, to prove a witness’s character for truthfulness or untruthfulness. [^14] [^15] [^16] Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked.
+Rule 404(a) prohibits evidence of a person’s character or character trait to prove that on a specific occasion the person acted in accordance with that character or character trait.
 
-**Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** in order to attack or support the witness’s character for truthfulness (except criminal convictions under Rule 609). However, the attorney may ask questions during cross-examination about specific instances of a witness’s conduct to prove character for truthfulness or untruthfulness (the attorney wants the jury to infer that because the witness has a character for truthfulness or untruthfulness, it is more or less likely that the witness’s current testimony is true or false).
+**Rule 608** lets some character evidence back in by allowing **opinion or reputation evidence** and **inquiry into specific instances of conduct** during cross examination to rebut opinion or reputation evidence based on good faith belief. [^14] [^15] [^16] Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility.  
 
 [^14]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
 
 [^15]:United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
 
 [^16]:United States v. Martinez 923 F.3d 806 (10th Cir. 2019) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case [his intent], not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity"]. "If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.")
+
+---
+
+## Rule 404b1 and 404b2 Other Crimes Wrongs or Other Acts
+
+Evidence of any other crime, wrong, or other act is not admissible to prove that a person has a propensity or character for committing similar crimes, wrongs or other acts. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
+
+For evidence of prior acts to be admissible, the evidence must be offered for a proper purpose under Rule 404(b); (2) the evidence must be relevant; (3) the trial court must make a Rule 403 determination that the probative value of the similar acts evidence is not substantially outweighed by its potential for unfair prejudice; and (4) under Rule 105, the trial court must, upon request, instruct the jury that the evidence of similar acts is to be considered only for the  proper purpose for which it was admitted. In a criminal case, the prosecution must provide written notice to the defendant of his plan to use past acts, stating the permitted purpose for which the evidence is being offered and the reasoning that supports the purpose.
+
+This rule regulates evidence of prior acts because there is a concern about jury misuse for propensity purposes, which is why the evidence must also satisfy 401, 403 and 105.
 
 ---
 
@@ -220,7 +220,7 @@ If a subsequent remedial measure is offered for impeachment, courts use a narrow
 
 Evidence is **not admissible** to prove or disprove the validity or amount of a disputed claim or to impeach by a prior inconsistent statement or a contradiction if it is evidence of (1) furnishing, promising, offering, accepting, promising to accept, or offering to accept a consideration to settle a claim; **and** (2) conduct or statements made during negotiations about the claim.
 
-**Rule 408** promotes the socially valuable activity of settling disputes by protecting conduct or statements made in compromise negotiations regarding a claim that was disputed as to validity or amount. This rule is designed to encourage settlements by fostering free and full discussion of the issues and ensure that parties are not inhibited from making offers or statements while negotiating a settlement. Litigation does not need to have commenced for Rule 408 to apply, but there must be an actual dispute or a difference of opinion. Discussion of otherwise discoverable evidence at a settlement conference is not automatically protected by Rule 408 and other rules may apply. [^22] [^23] [^24] [^25]
+**Rule 408** promotes the socially valuable activity of settling disputes by protecting conduct or statements made in compromise negotiations regarding a claim that was disputed as to validity or amount. This rule is designed to encourage settlements by fostering free and full discussion of the issues and ensure that parties are not inhibited from making offers or statements while negotiating a settlement. Litigation does not need to have commenced for Rule 408 to apply, but there must be an actual dispute or a difference of opinion. Discussion of otherwise discoverable evidence at a settlement conference is not automatically protected by Rule 408. [^22] [^23] [^24] [^25]
 
 *Party seeking to exclude would argue that this rule specifically protects statements made in negotiations for the purpose of settling disputes and must be applied only for that, or the policy reason of promoting socially valuable negotiations would be diluted. Party seeking to admit would argue that evidence shows bias and bias always non-collateral.*
 
@@ -231,40 +231,6 @@ Evidence is **not admissible** to prove or disprove the validity or amount of a 
 [^24]:MCI Communs. Servs. v. Hagan, 641 F.3d 112 (5th Cir. 2011) *illustrates compromise offers and negotiations (Rule 408)* (testimony about phone call asking how much damaged cable would cost was not excluded under Rule 408 because there was not yet an actual dispute)
 
 [^25]:Steps of analysis: The question is whether the statements or conduct were intended to be part of the negotiations toward compromise. Look for: a clear dispute or disagreement communicated between parties > a clear intent to compromise (after dispute) > whether the offer was unilateral or bilateral > whether the offer was concrete or vague > whether the offer was in response to another offer > whether litigation was threatened or started > attorneys or formal negotiations > "legalese" > distinction between business discussions and legal negotiations.
-
----
-
-## Rule 404a2 The Mercy Rule
-
-*Start analysis by providing Rule 404(a)(1)*
-
-**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
-
-**Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing testimony about reputation and opinion and, on cross-examination, questions about specific prior conduct, but allows no extrinsic evidence.
-
-Under **Rule 404(a)(2)** or **the Mercy Rule**, a criminal defendant may offer evidence of pertinent character traits of the victim and/or the defendant. If the evidence is admitted, the prosecutor may attack the evidence in cross examination and bring in evidence of an opposing character trait. The policy reason for this rule is that the accused, whose liberty is at stake, may need a counterweight against the strong investigative and prosecutorial resources of the government. **In a homicide case**, the prosecutor does not have to wait for the defendant to offer pertinent character evidence of the victim to offer evidence of the victim’s trait of peacefulness to rebut evidence that the victim was the first aggressor.
-
----
-
-## Rule 405 Substantive Use of Character or Propensity Evidence
-
-*Start analysis by providing Rule 404(a)(1). Then Provide Rule 608 and maybe Rule 404(a)(2) aka The Mercy Rule*.[^26]
-
-**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
-
-However, when an exception makes character evidence admissible, **Rule 405(a)** provides that "character" or "character trait" may be proved by testimony about a person’s **reputation**, **opinion** of the person's "character," or, during cross examination, questions about specific instances of the person's conduct.
-
-Substantive use of character or propensity evidence is an exception to Rule 404's prohibition of character evidence. Under **Rule 405(b)**, character evidence is admissible when a person’s character or character trait is an essential element of a charge, claim, or defense. This includes **relevant specific instances of the person’s conduct**, can be proved in **any way the rules provide**, and there is **no bar on extrinsic evidence**. Character evidence is an essential element in disputes about **child custody**, **defamation**, **negligent entrustment**, and **defense of entrapment**. The court can always exclude character evidence under **Rule 403**.
-
-In a **child custody** dispute, character evidence can be an essential element because a child's wellbeing can depend on the "character" of the custodial parent.  
-
-In a **defamation** dispute, character evidence can be an essential element because libel or slander is a false statement about someone that harms their reputation so character for truthfulness is a defense.
-
-In a **negligent entrustment** dispute, character evidence can be an essential element because the plaintiff alleges that the defendant was negligent in entrusting a dangerous instrument (e.g., a car, gun, fireworks, skill saw, etc.) to a third party who the defendant knew or had reason to know would misuse or be negligent in using the instrument. The character of the third party is what is at issue, and the question is whether their character was such that the defendant should have known not to allow them access to the dangerous instrument.
-
-In a **defense of entrapment**, character evidence can be an essential element where (1) a government agent induced the defendant to commit a crime that (2) the defendant was not otherwise predisposed to commit.
-
-[^26]:Full set of rules for Rule 405 analysis: Rule 404(a)(1) generally prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with the character or trait. The rationale is to focus the jury on particular actions of parties and not on their “character” because (1) people do not always act according to character making character evidence not particularly probative; and (2) the drafters of the rules do not want the jury to make propensity-based decisions as this would be unfairly prejudicial jury misuse. There are exceptions to this rule. One exception is Rule 608, which allows a witness’s character for untruthfulness to come in for impeachment purposes by allowing testimony about reputation and opinion, and questions about specific prior conduct on cross-examination, but allows no extrinsic evidence. Other exceptions are in Rule 404(a)(2) aka the Mercy Rule which provides that a defendant in a criminal case may offer evidence of the defendant’s pertinent trait and evidence of an alleged victim’s pertinent trait except if the alleged victim is an alleged sex-offense victim, and, in a homicide case, the prosecutor may offer evidence of the alleged victim’s trait of peacefulness to rebut evidence that the victim was the first aggressor. Rule 405 lays out methods of proving character. Under Rule 405(a), when evidence of a person’s character or character trait is admissible, the character or character trait may be proved by testimony about the person’s reputation or opinion about the person’s character. Under Rule 405(b), when a person’s character or character trait is an essential element of a charge, claim, or defense, the character or trait may also be proved by relevant specific instances of the person’s conduct. When character evidence is an element, character can be proved in any way the rules provide, and there is no bar on extrinsic evidence. Character evidence is an element in disputes about child custody26, defamation27, negligent entrustment28, and in the defense of entrapment29.The court can always rule on a Rule 403 objection and decide to exclude any character evidence (403 backstop). Unfair prejudice will generally be jury misuse or overvaluing of character evidence.
 
 ---
 
@@ -300,11 +266,11 @@ The "**business records**” exception to hearsay provides that a record of an a
 
 ## Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
 
-A declarant is an unavailable witness if (1) a privilege applies; (2) the declarant refuses to testify, (3) does not remember, (4) is dead or ill, or (5) is absent and the proponent was unable to procure the declarant’s attendance or testimony in the case of a hearsay exception. A declarant is not an unavailable witness if the proponent caused the declarant’s unavailability to prevent the declarant from testifying.
+A declarant is an unavailable witness if (1) a privilege applies; (2) the declarant refuses to testify, (3) does not remember, (4) is dead or ill, or (5) is absent and the proponent was unable to procure the declarant’s attendance or testimony. A declarant is not unavailable if the proponent caused the declarant’s unavailability in order to prevent them from testifying.
 
 A **statement against interest** made by an unavailable witness is an exception to the rule against hearsay if it is a statement that a reasonable person would believe to be true because it is so contrary to the declarant’s interest or had so great a tendency to invalidate the declarant’s claim or expose the declarant to civil or criminal liability that the declarant would not have said it otherwise and, if offered in a criminal case, is supported by corroborating indicia of trustworthiness.[^27] [^28]
 
-[^27]:Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement against interest exception to rule against hearsay* (if Hardin's statement used against Stone the statement is untrustworthy because Hardin was cooperating with prosecutors when he taped the conversation [no idea whether I got this right])
+[^27]:Hardin's taped conversations with Stone and Johnson (Hypo for class 24) *illustrates statement against interest exception to rule against hearsay* (if Hardin's statement used against Stone the statement is untrustworthy because Hardin was cooperating with prosecutors when he taped the conversation)
 
 [^28]:United States v. Chang 999 F,3d 1059 (C.A. 7th 2021) *illustrates statement against interest exception to rule against hearsay* (Court barred Lola Chang's self-incriminating statements exculpating Ely Lao where they had been arrested in a car that broke down on the highway and cops found drugs and illegally modified guns in the car, because the court found her statements untrustworthy because either coerced [cops thought maybe partner abuse] or for affection [cops thought Chang and Lao were "culturally" married] and because other evidence contradicted what Chang said)
 
