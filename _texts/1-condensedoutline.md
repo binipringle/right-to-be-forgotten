@@ -12,29 +12,29 @@ toc:
 - Rule 401 Relevance
 - Rule 402 Admissibility of Relevant Evidence
 - Rule 403 Prejudice
-- Rules 601 602 603 Witness Competency
 - Rule 611 Control by the Court and Leading Questions
 - Rule 607 Witness Impeachment
-- Rule 613 Prior Inconsistent Statement
+- Rules 601 602 603 Witness Competency
 - Bias
+- Rule 613 Prior Inconsistent Statement
 - Rule 404a1 General Prohibition of Character Evidence
+- Rule 404a2 The Mercy Rule
 - Rule 404b1 and 404b2 Other Crimes Wrongs or Acts
 - Rule 608 Witness Impeachment for Character for Untruthfulness
 - Rule 407 Subsequent Remedial Measures
 - Rule 408 Compromise Offers and Negotiations
-- Rule 404a2 The Mercy Rule
-- Rule 405 Substantive Use of Character or Propensity Evidence
 - Rules 801 and 802 Hearsay
-- Rule 803 Exceptions to the Rule Against Hearsay
+- Exceptions to the Rule Against Hearsay
+- Rule 803 1 Present Sense Impression
+- Rule 803 2 Excited Utterance
+- Rule 803 3 State of Mind
+- Rule 803 4 Medical Diagnosis or Treatment
+- Rule 803 2 Business Records
 - Rule 805 Hearsay Within Hearsay
 - Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
 - Rule 801d1 Declarant Witness Prior Statement
 - Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
 - Sixth Amendment Confrontation Clause
-
----
-
-*This condensed outline is a work in progress (when I first condensed the outline the condensed outline was better than the outline so it became the outline, but now I'm condensing it again).*
 
 ---
 
@@ -96,23 +96,19 @@ Relevant evidence is admissible unless a statute or rules provide otherwise. Irr
 
 ## Rule 403 Prejudice
 
-Rule 403 allows the judge to exclude evidence they consider unfairly prejudicial. Evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence misleads a jury to make a decision on an improper ground and/or causes confusion, delay or waste of time. By allowing judges to counterbalance the broad admissibility of other rules, Rule 403 aims to ensure fairness and efficiency. [^5] [^6] [^7] [^8]
+Rule 403 allows the judge to exclude evidence they consider unfairly prejudicial. Evidence is unfairly prejudicial if its probative value is substantially outweighed by a danger of unfair prejudice. Unfair prejudice is when evidence misleads a jury to make a decision on an improper ground and/or causes confusion, delay or waste of time. By allowing judges to counterbalance the broad admissibility of other rules, Rule 403 aims to ensure fairness and efficiency. [^6] [^7] [^8] [^9]
 
-**Analysis**
+*Probative is dependent on what the evidence is being offered to prove and what rules limit the use for (e.g., 407, 408, 608)*
 
-Always both probative and prejudice for each party. Analyze probative for defendant, prejudice for defendant; and probative for plaintiff/prosecution, prejudice for plaintiff/prosecution.  
+*Prejudice is always jury misuse (making a decision on improper ground); also affected by policy of rule (e.g., 408 juries overvalue settlements); character evidence generally overvalued and decisions made on character rather than event on day in question.*
 
-Probative is dependent on what the evidence is being offered to prove and what rules limit the use for (e.g., 407, 408, 608)
+[^6]:State v. Poe, 21 Utah 113 (1968) *illustrates prejudice (Rule 403)* (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
 
-Prejudice is always jury misuse (making a decision on improper ground); also affected by policy of rule (e.g., 408 juries overvalue settlements); character evidence generally overvalued and decisions made on character rather than event on day in question.
+[^7]:Haley, v. Gross, McKee, and Ellis, 86 F.3d 630 (7th Cir. 1996) *illustrates prejudice (Rule 403)* (trial court did not abuse discretion by admitting photograph of burned cell with dead body of Haley's cellmate because while disturbing, its contents were highly relevant, and its very significant probative value was not substantially outweighed by danger of unfair prejudice; nor did trial court abuse discretion by admitting photograph of Haley in hospital severely burned and with leg shackles because not prejudicial)
 
-[^5]:State v. Poe, 21 Utah 113 (1968) *illustrates prejudice (Rule 403)* (Trial court abused discretion in admitting gruesome colored slides from autopsy because identity and cause of death was already established with black and white photographs and color slides were only offered by prosecution to inflame and arouse the jury so that they would recommend the death sentence rather than life imprisonment; reversed and remanded because of abuse of discretion and "other doubtful aspects of the trial")
+[^8]:Old Chief *illustrates prejudice (Rule 403)* (court reinforced general rule that parties can always present evidence even if other side is willing to stipulate to the evidence. But can also use 403 to say in a particular case the evidence should have been stipulated to because was unfairly prejudicial given the specific facts of the case.)
 
-[^6]:Haley, v. Gross, McKee, and Ellis, 86 F.3d 630 (7th Cir. 1996) *illustrates prejudice (Rule 403)* (trial court did not abuse discretion by admitting photograph of burned cell with dead body of Haley's cellmate because while disturbing, its contents were highly relevant, and its very significant probative value was not substantially outweighed by danger of unfair prejudice; nor did trial court abuse discretion by admitting photograph of Haley in hospital severely burned and with leg shackles because not prejudicial)
-
-[^7]:Old Chief *illustrates prejudice (Rule 403)* (court reinforced general rule that parties can always present evidence even if other side is willing to stipulate to the evidence. But can also use 403 to say in a particular case the evidence should have been stipulated to because was unfairly prejudicial given the specific facts of the case.)
-
-[^8]:U.S. v. Boros *illustrates prejudice (Rule 403)* (dry testimony of doctor barely relevant but relevant because charge is conspiracy to import controlled substances. Prosecutor’s mistake was to use it in summation and talk about how people could have had miscarriages, could have died, which doesn’t have anything to do with the charge. Court says evidence not very probative but very prejudicial because people dying, having miscarriages.)
+[^9]:U.S. v. Boros *illustrates prejudice (Rule 403)* (dry testimony of doctor barely relevant but relevant because charge is conspiracy to import controlled substances. Prosecutor’s mistake was to use it in summation and talk about how people could have had miscarriages, could have died, which doesn’t have anything to do with the charge. Court says evidence not very probative but very prejudicial because people dying, having miscarriages.)
 
 ---
 
@@ -132,21 +128,21 @@ Any party may attack a witness’s credibility. Witnesses can be impeached for *
 
 ## Rules 601 602 603 Witness Competency
 
-Every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. A witness may only testify to a matter if the witness has personal knowledge of that matter. To have personal knowledge, a witness must be able to (1) perceive the events; (2) take an oath; and (3) remember the events. Evidence for proving personal knowledge can be the witness’s testimony itself. [^9] [^10]
+Every person is competent to be a witness unless the Federal Rules, or, in a civil case, state law, provide otherwise. A witness may only testify to a matter if the witness has personal knowledge of that matter. To have personal knowledge, a witness must be able to (1) perceive the events; (2) take an oath; and (3) remember the events. Evidence for proving personal knowledge can be the witness’s testimony itself. [^10] [^11]
 
-[^9]:Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994) *illustrates witness competency (Rules 601, 602, 602)* (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
+[^10]:Kemp v. Balboa 23 F.3d 211 (8th Cir. 1994) *illustrates witness competency (Rules 601, 602, 602)* (court did not allow prison nurse's testimony to prove that Kemp did not pick up epilepsy medication because nurse had no personal knowledge since her testimony was based only on review of Kemp's medical file)
 
-[^10]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates witness competency (Rules 601, 602, 602)* (Kelly did not raise the issue of competency at trial, so appellate court reviews district court's decision for plain error)
+[^11]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates witness competency (Rules 601, 602, 602)* (Kelly did not raise the issue of competency at trial, so appellate court reviews district court's decision for plain error)
 
 ---  
 
 ## Bias
 
-**Bias** is the relationship between a party and a witness which might lead the witness to slant their testimony in favor of or against a party. (U.S. v. Abel) [^13]
+**Bias** is the relationship between a party and a witness which might lead the witness to slant their testimony in favor of or against a party. (U.S. v. Abel) [^12]
 
 *Bias is always non-collateral.*
 
-[^13]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias* (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
+[^12]:United States v. Abel 469 U.S. 45 (1984) *illustrates bias* (Extrinsic evidence to show bias is Ehle’s testimony that Ehle, Mills and Abel [defendant accused of bank robbery] were members of a secret prison organization whose members took an oath to deny its existence and “lie, cheat, steal [and] kill” to protect each other. Evidence offered by prosecution to rebut Mills [defendant’s witness]’s testimony that prior to Ehle’s testimony incriminating Abel, Ehle had told Mills that he [Ehle] was going to testify falsely against Abel. Prosecution brings extrinsic evidence of membership in secret prison organization to demonstrate that Mills is potentially biased in favor of Abel.)
 
 ---
 
@@ -154,13 +150,13 @@ Every person is competent to be a witness unless the Federal Rules, or, in a civ
 
 A witness can be impeached with a **prior inconsistent statement** under **Rule 613**. When examining a witness about a prior statement, a party does not need to show or disclose the prior statement to the witness. However, if requested, they must show or disclose it to the other party’s attorney.
 
-**Extrinsic evidence** of a prior inconsistent statement **cannot** be brought in to prove a **collateral matter** but it **can** be brought in to prove a **non-collateral matter**. If brought in, the witness must be given the opportunity to explain or deny the statement and the other party the opportunity to examine the witness about it. [^11] [^12]
+**Extrinsic evidence** of a prior inconsistent statement **cannot** be brought in to prove a **collateral matter** but it **can** be brought in to prove a **non-collateral matter**. If brought in, the witness must be given the opportunity to explain or deny the statement and the other party the opportunity to examine the witness about it. [^13] [^14]
 
 Rule 613 regulates the use of prior inconsistent statements to avoid distracting jurors with  tangential matters that could cause delay or confusion.
 
-[^11]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates prior inconsistent statement Rule 613(b)* (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
+[^13]:United States v. Kelly 436 F.3d 992 (8th Cir. 2006) *illustrates prior inconsistent statement Rule 613(b)* (child's tape-recorded testimony admissible as prior inconsistent statement under Rule 613(b). Rule 613(b) only states that a witness be afforded the opportunity to explain; it does not require a witness to actually explain or deny the prior inconsistent statements. Here, the child had the opportunity to explain himself, and Kelly had the opportunity to cross-examine the child. Moreover, although Kelly complains that the tape-recorded statement was used for substantive purposes, there is no evidence it was introduced for anything but impeachment of the witness.)
 
-[^12]:Taylor v. Cheddar's Casual Cafe, Inc. 2017 WL 157886 (W.D. La 2017)(unreported) *illustrates prior inconsistent statement Rule 613(b)* (evidence of Young’s alleged theft from Cheddar’s is inadmissible because Young neither charged with nor convicted of a crime based on this allegation and there is no other relevant purpose for the admission of this evidence.) (Young’s statements to Cheddar’s’ management and the two insurance adjusters after Taylor’s fall at the restaurant are  inadmissible as hearsay if offered to prove the truth of the matter asserted, but nonetheless admissible for the purpose of impeachment by prior inconsistent statement.)
+[^14]:Taylor v. Cheddar's Casual Cafe, Inc. 2017 WL 157886 (W.D. La 2017)(unreported) *illustrates prior inconsistent statement Rule 613(b)* (evidence of Young’s alleged theft from Cheddar’s is inadmissible because Young neither charged with nor convicted of a crime based on this allegation and there is no other relevant purpose for the admission of this evidence.) (Young’s statements to Cheddar’s’ management and the two insurance adjusters after Taylor’s fall at the restaurant are  inadmissible as hearsay if offered to prove the truth of the matter asserted, but nonetheless admissible for the purpose of impeachment by prior inconsistent statement.)
 
 ---
 
@@ -170,19 +166,15 @@ Rule 613 regulates the use of prior inconsistent statements to avoid distracting
 
 ---
 
-## Rule 608 Witness Impeachment for Character for Untruthfulness
+## Rule 404a2 The Mercy Rule
 
 *Start analysis by providing Rule 404(a)(1)*
 
-Rule 404(a) prohibits evidence of a person’s character or character trait to prove that on a specific occasion the person acted in accordance with that character or character trait.
+**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
 
-**Rule 608** lets some character evidence back in by allowing **opinion or reputation evidence** and **inquiry into specific instances of conduct** during cross examination to rebut opinion or reputation evidence based on good faith belief. [^14] [^15] [^16] Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility.  
+**Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing testimony about reputation and opinion and, on cross-examination, questions about specific prior conduct, but allows no extrinsic evidence.
 
-[^14]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
-
-[^15]:United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
-
-[^16]:United States v. Martinez 923 F.3d 806 (10th Cir. 2019) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case [his intent], not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity"]. "If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.")
+Under **Rule 404(a)(2)** or **the Mercy Rule**, a criminal defendant may offer evidence of pertinent character traits of the victim and/or the defendant. If the evidence is admitted, the prosecutor may attack the evidence in cross examination and bring in evidence of an opposing character trait. The policy reason for this rule is that the accused, whose liberty is at stake, may need a counterweight against the strong investigative and prosecutorial resources of the government. **In a homicide case**, the prosecutor does not have to wait for the defendant to offer pertinent character evidence of the victim to offer evidence of the victim’s trait of peacefulness to rebut evidence that the victim was the first aggressor.
 
 ---
 
@@ -196,23 +188,39 @@ This rule regulates evidence of prior acts because there is a concern about jury
 
 ---
 
+## Rule 608 Witness Impeachment for Character for Untruthfulness
+
+*Start analysis by providing Rule 404(a)(1)*
+
+Rule 404(a) prohibits evidence of a person’s character or character trait to prove that on a specific occasion the person acted in accordance with that character or character trait.
+
+**Rule 608** lets some character evidence back in by allowing **opinion or reputation evidence** and **inquiry into specific instances of conduct** during cross examination to rebut opinion or reputation evidence based on good faith belief. Evidence of truthful character is admissible only after the witness’s character for truthfulness has been attacked. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility. [^15] [^16] [^17]  
+
+[^15]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
+
+[^16]:United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
+
+[^17]:United States v. Martinez 923 F.3d 806 (10th Cir. 2019) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case [his intent], not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity"]. "If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.")
+
+---
+
 ## Rule 407 Subsequent Remedial Measures
 
-Evidence of measures that would have made an earlier injury or harm less likely to occur are not admissible to prove negligence, culpable conduct, defect, need for warning, or need for instructions. It be admissible for another purpose such as impeachment or, if disputed, to prove ownership, control, or feasibility. **Rule 407**. Evidence of a subsequent remedial measure is admissible if it was taken by a third party. This rule aims to promote socially valuable activities by not discouraging defendants from making prompt repairs. The rule also aims to protect plaintiffs from prejudice that could arise from jury misuse, given that even with a limiting instruction it can be difficult to explain how to apply evidence for impeachment or feasibility but not liability. The rule is also based on the concern that evidence of a subsequent remedial measure will often fail the Rule 403 balancing test because if the evidence is admissible under Rule 407 and at the defendant's request the judge applies Rule 403 where prejudice has to substantially outweigh the probative value of the evidence, because evidence of a substantial remedial measure is often highly probative, Rule 403 will not keep it out. [^17] [^18] [^19] [^20] [^21]   
+Evidence of measures that would have made an earlier injury or harm less likely to occur are not admissible to prove negligence, culpable conduct, defect, need for warning, or need for instructions. It be admissible for another purpose such as impeachment or, if disputed, to prove ownership, control, or feasibility. **Rule 407**. Evidence of a subsequent remedial measure is admissible if it was taken by a third party. This rule aims to promote socially valuable activities by not discouraging defendants from making prompt repairs. The rule also aims to protect plaintiffs from prejudice that could arise from jury misuse, given that even with a limiting instruction it can be difficult to explain how to apply evidence for impeachment or feasibility but not liability. The rule is also based on the concern that evidence of a subsequent remedial measure will often fail the Rule 403 balancing test because if the evidence is admissible under Rule 407 and at the defendant's request the judge applies Rule 403 where prejudice has to substantially outweigh the probative value of the evidence, because evidence of a substantial remedial measure is often highly probative, Rule 403 will not keep it out. [^18] [^19] [^20] [^21] [^22]   
 
 If a subsequent remedial measure is offered for impeachment, courts use a narrower than usual definition of impeachment, looking at whether a specific statement was in direct conflict with the measure; whether the witness made an absolute declaration (e.g., "safest possible, perfectly safe"); and/or whether the declarant was personally involved with implementing the measure. *Because impeachment is narrower it's a good place to argue 403 because if evidence for impeachment only less probative; prejudice is jury learning about and misusing measure*.
 
 *Party seeking to admit would argue that the exception to this rule is there specifically to let this kind of evidence in to impeach or to prove ownership and/or control or feasibility. Party seeking to exclude would argue that exception is narrow and here this would cause prejudice from jury misuse.*
 
-[^17]:Hunter-McLeod v. Dollar Gen., Eastern District of Pennsylvania 2014 U.S. District. LEXIS 129177, CIVIL ACTION NO. 13-3113 (E.D. Pennsylvania, 2014) *illustrates subsequent remedial measures (Rule 407)* (video surveillance footage showing store employee putting cardboard on the floor where plaintiff fell is inadmissible as evidence of subsequent remedial measures because it does not directly contradict employee's witness testimony.)
+[^18]:Hunter-McLeod v. Dollar Gen., Eastern District of Pennsylvania 2014 U.S. District. LEXIS 129177, CIVIL ACTION NO. 13-3113 (E.D. Pennsylvania, 2014) *illustrates subsequent remedial measures (Rule 407)* (video surveillance footage showing store employee putting cardboard on the floor where plaintiff fell is inadmissible as evidence of subsequent remedial measures because it does not directly contradict employee's witness testimony.)
 
-[^18]:Parents and Estate of John Hill v. Konnecranes, Inc. and Morris Material Handling, Inc., 2019 WL 3842072 (2019) *illustrates subsequent remedial measures (Rule 407)* (policies and procedures not admitted for impeachment purposes because defendants expect that plaintiffs will rely on these policies and procedures for “more than” impeachment purposes)
+[^19]:Parents and Estate of John Hill v. Konnecranes, Inc. and Morris Material Handling, Inc., 2019 WL 3842072 (2019) *illustrates subsequent remedial measures (Rule 407)* (policies and procedures not admitted for impeachment purposes because defendants expect that plaintiffs will rely on these policies and procedures for “more than” impeachment purposes)
 
-[^19]:Complaint of Consolidation Coal Co., 123 F.3d at 137 (3d Cir. 1997) *illustrates subsequent remedial measures (Rule 407)* (Evidence of subsequent remedial measures for impeachment purposes "must contradict the witness's testimony directly" to be admissible)
+[^20]:Complaint of Consolidation Coal Co., 123 F.3d at 137 (3d Cir. 1997) *illustrates subsequent remedial measures (Rule 407)* (Evidence of subsequent remedial measures for impeachment purposes "must contradict the witness's testimony directly" to be admissible)
 
-[^20]:Kelly v. Crown Equip. Co., 970 F.2d 1273, 1278 (3d Cir. 1992) *illustrates subsequent remedial measures (Rule 407)* (evidence of subsequent design changes inadmissible where expert testified that previous design was excellent and proper, not that it was the best or only possible design)
+[^21]:Kelly v. Crown Equip. Co., 970 F.2d 1273, 1278 (3d Cir. 1992) *illustrates subsequent remedial measures (Rule 407)* (evidence of subsequent design changes inadmissible where expert testified that previous design was excellent and proper, not that it was the best or only possible design)
 
-[^21]:Anderson v. Malloy, 700 F.2d 1208, 1211-12 (8th Cir.1983) *illustrates subsequent remedial measures (Rule 407)* (evidence of subsequent remedial measures admitted to impeach statements that defendants had done everything necessary for a secure motel and that chain locks and peep holes would not be successful, when defendants took additional security measures after incident and installed those devices).
+[^22]:Anderson v. Malloy, 700 F.2d 1208, 1211-12 (8th Cir.1983) *illustrates subsequent remedial measures (Rule 407)* (evidence of subsequent remedial measures admitted to impeach statements that defendants had done everything necessary for a secure motel and that chain locks and peep holes would not be successful, when defendants took additional security measures after incident and installed those devices).
 
 ---
 
@@ -220,39 +228,61 @@ If a subsequent remedial measure is offered for impeachment, courts use a narrow
 
 Evidence is **not admissible** to prove or disprove the validity or amount of a disputed claim or to impeach by a prior inconsistent statement or a contradiction if it is evidence of (1) furnishing, promising, offering, accepting, promising to accept, or offering to accept a consideration to settle a claim; **and** (2) conduct or statements made during negotiations about the claim.
 
-**Rule 408** promotes the socially valuable activity of settling disputes by protecting conduct or statements made in compromise negotiations regarding a claim that was disputed as to validity or amount. This rule is designed to encourage settlements by fostering free and full discussion of the issues and ensure that parties are not inhibited from making offers or statements while negotiating a settlement. Litigation does not need to have commenced for Rule 408 to apply, but there must be an actual dispute or a difference of opinion. Discussion of otherwise discoverable evidence at a settlement conference is not automatically protected by Rule 408. [^22] [^23] [^24] [^25]
+**Rule 408** promotes the socially valuable activity of settling disputes by protecting conduct or statements made in compromise negotiations regarding a claim that was disputed as to validity or amount. This rule is designed to encourage settlements by fostering free and full discussion of the issues and ensure that parties are not inhibited from making offers or statements while negotiating a settlement. Litigation does not need to have commenced for Rule 408 to apply, but there must be an actual dispute or a difference of opinion. Discussion of otherwise discoverable evidence at a settlement conference is not automatically protected by Rule 408. [^23] [^24] [^25] [^26]
 
 *Party seeking to exclude would argue that this rule specifically protects statements made in negotiations for the purpose of settling disputes and must be applied only for that, or the policy reason of promoting socially valuable negotiations would be diluted. Party seeking to admit would argue that evidence shows bias and bias always non-collateral.*
 
-[^22]:Weems v. Tyson Foods, Inc., 665 F.3d 958 (C.A 8th Cir. 2011) *illustrates compromise offers and negotiations (Rule 408)* (district court violated Rule 408 by admitting into evidence a separation agreement and related testimony and this error likely materially influenced the jury’s verdict)
+[^23]:Weems v. Tyson Foods, Inc., 665 F.3d 958 (C.A 8th Cir. 2011) *illustrates compromise offers and negotiations (Rule 408)* (district court violated Rule 408 by admitting into evidence a separation agreement and related testimony and this error likely materially influenced the jury’s verdict)
 
-[^23]:except statements made during negotiations with a government agency; these can be introduced in a subsequent criminal investigation. **This will not be tested on the final**.
+[^24]:except statements made during negotiations with a government agency; these can be introduced in a subsequent criminal investigation. **This will not be tested on the final**.
 
-[^24]:MCI Communs. Servs. v. Hagan, 641 F.3d 112 (5th Cir. 2011) *illustrates compromise offers and negotiations (Rule 408)* (testimony about phone call asking how much damaged cable would cost was not excluded under Rule 408 because there was not yet an actual dispute)
+[^25]:MCI Communs. Servs. v. Hagan, 641 F.3d 112 (5th Cir. 2011) *illustrates compromise offers and negotiations (Rule 408)* (testimony about phone call asking how much damaged cable would cost was not excluded under Rule 408 because there was not yet an actual dispute)
 
-[^25]:Steps of analysis: The question is whether the statements or conduct were intended to be part of the negotiations toward compromise. Look for: a clear dispute or disagreement communicated between parties > a clear intent to compromise (after dispute) > whether the offer was unilateral or bilateral > whether the offer was concrete or vague > whether the offer was in response to another offer > whether litigation was threatened or started > attorneys or formal negotiations > "legalese" > distinction between business discussions and legal negotiations.
+[^26]:Steps of analysis: The question is whether the statements or conduct were intended to be part of the negotiations toward compromise. Look for: a clear dispute or disagreement communicated between parties > a clear intent to compromise (after dispute) > whether the offer was unilateral or bilateral > whether the offer was concrete or vague > whether the offer was in response to another offer > whether litigation was threatened or started > attorneys or formal negotiations > "legalese" > distinction between business discussions and legal negotiations.
 
 ---
 
 ## Rules 801 and 802 Hearsay
 
-**Hearsay** is an out-of-court statement made by a person offered for the truth of the matter asserted. A statement is an assertion of fact and the declarant is the person who made the statement. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies. [^90]
+**Hearsay** is an out-of-court statement made by a person offered for the truth of the matter asserted. A statement is an assertion of fact and the declarant is the person who made the statement. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies. [^27]
 
 *All witnesses are declarants but declarants are witnesses only when they testify under oath at a trial or hearing.*
 
-[^90]:United States v. Joe 8 F.3d 1488 (10th Cir. 1993) *illustrates hearsay* (court determined that threat and rape statements made by deceased Julia Joe to her doctor were admissible under statement for medical diagnosis or treatment [appellate court found that narrow then-existing mental state exception did not allow statement about alleged perpetrator's identity] and were not precluded under Rule 404(b) crimes, wrongs and other acts, as they were being offered to show defendant's "specific intent")
+[^27]:United States v. Joe 8 F.3d 1488 (10th Cir. 1993) *illustrates hearsay* (court determined that threat and rape statements made by deceased Julia Joe to her doctor were admissible under statement for medical diagnosis or treatment [appellate court found that narrow then-existing mental state exception did not allow statement about alleged perpetrator's identity] and were not precluded under Rule 404(b) crimes, wrongs and other acts, as they were being offered to show defendant's "specific intent")
 
 ---
 
-## Rule 803 Exceptions to the Rule Against Hearsay
+## Exceptions to the Rule Against Hearsay
+
+There are exceptions to the rule against hearsay.
+
+---
+
+## Rule 803 1 Present Sense Impression
 
 A statement of a **present sense impression** is an exception to the rule against hearsay, regardless of whether the declarant is available as a witness. A present sense impression is a statement describing or explaining an event or condition, made while or immediately after the declarant perceived it. **Rule 803(1)**.
 
-An excited utterance is a statement responsive to a startling event, made before the declarant had time to contrive or misrepresent, while under stress of excitement, and about the startling event. Excited utterances are reliable because excitement doesn't allow declarant to think much about what they say. **Rule 803(2)**.
+---
+
+## Rule 803 2 Excited Utterance
+
+An **excited utterance** is a statement responsive to a startling event, made before the declarant had time to contrive or misrepresent, while under stress of excitement, and about the startling event. Excited utterances are reliable because excitement doesn't allow declarant to think much about what they say. **Rule 803(2)**.
+
+---
+
+## Rule 803 3 State of Mind
 
 A statement of the declarant’s **then-existing state of mind** is an exception to the rule against hearsay, regardless of whether the declarant is available as a witness. State of mind is the declarant's **then-existing state of mind** (such as motive, intent, or plan) or emotional, sensory, or physical condition (such as mental feeling, pain, or bodily health). State of mind does not include a statement of memory or belief to prove the fact remembered or believed unless it relates to the validity or terms of the declarant’s will. Courts allow statements of the declarant's then-existing state of mind because they are highly reliable as the declarant is pretty much thinking aloud without planning beforehand what they are going to say. **Rule 803(3)**.
 
+---
+
+## Rule 803 4 Medical Diagnosis or Treatment
+
 A statement made **for medical diagnosis or treatment** is not excluded by the rule against hearsay regardless of whether the declarant is available as a witness if the statement (A) is made for medical diagnosis or treatment; and (B) describes medical history, past or present symptoms or sensations, their inception, or their general cause. Statements made for medical diagnosis or treatment are reliable because it is in the declarant's self-interest to provide truthful information to doctors when seeking medical care. **Rule 803(4)**.
+
+---
+
+## Rule 803 2 Business Records
 
 The "**business records**” exception to hearsay provides that a record of an act, event, condition, opinion, or diagnosis is not excluded by the rule against hearsay, regardless of whether the declarant is available as a witness, if (A) the record was made at or near the time by someone with knowledge or from information transmitted by someone with knowledge; (B) the record was kept in the course of a regularly conducted activity of a business, organization, occupation, or calling, including not-for-profit; (C) making the record was a regular practice of that activity; (D) all these conditions are shown by the testimony of the custodian or another qualified witness, or by a certification[^31; and (E) the opponent does not show a lack of trustworthiness. Business records are highly reliable because they are generally kept to run businesses. **Rule 803(6)**.
 
