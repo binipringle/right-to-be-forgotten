@@ -194,9 +194,9 @@ Under **Rule 404(a)(2)** or **the Mercy Rule**, a criminal defendant may offer e
 
 *Start analysis by providing Rule 404(a)(1)*
 
-**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
+**Rule 404(a)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
 
-**Rule 404(b)** provides that evidence of any other crime, wrong, or act is not admissible to prove that a person has a propensity or character for committing similar crimes, wrongs or acts. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
+Under **Rule 404(b)**, evidence of any other crime, wrong, or act is not admissible to prove propensity or character for committing similar acts. However, it may be admissible for another purpose, such as proving **motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident**.
 
 For evidence of prior acts to be admissible, the evidence must be offered for a proper purpose; (2) be relevant to that purpose; (3) does not cause unfair prejudice; and (4) the court must, upon request, issue a limiting instruction to restrict the evidence to its proper scope. In a criminal case, the prosecution must provide written notice to the defendant,  stating the permitted purpose for which the evidence is being offered and the reasoning that supports the purpose. This rule regulates evidence of prior acts to prevent jury misuse for propensity purposes, which is why the evidence must also satisfy 401, 403 and 105.
 
