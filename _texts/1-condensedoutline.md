@@ -292,7 +292,7 @@ Exceptions to the rule against hearsay covered by the exam are present sense imp
 
 ## Rule 803 1 Present Sense Impression
 
-A statement of a **present sense impression** is an exception to the rule against hearsay whether the declarant is available as a witness or not. A present sense impression is a statement describing or explaining an event or condition, made while or immediately after the declarant perceived it.
+A statement of a **present sense impression** is an exception to the rule against hearsay whether the declarant is available as a witness or not. A present sense impression is a statement describing or explaining an event or condition, made while or immediately after the declarant perceived it. Statements of present sense impression are highly reliable because the declarant was pretty much thinking aloud without planning beforehand what they are going to say.
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -308,7 +308,7 @@ An **excited utterance** is an exception to the rule against hearsay whether the
 
 ## Rule 803 3 State of Mind
 
-A statement of the declarant’s **then-existing state of mind** is an exception to the rule against hearsay whether the declarant is available as a witness or not. State of mind is the declarant's **then-existing state of mind** such as **motive, intent, or plan**, or sensory, or physical condition such as **fear, pain, or discomfort**. State of mind is not memory or belief unless it relates to the validity or terms of the declarant’s will. Courts allow statements of the declarant's then-existing state of mind because they are highly reliable as the declarant is pretty much thinking aloud without planning beforehand what they are going to say.
+A statement of the declarant’s **then-existing state of mind** is an exception to the rule against hearsay whether the declarant is available as a witness or not. State of mind is the declarant's **then-existing state of mind** such as **motive, intent, or plan**, or sensory, or physical condition such as **fear, pain, or discomfort**. State of mind is not memory or belief unless it relates to the validity or terms of the declarant’s will. Statements of then-existing state of mind are highly reliable because the declarant was pretty much thinking aloud without planning beforehand what they are going to say.
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
