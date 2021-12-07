@@ -292,7 +292,7 @@ Exceptions to the rule against hearsay covered by the exam are present sense imp
 
 ## Rule 803 1 Present Sense Impression
 
-A statement of a **present sense impression** is an exception to the rule against hearsay, regardless of whether the declarant is available as a witness. A present sense impression is a statement describing or explaining an event or condition, made while or immediately after the declarant perceived it. **Rule 803(1)**.
+A statement of a **present sense impression** is an exception to the rule against hearsay whether the declarant is available as a witness or not. A present sense impression is a statement describing or explaining an event or condition, made while or immediately after the declarant perceived it.
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -300,7 +300,7 @@ A statement of a **present sense impression** is an exception to the rule agains
 
 ## Rule 803 2 Excited Utterance
 
-An **excited utterance** is an exception to the rule against hearsay, regardless of whether the declarant is available as a witness. An excited utterance is a statement responsive to a startling event, made before the declarant had time to contrive or misrepresent, while under stress of excitement caused by the startling event, and about the startling event. Excited utterances are reliable because excitement doesn't allow declarant to think much about what they say. **Rule 803(2)**.
+An **excited utterance** is an exception to the rule against hearsay whether the declarant is available as a witness or not. An excited utterance is a statement responsive to a startling event, made before the declarant had time to contrive or misrepresent, while under stress of excitement caused by the startling event, and about the startling event. Excited utterances are reliable because excitement doesn't allow declarant to think much about what they say.
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -308,7 +308,7 @@ An **excited utterance** is an exception to the rule against hearsay, regardless
 
 ## Rule 803 3 State of Mind
 
-A statement of the declarant’s **then-existing state of mind** is an exception to the rule against hearsay, regardless of whether the declarant is available as a witness. State of mind is the declarant's **then-existing state of mind** (such as motive, intent, or plan) or emotional, sensory, or physical condition (such as mental feeling, pain, or bodily health). State of mind does not include a statement of memory or belief to prove the fact remembered or believed unless it relates to the validity or terms of the declarant’s will. Courts allow statements of the declarant's then-existing state of mind because they are highly reliable as the declarant is pretty much thinking aloud without planning beforehand what they are going to say. **Rule 803(3)**.
+A statement of the declarant’s **then-existing state of mind** is an exception to the rule against hearsay whether the declarant is available as a witness or not. State of mind is the declarant's **then-existing state of mind** such as **motive, intent, or plan**, or sensory, or physical condition such as **fear, pain, or discomfort**. State of mind is not memory or belief unless it relates to the validity or terms of the declarant’s will. Courts allow statements of the declarant's then-existing state of mind because they are highly reliable as the declarant is pretty much thinking aloud without planning beforehand what they are going to say.
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -316,7 +316,7 @@ A statement of the declarant’s **then-existing state of mind** is an exception
 
 ## Rule 803 4 Medical Diagnosis or Treatment
 
-A statement made **for medical diagnosis or treatment** is not excluded by the rule against hearsay regardless of whether the declarant is available as a witness if the statement (A) is made for medical diagnosis or treatment; and (B) describes medical history, past or present symptoms or sensations, their inception, or their general cause. Statements made for medical diagnosis or treatment are reliable because it is in the declarant's self-interest to provide truthful information to doctors when seeking medical care. **Rule 803(4)**.
+A statement made **for medical diagnosis or treatment** is not excluded by the rule against hearsay regardless of whether the declarant is available as a witness if the statement is made for seeking medical diagnosis or treatment; and describes medical history, symptoms, their inception, or their general cause. Statements made for medical diagnosis or treatment are reliable because it is in the declarant's self-interest to provide truthful information to doctors when seeking medical care. **Rule 803(4)**.
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -324,7 +324,7 @@ A statement made **for medical diagnosis or treatment** is not excluded by the r
 
 ## Rule 803 6 Business Records
 
-The "**business records**” exception to hearsay provides that a record of an act, event, condition, opinion, or diagnosis is not excluded by the rule against hearsay, regardless of whether the declarant is available as a witness, if (A) the record was made at or near the time by someone with knowledge or from information transmitted by someone with knowledge; (B) the record was kept in the course of a regularly conducted activity of a business, organization, occupation, or calling, including not-for-profit; (C) making the record was a regular practice of that activity; (D) all these conditions are shown by the testimony of the custodian or another qualified witness, or by a certification[^31; and (E) the opponent does not show a lack of trustworthiness. Business records are highly reliable because they are generally kept to run businesses. **Rule 803(6)**.
+The "**business records**” exception to hearsay provides that a record of an act, event, condition, opinion, or diagnosis is not excluded by the rule against hearsay whether the declarant is available as a witness or not, if the record was (A) made at or near the time by someone with knowledge; (B) kept in the course of a regularly conducted activity; (C) made as part of a regular practice; (D) the witness is the custodian or qualified or there is a certification; and (E) the opposing party doesn't show a lack of trustworthiness. Business records are highly reliable because they are generally kept to run businesses. **Rule 803(6)**.
 
 [Return to top](https://binipringle.github.io/evidence/texts/1-condensedoutline/)
 
@@ -340,7 +340,7 @@ The "**business records**” exception to hearsay provides that a record of an a
 
 ## Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
 
-A declarant is an unavailable witness if (1) a privilege applies; (2) the declarant refuses to testify, (3) does not remember, (4) is dead or ill, or (5) is absent and the proponent was unable to procure the declarant’s attendance or testimony. A declarant is not unavailable if the proponent caused the declarant’s unavailability in order to prevent them from testifying.
+A declarant is an unavailable witness if (1) a privilege applies; (2) the declarant refuses to testify, (3) does not remember, (4) is dead or ill, or (5) is absent and could not be found. A declarant is not unavailable if the proponent caused the declarant’s unavailability in order to prevent them from testifying.
 
 A **statement against interest** made by an unavailable witness is an exception to the rule against hearsay if it is a statement that a reasonable person would believe to be true because it is so contrary to the declarant’s interest or had so great a tendency to invalidate the declarant’s claim or expose the declarant to civil or criminal liability that the declarant would not have said it otherwise and, if offered in a criminal case, is supported by corroborating indicia of trustworthiness.[^27] [^28]
 
