@@ -32,7 +32,7 @@ toc:
 - Rule 803 2 Business Records
 - Rule 805 Hearsay Within Hearsay
 - Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
-- Rule 801d1 Declarant Witness Prior Statement
+- Rule 801d1 Hearsay Exemption Declarant Witness Prior Statement
 - Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
 - Sixth Amendment Confrontation Clause
 
@@ -232,9 +232,7 @@ If a subsequent remedial measure is offered for impeachment, courts use a narrow
 
 ## Rule 408 Compromise Offers and Negotiations
 
-Evidence is **not admissible** to prove or disprove the validity or amount of a disputed claim or to impeach by a prior inconsistent statement or a contradiction if it is evidence of (1) furnishing, promising, offering, accepting, promising to accept, or offering to accept a consideration to settle a claim; **and** (2) conduct or statements made during negotiations about the claim.
-
-**Rule 408** promotes the socially valuable activity of settling disputes by protecting conduct or statements made in compromise negotiations regarding a claim that was disputed as to validity or amount. This rule is designed to encourage settlements by fostering free and full discussion of the issues and ensure that parties are not inhibited from making offers or statements while negotiating a settlement. Litigation does not need to have commenced for Rule 408 to apply, but there must be an actual dispute or a difference of opinion. Discussion of otherwise discoverable evidence at a settlement conference is not automatically protected by Rule 408. [^23] [^24] [^25] [^26]
+Evidence of compromise offers or negotiations about a claim are **not admissible** to prove or disprove the validity or amount of a disputed claim or to impeach by a prior inconsistent statement or contradiction. **Rule 408** promotes the socially valuable activity of settling disputes by protecting conduct or statements made in compromise negotiations and encouraging free and full discussion of ways to settle a dispute. Litigation does not need to have started but there must be an actual dispute or  difference of opinion. Factors to determine whether a statement occurred during compromise negotiations include whether an offer was unilateral or bilateral, concrete or vague, in response to another offer, litigation threatened, and if legal terminology was used. [^23] [^24] [^25] [^26]
 
 *Party seeking to exclude would argue that this rule specifically protects statements made in negotiations for the purpose of settling disputes and must be applied only for that, or the policy reason of promoting socially valuable negotiations would be diluted. Party seeking to admit would argue that evidence shows bias and bias always non-collateral.*
 
@@ -250,7 +248,7 @@ Evidence is **not admissible** to prove or disprove the validity or amount of a 
 
 ## Rules 801 and 802 Hearsay
 
-**Hearsay** is an out-of-court statement made by a person offered for the truth of the matter asserted. A statement is an assertion of fact and the declarant is the person who made the statement. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies. [^27]
+**Hearsay** is an out-of-court statement offered for the truth of the matter asserted. A statement is an assertion of fact and the declarant is the person who made the statement. Hearsay is prohibited because the declarant cannot be cross examined to test for mistake or clarity, and because the statement was not made under oath, which makes it unreliable. Hearsay is inadmissible unless an exception or exemption applies. [^27]
 
 *All witnesses are declarants but declarants are witnesses only when they testify under oath at a trial or hearing.*
 
@@ -319,9 +317,7 @@ A **declarant-witness’s prior statement** is exempt from the rule against hear
 ---
 ## Rule 801d2 Hearsay Exemption Statements by Opposing Party including Co-Conspirators
 
-An **opposing party's statement** is an exemption to the rule against hearsay if **made by the opposing party in an individual or representative capacity**, or **by the opposing party’s agent or employee** within the scope of that relationship or while it existed and within the scope of their duties. [^29] An opposing party's statement is not hearsay if it was **made by the party’s co-conspirator during and in furtherance of the conspiracy.** Neither declarant nor conspiracy have to be charged. **Proponent must offer additional evidence** that a conspiracy existed and that the party and declarant were members of the conspiracy. A conspiracy is loosely defined as a joint venture or common plan. If established, a conspiracy exists until the parties are arrested or collaborate with law enforcement, extricate themselves from the conspiracy, or the conspiracy completes its end.  [^30] [^31] [^32]
-
-The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a judicial device that holds a party responsible for all statements they make and therefore "estops" them from objecting to their own statement on grounds that it is unreliable.  However, a declarant can always take the stand and explain.
+An **opposing party's statement** is an exemption to the rule against hearsay if it was made by the opposing party in their individual capacity or by their agent or employee within the scope of their relationship or duties, or if it was **made by the party’s co-conspirator during and in furtherance of the conspiracy.** Neither declarant nor conspiracy have to be charged. **The proponent must offer additional evidence** that a conspiracy existed and that the party and declarant were members of the conspiracy. A conspiracy is a joint venture or common plan. A conspiracy exists until the parties are arrested or collaborate with law enforcement, extricate themselves from the conspiracy, or the conspiracy completes its end. The rationale behind **Rule 801** is estoppel, not reliability. Estoppel is a judicial device that holds a party responsible for all statements they make and therefore "estops" them from objecting to their own statement on grounds that it is unreliable.  However, a declarant can always take the stand and explain.  [^29] [^30] [^31] [^32]
 
 
 [^29]:Baines v. Walgreen 863 F.3d 656 (7th Cir. 2007) *illustrates opposing party's statement made by agent or employee; also illustrates hearsay within hearsay* (Baines allowed to admit Martin's statement that Ruehs stated that Birch told Ruehs not to hire Baines because Martin was a Walgreen's employee and Ruehs was her supervisor and statements were within the scope of employment, and because innermost level of testimony [what Birch said to Ruehs] was not a statement but a command)
