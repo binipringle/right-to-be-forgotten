@@ -17,10 +17,10 @@ toc:
 - Rules 601 602 603 Witness Competency
 - Bias
 - Rule 613 Prior Inconsistent Statement
+- Rule 608 Witness Impeachment for Character for Untruthfulness
 - Rule 404a1 General Prohibition of Character Evidence
 - Rule 404a2 The Mercy Rule
 - Rule 404b1 and 404b2 Other Crimes Wrongs or Acts
-- Rule 608 Witness Impeachment for Character for Untruthfulness
 - Rule 407 Subsequent Remedial Measures
 - Rule 408 Compromise Offers and Negotiations
 - Rules 801 and 802 Hearsay
@@ -29,7 +29,7 @@ toc:
 - Rule 803 2 Excited Utterance
 - Rule 803 3 State of Mind
 - Rule 803 4 Medical Diagnosis or Treatment
-- Rule 803 2 Business Records
+- Rule 803 6 Business Records
 - Rule 805 Hearsay Within Hearsay
 - Rule 804 Hearsay Exceptions Requiring Declarant Unavailability Statement Against Interest
 - Rule 801d1 Hearsay Exemption Declarant Witness Prior Statement
@@ -158,6 +158,20 @@ A witness can be impeached with a **prior inconsistent statement**. The impeachi
 
 ---
 
+## Rule 608 Witness Impeachment for Character for Untruthfulness
+
+Rule 404(a)(1) prohibits evidence of a person’s character or character trait to prove that on a specific occasion the person acted in accordance with that character or character trait.
+
+**Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing **testimony about reputation and opinion** and, on cross-examination, **questions about specific prior conduct** to rebut opinion or reputation evidence based on good faith belief. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility. [^15] [^16] [^17]  
+
+[^15]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
+
+[^16]:United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
+
+[^17]:United States v. Martinez 923 F.3d 806 (10th Cir. 2019) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case [his intent], not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity"]. "If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.")
+
+---
+
 ## Rule 404a1 General Prohibition of Character Evidence
 
 **Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
@@ -179,22 +193,6 @@ Under **Rule 404(a)(2)** or **the Mercy Rule**, a criminal defendant may offer e
 Evidence of any other crime, wrong, or act is not admissible to prove that a person has a propensity or character for committing similar crimes, wrongs or acts. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
 
 For evidence of prior acts to be admissible, the evidence must be offered for a proper purpose; (2) be relevant to that purpose; (3) does not cause unfair prejudice; and (4) the court must, upon request, issue a limiting instruction to restrict the evidence to its proper scope. In a criminal case, the prosecution must provide written notice to the defendant,  stating the permitted purpose for which the evidence is being offered and the reasoning that supports the purpose. This rule regulates evidence of prior acts to prevent jury misuse for propensity purposes, which is why the evidence must also satisfy 401, 403 and 105.
-
----
-
-## Rule 608 Witness Impeachment for Character for Untruthfulness
-
-*Start analysis by providing Rule 404(a)(1)*
-
-Rule 404(a) prohibits evidence of a person’s character or character trait to prove that on a specific occasion the person acted in accordance with that character or character trait.
-
-**Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing **testimony about reputation and opinion** and, on cross-examination, **questions about specific prior conduct** to rebut opinion or reputation evidence based on good faith belief. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility. [^15] [^16] [^17]  
-
-[^15]:Renda v. King 347 F.3d 550 (3d Cir. 2003) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (district court abused its discretion in excluding evidence of Trooper King's good character for truthfulness because Renda attacked King's character for truthfulness by arguing during her opening statement that the jury should not believe King not because of bias but because he was corrupt and improperly performed his official duties.)
-
-[^16]:United States v. Jones, 763 F.2d 518, 522 (2d Cir. 1985) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (holding that attacks on a witness's character for truthfulness in opening statements may qualify under the "otherwise" portion of Rule 608(a)).
-
-[^17]:United States v. Martinez 923 F.3d 806 (10th Cir. 2019) *illustrates witness impeachment for character for untruthfulness (Rules 404a1, 608)* (no abuse of discretion in district court’s exclusion of defendant’s character-for-truthfulness evidence; the clear purpose of the prosecutor’s cross-examination was challenge defendant's veracity with respect to a specific issue in the present case [his intent], not his general truthfulness. See  Kauz, 188 F.2d at 10 [“The mere fact that a witness is contradicted by other evidence in the case does not constitute an attack upon his reputation for truth and veracity"]. "If this be an attack on Defendant’s character for truthfulness, then such an attack occurs whenever the prosecution puts on evidence contrary to a witness’s account.")
 
 ---
 
@@ -276,7 +274,7 @@ A statement made **for medical diagnosis or treatment** is not excluded by the r
 
 ---
 
-## Rule 803 2 Business Records
+## Rule 803 6 Business Records
 
 The "**business records**” exception to hearsay provides that a record of an act, event, condition, opinion, or diagnosis is not excluded by the rule against hearsay, regardless of whether the declarant is available as a witness, if (A) the record was made at or near the time by someone with knowledge or from information transmitted by someone with knowledge; (B) the record was kept in the course of a regularly conducted activity of a business, organization, occupation, or calling, including not-for-profit; (C) making the record was a regular practice of that activity; (D) all these conditions are shown by the testimony of the custodian or another qualified witness, or by a certification[^31; and (E) the opponent does not show a lack of trustworthiness. Business records are highly reliable because they are generally kept to run businesses. **Rule 803(6)**.
 
