@@ -160,7 +160,9 @@ A witness can be impeached with a **prior inconsistent statement**. The impeachi
 
 ## Rule 608 Witness Impeachment for Character for Untruthfulness
 
-Rule 404(a)(1) prohibits evidence of a person’s character or character trait to prove that on a specific occasion the person acted in accordance with that character or character trait.
+*Start analysis by providing Rule 404(a)(1)*
+
+**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
 
 **Rule 608** provides an exception to this rule by allowing a witness’s character for untruthfulness to come in for impeachment purposes by allowing **testimony about reputation and opinion** and, on cross-examination, **questions about specific prior conduct** to rebut opinion or reputation evidence based on good faith belief. **Extrinsic evidence** is **not admissible** to prove **specific instances of a witness’s conduct** to show character for truthfulness (except criminal convictions under Rule 609). Rule 608 is based on the idea that evidence of character for truthfulness has some relevance because it helps the jury determine witness credibility. [^15] [^16] [^17]  
 
@@ -190,7 +192,11 @@ Under **Rule 404(a)(2)** or **the Mercy Rule**, a criminal defendant may offer e
 
 ## Rule 404b1 and 404b2 Other Crimes Wrongs or Acts
 
-Evidence of any other crime, wrong, or act is not admissible to prove that a person has a propensity or character for committing similar crimes, wrongs or acts. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
+*Start analysis by providing Rule 404(a)(1)*
+
+**Rule 404(a)(1)** prohibits evidence of a person’s character or character trait to prove that on a particular occasion the person acted in accordance with that character or trait. This is because character evidence is not particularly probative given that people do not always act according to "character," and propensity-based decisions would be unfairly prejudicial jury misuse.
+
+**Rule 404(b)** provides that evidence of any other crime, wrong, or act is not admissible to prove that a person has a propensity or character for committing similar crimes, wrongs or acts. However, it may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
 
 For evidence of prior acts to be admissible, the evidence must be offered for a proper purpose; (2) be relevant to that purpose; (3) does not cause unfair prejudice; and (4) the court must, upon request, issue a limiting instruction to restrict the evidence to its proper scope. In a criminal case, the prosecution must provide written notice to the defendant,  stating the permitted purpose for which the evidence is being offered and the reasoning that supports the purpose. This rule regulates evidence of prior acts to prevent jury misuse for propensity purposes, which is why the evidence must also satisfy 401, 403 and 105.
 
@@ -198,7 +204,7 @@ For evidence of prior acts to be admissible, the evidence must be offered for a 
 
 ## Rule 407 Subsequent Remedial Measures
 
-Evidence of measures that would have made an earlier injury or harm less likely to occur are not admissible to prove negligence, culpable conduct, defect, need for warning, or need for instructions. It may be admissible for another purpose such as impeachment or, if disputed, to prove ownership and/or control, or feasibility. Rule 407 aims to promote socially valuable activities by not discouraging defendants from making prompt repairs. The rule also aims to protect plaintiffs from prejudice that could arise from jury misuse, because even with a limiting instruction it can be difficult to explain how to apply evidence for impeachment or feasibility but not liability. The rule also comes from concern that evidence of a subsequent remedial measure will often fail the Rule 403 balancing test because evidence of a substantial remedial measure is often highly probative. [^18] [^19] [^20] [^21] [^22]   
+Evidence of measures that would have made an earlier injury or harm less likely to occur are **not admissible** to prove **negligence, culpable conduct, defect, need for warning, or need for instructions.** It may be **admissible** for another purpose such as **impeachment** or, if disputed, to prove **ownership and/or control** or **feasibility**. Rule 407 aims to promote socially valuable activities by not discouraging defendants from making prompt repairs. The rule also aims to protect plaintiffs from prejudice that could arise from jury misuse, because even with a limiting instruction it can be difficult to explain how to apply evidence for impeachment or feasibility but not liability. The rule also comes from concern that evidence of a subsequent remedial measure will often fail the Rule 403 balancing test because evidence of a substantial remedial measure is often highly probative. [^18] [^19] [^20] [^21] [^22]   
 
 If a subsequent remedial measure is offered for impeachment, courts use a narrower than usual definition of impeachment, looking at whether a specific statement was in direct conflict with the measure; whether the witness made an absolute declaration (e.g., "safest possible"); and/or whether the declarant was personally involved with implementing the measure.
 
