@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setupš
-title:               'Evidence'
+title:               'Constitutional Structures'
 tagline:             'class notes fall 2021'
 description:         'This is an experimental way of organizing class notes.'
 url:                 'https://github.com/binipringle'
-baseurl:             '/evidence'
+baseurl:             '/constructs'
 
 # About/contact
 author:
@@ -14,7 +14,7 @@ author:
   email:             sabina.pringle@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: red
+color-scheme: magenta
 
 # Permalinks
 permalink: pretty
