@@ -32,6 +32,10 @@ toc:
 - Abrogation
 - The meaning of Alden
 - Waiver
+- Federal Legislative Power
+- Necessary and Proper Clause
+- Commerce Power
+- Commerce Power After Lopez and Morrison
 
 ---
 
@@ -45,20 +49,12 @@ See [U.S. Constitution](https://www.law.cornell.edu/constitution/index.html) for
 **1787 Constitution**
 
 - {:.indent-0}Article I: National Legislature (Congress)
-- {:.indent-2}Bicameral:
-- {:.indent-4}House of Representatives: by population.
-- {:.indent-4}Senate: 2 Senators per State.
-- {:.indent-2}“Enumerated powers” concept (but Constitution vastly expanded national legislative power from that granted by the Articles of Confederation).
 - {:.indent-0}Article II: National Executive (President)
 - {:.indent-0}Article III: National Judiciary
 - {:.indent-0}Article IV: States
 - {:.indent-0}Article V: Amendment process (very difficult)
 - {:.indent-0}Article VI: Federal Supremacy (within a system of “dual sovereignty”)
-- {:.indent-2}"This Constitution, and the Laws of the United States which shall be made in Pursuance thereof, and all Treaties made, or which shall be made, under Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby; any Thing in the Constitution or Laws of any State to the Contrary notwithstanding. U.S. Const. Art. VI, cl. 2.""
-
-Comparing the Constitution to the Articles of Confederation that it replaced, we see major structural and institutional changes effected by the 1787 Constitution (i.e., how the Constitution altered the institutions of government, the powers assigned to those institutions, and the theory of sovereignty underlying the National Government).  Why were those changes made?
-
-The text of the 1787 Constitution is only a small part of the story [ppt slides]
+- {:.indent-0}Article VII: Ratification
 
 ---
 
@@ -66,7 +62,7 @@ The text of the 1787 Constitution is only a small part of the story [ppt slides]
 
 Constitutions serve two major functions. These are (1) recognize and protect individual and group rights, and (2) “constitute” the government by creating institutions, specifying their powers, and establishing the ground rules. The two central concepts in this course are **federalism** and **separation of powers**.
 
-What does “federalism” mean in the U.S. context?
+"Federalism" in the U.S. context:
 
 - {:.indent-0}Federalism issues are now highly contested and in flux:
 - {:.indent-2}(A) New Deal (1930s) - 1970s: federalism issues settled/stable; broad deference to congressional power.
@@ -74,31 +70,13 @@ What does “federalism” mean in the U.S. context?
 - {:.indent-2}(C) 1990s - present: states’ rights campaign achieves dominance on Supreme Court, often at expense of other constitutional values.
 - {:.indent-2}(D) Judicial activism deployed to advance states’ rights theory of federalism.
 
-A major question in US constitutional law has been whether and to what extent the judiciary should define and enforce federalism-based limits (aka, “states-rights” limits) on the national government. The question of how power should be allocated between the national government and state governments (aka, federalism issues) has no intrinsic political valence. However, federalism issues often divide Supreme Court on political/ideological lines.  	 
-
-[What role has “states’ rights” -- and judicial enforcement of “states’ rights” -- played in U.S. history?  Note inversion of states’ rights questions during Trump administration.]
-
-Cases that turned on federalism issues: list cases here
-
-What does “separation of powers” mean in the U.S. context?
-
-Cases that turned on separation of powers issues: list cases here
-
-Unlike LEDP, Constitutional Structures focuses on governmental powers, not on individual rights.  But these two dimensions of the constitutional system -- rights and powers --  are closely intertwined.
-
-What is the primary purpose of the Constitution’s double dispersion of public power: horizontally between the 3 branches of the national government , and vertically, between the national government and the states?
-
-Recent Supreme Court decisions interpreting the Constitution:
+A major question in US constitutional law has been whether and to what extent the judiciary should define and enforce federalism-based limits (aka, “states-rights” limits) on the national government. The question of how power should be allocated between the national government and state governments (aka, federalism issues) has no intrinsic political valence. However, federalism issues often divide Supreme Court on political/ideological lines. Recent Supreme Court decisions interpreting the Constitution:
 
 - {:.indent-2}Parents Involved (2007):  The Constitution bars states and localities from using most (maybe any) race conscious measures to keep public schools from becoming segregated by race.
 - {:.indent-2}Citizens United (2010): The Constitution bars regulation of corporate spending on elections - leaves government powerless to prevent flooding of the political process with corporate wealth.
 - {:.indent-2}Shelby County (2013):  The Constitution bars Congress from maintaining key provisions of the Voting Rights Act of 1965 that had curbed state actions disenfranchising people of color.
 
-Frederick Douglass, “The Constitution of the United States: Is It Pro-Slavery or Anti-slavery?” (1860)
-
-First let me state what is not the question… It is not whether slavery existed in the United States at the time of the adoption of the Constitution; it is not whether slaveholders took part in the framing of the Constitution; it is not whether those slaveholders, in their hearts, intended to secure certain advantages for slavery; it is not whether the American Government has been wielded during seventy-two years in favour of the propagation and permanence of slavery; it is not whether a pro-slavery interpretation has been put upon the Constitution by the American Courts —
-The real and exact question [is whether] the United States Constitution guarantees to any class of people the right to enslave, or hold as property, any other class of people in that country…
-The American Government and the American Constitution are spoken of in a manner which would naturally lead the hearer to believe that one is identical with the other; when the truth is, they are distinct in character as is a ship and a compass. The one may point right and the other steer wrong. The Constitution may be right, the Government wrong. If the Government has been governed by mean, sordid, and wicked passions, it does not follow that the Constitution is mean, sordid, and wicked.  If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice.
+Frederick Douglass, “The Constitution of the United States: Is It Pro-Slavery or Anti-slavery?” (1860): "First let me state what is not the question… It is not whether slavery existed in the United States at the time of the adoption of the Constitution; it is not whether slaveholders took part in the framing of the Constitution; it is not whether those slaveholders, in their hearts, intended to secure certain advantages for slavery; it is not whether the American Government has been wielded during seventy-two years in favour of the propagation and permanence of slavery; it is not whether a pro-slavery interpretation has been put upon the Constitution by the American Courts — The real and exact question [is whether] the United States Constitution guarantees to any class of people the right to enslave, or hold as property, any other class of people in that country… The American Government and the American Constitution are spoken of in a manner which would naturally lead the hearer to believe that one is identical with the other; when the truth is, they are distinct in character as is a ship and a compass. The one may point right and the other steer wrong. The Constitution may be right, the Government wrong. If the Government has been governed by mean, sordid, and wicked passions, it does not follow that the Constitution is mean, sordid, and wicked.  If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice.
 
 What are the implications of Douglass’s argument? Why might he have adopted this stance (while other abolitionists condemned the Constitution as pro-slavery)?
 
@@ -482,21 +460,191 @@ States may "waive" their 11A immunity, but the Court has set an extremely high t
 
 The meaning of Federal Maritime Comm’n:  states enjoy immunity from federal administrative proceedings that (a) closely resemble judicial proceedings and (b) are initiated by a private party.  What was the Court’s rationale for extending state sovereign immunity principles to administrative proceedings used by the federal executive to enforce federal law?  What elements of the administrative proceeding here led the majority to conclude that the proceedings were functionally indistinguishable from a judicial proceeding?  (Notice that the administrative law judge could not order any immediate relief against the state, but that did not alter the majority’s conclusion.  Why not?)  Can a federal agency subject states to any administrative processes or proceedings after Federal Maritime?  
 
+---
 
+## Federal Legislative Power
+
+**Basic Principle:** Federal government is one of limited and enumerated powers; an Act of Congress is valid only if (a) it is affirmatively authorized by the Constitution and (b) it is not barred by some prohibition in the Constitution (see e.g., Art. I § 9; the Bill of Rights, etc).   
+
+**Sources of Congressional Power:** Main source is Article I, § 8, though other constitutional provisions (e.g.  Articles III and V and section 5 of the fourteenth amendment) also confer power on Congress.  Review [Article I, § 8](https://ocw.mit.edu/courses/sloan-school-of-management/15-628j-patents-copyrights-and-the-law-of-intellectual-property-spring-2013/readings/MIT15_628JS13_read02.pdf) to know the scope and kinds of congressional power.
+
+---
+
+## Necessary and Proper Clause
+
+**Basic test** (first set out in *McCulloch* and later modified by *Darby* to eliminate judicial inquiry into "pretext" or hidden congressional motive). Congressional action need only bear some rational connection to a goal within Congress's constitutionally delegated authority in order to be upheld under the necessary and proper clause.  
+
+Modern Court professes to follow the McCulloch standard.  Rule: Legislation that rationally advances a goal entrusted by the Constitution to Congress (or to other departments of the national gov’t) is constitutional so long as the legislation does not conflict with an “external limitation” (e.g. the prohibitions of the Bill of Rights or Art. I, § 9 ).
+
+Note that recent Supreme Court decisions have limited congressional discretion in choice of means with respect to the commerce power (e.g., Lopez and Morrison) and with respect to the civil rights power (e.g., City of Boerne).  [Note for your interest (not for the midterm exam) that Comstock (the 2010 case upholding a federal civil commitment statute – text p 216) gives a highly deferential account of the Necessary and Proper Clause, under which the statutes voided by the Rehnquist Court’s federalism decisions (e.g., Lopez, Morrison, Garret, Kimel, cf. NFIB v. Sebelius) would have passed constitutional muster.]
+
+---
+
+## Commerce Power
+
+Source: [Article I, sec. 8, cl. 3](https://www.law.cornell.edu/constitution-conan/article-1/section-8); classic interpretation of the commerce clause appears in Gibbons v. Ogden.
+
+The following principles governed the scope of the commerce power before Lopez and Morrison:
+
+1. The "significant" or "substantial" effects test:  Congress can regulate any activity that substantially affects interstate commerce, even if the regulated activity is not itself either "interstate" or "commerce."  (E.g. NLRB v. Jones & Laughlin; Heart of Atlanta; McClung).
+
+2. The "aggregate" or "cumulative effect" rule:  Congress can regulate activities that, considered one by one, would have no effect on interstate commerce as long as the cumulative effect of that class of activities nationally would have a substantial impact on interstate commerce.  (Wickard, Perez, Heart of Atlanta; McClung).
+
+3. The irrelevance of congressional motivation:  Congress may directly regulate interstate commerce for any reason, even if Congress’s "real" purpose is to achieve some goal that would otherwise be outside its constitutional authority.  E.g., in Darby, Congress prohibited the interstate transport of goods produced by workers receiving below the federal minimum wage; this is a constitutional exercise of the commerce power, even if Congress’s "real" purpose was to regulate wage rates not interstate commerce.  Similarly, in Heart of Atlanta and McClung, the Court ruled that the Civil Rights Act of 1964 was a constitutional exercise of the commerce power, even though Congress’s primary goal was not the regulation of interstate commerce, but the advancement of racial equality and human rights and equal citizenship.
+
+4. Rational basis standard: the courts defer heavily to congressional assertions that a particular activity "substantially affects" interstate commerce or that a particular congressional regulation furthers a federal end (like the regulation of interstate commerce.)   If there is any reasonable basis for such congressional assertions (formal findings are not required) the courts will accept them.  (E.g. Perez). The question on rational basis review is not whether the regulated activity actually has a substantial effect on interstate commerce, but rather whether Congress could have rationally concluded that the regulated activity has such an effect.
+
+*What does Lopez (as interpreted by Morrison) do to this analysis?*
+
+*What are the three categories of permissible commerce clause legislation under Lopez?*  
+
+*How will the Court apply the "substantial effects" test after Lopez and Morrison?*
+	• What's the analysis if the regulated activity is "economic"?   
+	• What's the analysis if the regulated activity is deemed to be "non-economic"?  
+	• Under what circumstances may Congress regulate "non-economic" activity under the commerce clause and what is the standard of review?  See, e.g., Raich (the medical marijuana case.)  
+
+[A summary of the Commerce Power after Lopez and Morrison is attached to this outline as an addendum – please review it.]
+
+---
+
+## Commerce Power After Lopez and Morrison
+
+*U.S. v. Lopez* (1995) - Categories of Permissible Commerce Clause Legislation
+
+Congress may:
+
+1.   Regulate the use of the channels of interstate commerce.
+2.   Regulate and protect the instrumentalities of interstate commerce, or persons or things in interstate commerce, even though the threat may come from intrastate activities.
+3.   Regulate activities that have a substantial relation to interstate commerce or that substantially affect interstate commerce.
+
+For category 3 (the substantial effects test):
+
+**If the regulated activity is “ECONOMIC”:** the Wickard aggregation rule applies; the court asks whether Congress could rationally conclude that the regulated activity, considered in the aggregate nationally, has a substantial effect on interstate commerce.  (The answer is invariably yes.)
+
+**If the regulated activity is “NON-ECONOMIC”:** our working rule is that the court will NOT consider the aggregate impact of “non-economic” activity in determining whether Congress may regulate that activity under the substantial effects test.
+
+Under what circumstances may Congress regulate “non-economic” activity under the commerce clause?
+
+1.  If the legislation fits into Lopez category 1 or 2 (above).
+2.  If the regulation of “non-economic activity” is an essential part of a broader regulation of “economic” activity (e.g., *Gonzalez v. Raich*).
+3.  Through a statute with a jurisdictional element limiting the statute’s application case-by-case to activity having a nexus with interstate commerce. (See the amended Gun Free School Zones Act.)
+
+Raich:  In determining whether a regulation of non-economic activity is “an essential part of a broader regulation of economic activity” the court asks whether Congress could rationally conclude that “failure to regulate that class of [non-economic] activity would undercut” Congress’s broader regulation of economic activity.  (In other words, Congress may consider the cumulative impact of a non-economic activity for purposes of determining whether regulation of that activity is essential to a broader economic regulatory scheme.)  In Raich, Congress could consider not only whether failure to regulate the plaintiff’s medical marijuana plants would undercut regulation of the marijuana market – it could consider whether failure to regulate that activity in the aggregate (i.e., all home-grown medical marijuana) would undermine its broader economic regulation.
+
+*What does the NFIB v. Sebelius (the Affordable Care Act case) do to the doctrine?* (assuming CJ Roberts' opinion regarding the commerce power – though formally dictum – reflects the approach that a majority of the Court endorses.) Note:  the impact (if any) of Sebelius on commerce power doctrine will NOT be tested on the Midterm.
+
+---
+
+## Tenth Amendment
+
+[Will NOT be on the Midterm]
+
+The Tenth Amendment currently does not operate as a limit on Congress' power under Article I to (a) regulate private activities or (b) regulate state activities through federal statutes of general applicability (federal statutes that apply equally to state entities and private entities, such as the minimum wage law in Garcia).  In addition, the Tenth Amendment does not limit Congress’s civil rights powers (e.g. section 5 of the Fourteenth Amendment). Why not?
+
+With regard to federal statutes that are directed solely at states "in their capacity as sovereigns" (or at state or local officials) the Court will inquire into whether the regulation invades a core sphere of state sovereignty.   This is the rule first set forth in New York v. United States.  The Court there held that federal legislation attempting to "commandeer state legislative processes" by requiring a state legislature to enact federal regulatory standards impermissibly violates state sovereignty.  And in Printz, the Court flatly held that Congress may not order State or local executive or law enforcement officials "to administer or enforce a federal regulatory program."   
+
+By contrast, the Court in these cases recognized that Congress may make federal funds contingent upon state adoption and enforcement of federal standards (so long as the federal inducement does not rise to the level of "coercion") and that Congress may still preempt state action (nullify state acts that touch upon area over which Congress has constitutional authority). Printz also confirms that the Tenth Amendment does not prevent Congress from requiring state judges to enforce federal law.  
+
+Issues to consider:  what counts as legislation directed solely at states or at "states in their sovereign capacity"?  (Why did the Court uphold the Drivers' Privacy Protection Act in Reno v. Condon?)  What counts as "coercion" under the N.Y. v. U.S. analysis? Under Sebelius (the Obamacare case)? Suppose a state legislature had to enact statutory amendments in order to comply with the federal Fair Labor Standards Act.  Does that pose a tenth amendment problem?  Why (not)?
+
+The meaning of Murphy v. NCAA: In essence the Court held that Congress may not (at least though exercise of an Article I power) “issue direct orders to state legislatures” – even if the congressional “order” purports to bar a state legislature from acting as opposed to requiring a state legislature to act (as in New York v U.S.)  [Although the 10th amendment bars Congress from ordering a state legislature not to enact certain laws, Congress may preempt (render null) any laws the state adopts so long as Congress is acting within its delegated powers.]
+
+For example, in Murphy itself, nothing would prevent Congress from outlawing sports betting directly, in which case any law that New Jersey enacted authorizing such betting would be preempted and void under the Supremacy Clause.  What bothered the Murphy Court was that Congress issued an order to state legislatures prohibiting them from adopting such laws.
+
+---
+
+## Civil Rights Enforcement Power
+
+[Will NOT be tested on the midterm, **but you are expected to know that Congress may abrogate state sovereign immunity through a valid exercise of the civil rights power**.]
+
+Sources: Sec. 2 of the Thirteenth Amendment; Sec. 5 of the Fourteenth Amendment; Sec. 2 of the Fifteenth Amendment
+
+Scope of Power
+
+Q: Can Congress, under its power to enforce the 14th amendment, outlaw state activity that the Supreme Court has held not to violate the 14th amendment?  What is the test laid down in Morgan?  In Boerne?
+
+The Supreme Court has held that section 5 grants Congress a broad power -- akin to its “necessary and proper” power -- to select the means to carry out the goals of the 14th amendment.  A statute is “appropriate legislation” under section 5 of the 14th amendment if it is “plainly adapted” to securing due process or equal protection and is “not prohibited by, but is consistent with the letter and spirit of the Constitution.”  
+
+Boerne held that Congress’s section 5 power is solely remedial. Congress may not alter the substance of fourteenth amendment rights. [Boerne rejected the “substantive theory” of section 5 that some had discerned in Morgan.]
+
+Congress may legislate to "remedy, prevent or deter" violations of 14th amendment rights, and it may choose to prohibit conduct that is not itself unconstitutional as the means of remedying, preventing or deterring constitutional violations.  However, after Boerne, there must be a “congruence and proportionality” between the 14th amendment injury Congress seeks to deter or remedy and the means Congress adopts to achieve that end.   (Understand why the Court concluded that the Religious Freedom Restoration Act failed this "congruence and proportionality" test.)
+
+Q: How does Kimel refine the test for determining whether Congress has acted within its section 5 power?
+
+Q: What was the Court’s theory for upholding the Family and Medical Leave Act in Hibbs? Does that case suggest that the test and/or judicial methodology in section 5 cases is different when Congress seeks to protect a “suspect” or “quasi-suspect” class?  How?  Is Hibbs consistent with Morrison?  Does Coleman (holding that Congress did not have authority under section 5 to enact the "self-care" provision of the FMLA) alter the rule in Hibbs?  The approach to section 5 analysis?  
+
+Q: What was the Court’s theory for upholding Title II of the ADA as applied to the actions challenged in Lane? What is the significance of the fact that the Court allowed the government to defend the statute “as applied?”  See also U.S. v. Georgia on this point.
+
+Q: What rule emerges from Shelby County (invalidating section 5 of the Voting Rights Act)?  Though the Court confines its analysis to Congress's power under the Fifteenth Amendment, does this case have any significance for the scope of congressional power under the Fourteenth Amendment?
+
+Clarify the differences between civil rights statutes based on the Thirteenth Amendment or other constitutional provisions (such as the right to travel) which do not have a state action component, with civil rights statutes based on the Fourteenth Amendment.
+
+Note: federal civil rights legislation enacted in the 1960s, which provide remedies against purely private conduct in a variety of areas such as public accommodations (Heart of Atlanta and McClung), employment, and housing, for example, have been sustained as exercises of Congress' Commerce Power, not its Civil Rights Enforcement Power.  [See the concurring opinions in Heart of Atlanta and McClung for the view that these statutes should have been upheld on the basis of the Civil Rights Powers and that the Civil Rights Cases  (l883), which limited the Fourteenth Amendment to actions of the state (the state action doctrine), should have been overruled.]  Note also that in striking down the Violence Against Women Act (in Morrison) the Supreme Court relied upon and reaffirmed the Civil Rights Cases.
+
+## Taxing Power  
+
+[will NOT be tested on the midterm]
+
+Source: Article I, sec. 8, cl. 1.
+
+Scope of the taxing power.
+
+Note purposes of the taxing power: sec. 8, cl 1: pay the debt, provide for the common defense and the "general welfare" of the U.S.  A tax must have as a purpose the achievement of one of these goals.
+
+"general welfare" in this context is not limited to Congress’s enumerated powers;  Congress may tax in order to advance any general public good, and the courts give Congress near unreviewable discretion to decide what the public good or “general welfare” comprehends.
+
+Distinction between revenue-raising and regulation:
+
+Regulation by means of a tax is always permissible (absent some “external” prohibition, like the Bill of Rights) if:
+
+1. the regulation is merely "incidental" to the tax; or
+2. Congress has constitutional authority to regulate an activity, independent of its taxing power;  it can then employ tax measures as a "necessary and proper" means to achieve the regulation. (e.g. Congress’s power over currency gave it independent authority to regulate state-issued banknotes: a prohibitively high tax on such notes -- even if considered "regulatory" and not "revenue-raising" -- would be sustained as necessary and proper to the implementation of the independent federal power to regulate currency).
+
+## Spending Power
+
+[Spending power will not be tested on midterm **except to the extent that we discussed it in the context of state sovereign immunity:** you should know that Congress may use the spending power to induce States to ‘waive’ state sovereign immunity, for instance by making such a waiver a condition of state receipt of certain federal funds. (Congress must set forth the condition clearly in order for the Court to conclude that a state’s acceptance of federal funds works a waiver of immunity.)]  
+
+Source: Article I, sec. 8, cl. 1.  Congress may tax and spend to pay the national debt, to provide for the common defense, and to advance the “general welfare” of the United States.
+
+Scope:
+
+"General welfare" of the U.S. is broader than the enumerated powers of Congress. (Butler).  Congress has wide, and perhaps unreviewable, authority to define the "general welfare" for which it may make appropriations. (Dole)
+
+Congress may accomplish regulatory goals by imposing conditions on spending which require promises or contracts between the federal government and the recipient, whether the recipient is a private individual or a state. (Steward Machine).  The 10th amendment does not prevent Congress from using its spending power to influence or regulate areas of traditional state concern.
+
+Congress may condition a state’s receipt of federal funds on the state’s agreement to abide by certain federal directives (including adopting federal policies, administering federal laws or programs and waiving state sovereign immunity); but the Court has announced that under some extreme circumstances, attaching conditions to federal funds may amount to coercion and therefore exceed the scope of the spending power. (South Dakota v. Dole).
+
+Spending will be constitutional if (Dole):
+
+1. the spending is designed to advance the general welfare of the U.S. (note: the Court gives Congress very great deference to determine what constitutes "the general welfare.");
+2. the conditions attached to the receipt of federal funds are unambiguous, at least where the condition is imposed on federal grants to states;
+3. the conditions are in some way "related" to the federal interest in the particular national projects or programs funded (e.g. if Congress conditioned a state's receipt of federal highway funds on the state's adoption of a federally specified kindergarten curriculum for public schools, that would raise an issue of relatedness);
+4. the conditions do not require the recipient of the federal funds (at least if the recipient is a state) to violate some other constitutional provision, e.g. the bill of rights.
+
+Q. NFIB v. Sebelius elaborated on (some would say altered) conditional spending doctrine, holding that Affordable Care Act impermissibly coerced states into expanding their federally-funded Medicaid programs. What is the Court's definition of "coercion"?  Does this coercion analysis ever apply if Congress simply offers states money to operate a program on condition that the state follow federal directives for how the program is to be operated?  Why did the Court try to distinguish “existing Medicaid” from “ACA Medicaid”?
+
+**"Unconstitutional Conditions" doctrine** [this will not be tested on the midterm or the final, but you should be aware of it]: Under some circumstances, the Court has held that Congress may not condition an important benefit on the waiver of a constitutional right, or "penalize" the exercise of a constitutional right by withholding a benefit; this is known as the "unconstitutional conditions" doctrine.  The Court has scaled back this doctrine in recent years.  Recall cases discussed in class: James (welfare/4th amendment); Rust (medical assistance/1st amendment); Lyng v. UAW (food stamps/1st amendment).
+
+---
+
+## External Constraints on Congressional Powers
+
+Note that implicit and explicit prohibitions in the original constitution’s text (e.g., Article I, section 9) and the Bill of Rights, including the subsequent Amendments, operate as a constraint on the exercise of all the powers of Congress.  How does the 10th amendment figure in this structure (is it an external constraint?)  What about the 11th amendment?
+
+---
 
 **Steps of analysis**
 
-- {:.indent-0}Is the statement hearsay?
-- {:.indent-2}If yes, does it meet or fall within a hearsay exemption or exception?
-- {:.indent-4}If no, stop analysis (statement does not come in).
-- {:.indent-4}If yes, is the statement testimonial?
-- {:.indent-6}If no, admit.
-- {:.indent-6}If yes, is declarant available and subject to cross?
-- {:.indent-8}If yes, admit.
-- {:.indent-8}If no, was there prior opportunity to cross examine?
-- {:.indent-9}If yes, admit.
-- {:.indent-9}If no, exclude.
-
+- {:.indent-0}issue
+- {:.indent-2}If yes, step
+- {:.indent-4}If no, step
+- {:.indent-4}If yes, step
+- {:.indent-6}If no, step
+- {:.indent-6}If yes, step
+- {:.indent-8}If yes, step
+- {:.indent-8}If no, question
+- {:.indent-9}If yes, step
+- {:.indent-9}If no, step
 
 ---
 
