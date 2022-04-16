@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setupš
-title:               'Constitutional Structures'
+title:               'Evidence'
 tagline:             'class notes fall 2021'
 description:         'This is an experimental way of organizing class notes.'
 url:                 'https://github.com/binipringle'
-baseurl:             '/constructs'
+baseurl:             '/evidence'
 
 # About/contact
 author:
