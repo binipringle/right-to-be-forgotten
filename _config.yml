@@ -1,16 +1,16 @@
 # Built with Jekyll 3.6.0
 
 # Setupš
-title:               'Right to Be Forgotten'
-tagline:             'A look at protection in Europe, California, and proposed New York law'
-description:         'Research paper for Technology and Law at CUNY School of Law, Spring 2023.'
+title:               'Seeking the Right to Be Forgotten in New York'
+tagline:             'Final paper for Technology and Law at CUNY School of Law<, Spring 2023.'
+description:         'A look at protection of the right to be forgotten in Europe, California, and proposed New York law.'
 url:                 'https://github.com/binipringle'
 baseurl:             '/right-to-be-forgotten'
 
 # About/contact
 author:
   name:              Sabina Pringle
-  url:               https://twitter.com/2464Pringle
+  url:               https://www.instagram.com/2464prngl/
   email:             sabina.pringle@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
