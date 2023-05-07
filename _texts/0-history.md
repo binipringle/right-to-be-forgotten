@@ -1,12 +1,14 @@
 ---
 layout: narrative
-title: History
+title: Origins
 author:
 editor: Sabina Pringle
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
 ---
 
-<div style="text-align:center">Individuals should have the right to "determine the development of their life in an autonomous way, without being perpetually or periodically stigmatized as a consequence of a specific action performed in the past." - Alessandro Mantelero, Professor of Law </div>
+> Individuals should have the right to "determine the development of their life in an autonomous way, without being perpetually or periodically stigmatized as a consequence of a specific action performed in the past." - Alessandro Mantelero, Professor of Law
+
+---
 
 In Europe, the intellectual roots of the right to be forgotten can be found in French law, which recognizes *le droit à l’oubli* — the right to be forgotten - a right that allows a person formerly convicted of a criminal offense who has served their time to object to the publication of the facts of their conviction and incarceration. This was enacted in French Law in 2010. Roots of the law can also be found in United Kingdom's Rehabilitation of Offenders Act of 1974 (based on the idea that after a certain period of time many criminal convictions are "spent", meaning that information about the conviction should not be considered when obtaining insurance or seeking employment). Thus, the right to be forgotten is premised on the potential for rehabilitation - the idea that privacy allows us to fully evolve as individuals because it prevents others from digging up the digital memory of our past transgressions.
 
