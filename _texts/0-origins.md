@@ -8,9 +8,7 @@ source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY.
 
 > Individuals should have the right to "determine the development of their life in an autonomous way, without being perpetually or periodically stigmatized as a consequence of a specific action performed in the past." - Alessandro Mantelero, Professor of Law[^fn1]
 
-...
-
-[^fn1]: Source where I got quote from
+[^fn1]: Mantelero, Alessandro (2013). "The EU Proposal for a General Data Protection Regulation and the roots of the 'right to be forgotten'". Computer Law & Security Review. 29 (3): 229–235. doi:10.1016/j.clsr.2013.03.010.
 
 ---
 
@@ -27,3 +25,5 @@ California created privacy law modeled in part on GDPR. California Consumer Priv
 In 2017-2018, New York proposed a bill that would create an act that would protect the right to be forgotten.
 
 ---
+
+## Footnotes

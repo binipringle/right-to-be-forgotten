@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Steps of Analysis
+title: Proposed New York Law
 author:
 editor: Sabina Pringle
 rights:

@@ -12,6 +12,6 @@ Any motion, whether made before or during trial, to exclude anticipated prejudic
 
 ---
 
-Definitions may be added to the glossary. 
+Definitions may be added to the glossary.
 
 ---
