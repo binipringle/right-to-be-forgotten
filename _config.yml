@@ -1,20 +1,20 @@
 # Built with Jekyll 3.6.0
 
 # Setupš
-title:               'Evidence'
-tagline:             'class notes fall 2021'
-description:         'This is an experimental way of organizing class notes.'
+title:               'Seeking the Right to Be Forgotten in New York'
+tagline:             'A look at protection in European law, California law and proposed New York law"
+description:         'This is a final paper for Technology and Law at CUNY School of Law, Spring 2023.'
 url:                 'https://github.com/binipringle'
-baseurl:             '/evidence'
+baseurl:             '/right-to-be-forgotten'
 
 # About/contact
 author:
   name:              Sabina Pringle
-  url:               https://twitter.com/2464Pringle
+  url:               https://www.instagram.com/2464prngl/
   email:             sabina.pringle@gmail.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: magenta
+color-scheme: blue
 
 # Permalinks
 permalink: pretty
