@@ -1,6 +1,6 @@
 ---
-layout: Resources
-title: Outline Second Iteration
+layout: Narrative
+title: Resources
 author:
 editor: Sabina Pringle
 source:
