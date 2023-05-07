@@ -1,5 +1,5 @@
 # Evidence
 
-This repo is a static site where I organize my fall 2021 class notes for 2L PT Evidence at CUNY School of Law. The site is published at <a href="https://binipringle.github.io/evidence/">binipringle.github.io/evidence/</a>.
+This repository codes a static site which houses my final paper for Technology and the Law at CUNY School of Law. The site is published at <a href="https://binipringle.github.io/right-to-be-forgotten/">binipringle.github.io/right-to-be-forgotten/</a>.
 
 ---
