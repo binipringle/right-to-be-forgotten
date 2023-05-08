@@ -3,7 +3,7 @@ layout: narrative
 title: Origins
 author:
 editor: Sabina Pringle
-source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020
+source: Sabina Pringle, final paper for Technology and Law, CUNY School of Law, May 2023
 ---
 
 > Individuals should have the right to "determine the development of their life in an autonomous way, without being perpetually or periodically stigmatized as a consequence of a specific action performed in the past." - Alessandro Mantelero, Professor of Law[^fn1]
