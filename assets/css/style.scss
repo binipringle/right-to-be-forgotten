@@ -13,6 +13,9 @@ sitemap: false
 $main-font: "Open Sans", sans-serif;
 $heading-font: sans-serif;
 $regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
+.masthead-title {
+  margin: 20px;
+}
 
 
 /*
