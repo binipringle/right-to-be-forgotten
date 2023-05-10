@@ -6,13 +6,11 @@ editor: Sabina Pringle
 source: Sabina Pringle, final paper for Technology and Law, CUNY School of Law, May 2023
 ---
 
-> Individuals should have the right to "determine the development of their life in an autonomous way, without being perpetually or periodically stigmatized as a consequence of a specific action performed in the past." - Alessandro Mantelero, Professor of Law[^fn1]
+> Individuals should have the right to "determine the development of their life in an autonomous way, without being perpetually or periodically stigmatized as a consequence of a specific action performed in the past." - Alessandro Mantelero, Professor of Law[1^]
 
-[^fn1]: Mantelero, Alessandro (2013). "The EU Proposal for a General Data Protection Regulation and the roots of the 'right to be forgotten'". Computer Law & Security Review. 29 (3): 229–235. doi:10.1016/j.clsr.2013.03.010.
+[^1]: Mantelero, Alessandro, The EU Proposal for a General Data Protection Regulation and the Roots of the ‘Right to Be Forgotten’ (June 28, 2013). Computer Law & Security Review, Volume 29, Issue 3, June 2013, Pages 229–235, Available at SSRN: https://ssrn.com/abstract=2473151
 
 ---
-
-In Europe, the intellectual roots of the right to be forgotten can be found in  
 
 The right to be forgotten is the right to have private information about a person be removed from Internet searches and other directories under some circumstances.[2^] In Europe, recognition of this right is rooted in the belief that everyone has the potential for rehabilitation, and that to facilitate the realization of change, formerly convicted individuals should be able to erase information about past convictions from search engines where this information potentially stigmatizes them and interferes with them rebuilding their lives. The right to erase records of past action can be traced back to the United Kingdom's [Rehabilitation of Offenders Act of 1974](https://www.legislation.gov.uk/ukpga/1974/53), based on the idea that after a certain period of time many criminal convictions are "spent".[3^] French law similarly recognized the right to be forgotten by enacting *le droit à l’oubli*[4^] — the right to be forgotten - in 2010. The *droit à l’oubli* gives a person formerly convicted of a criminal offense who has served their time the right to object to publication of the facts of their conviction and incarceration. Thus, the right to be forgotten is premised on the potential for rehabilitation and the idea that formerly convicted individuals should be given the opportunity to fully evolve as individuals without others digging up the digital memory of past transgressions.
 
