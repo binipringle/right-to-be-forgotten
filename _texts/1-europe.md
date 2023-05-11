@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: European Law
+title: Europe
 author:
 editor: Sabina Pringle
 source:
