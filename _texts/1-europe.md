@@ -14,6 +14,18 @@ toc:
 
 ---
 
+## Viability and implementation of the law
+
+Writing in 2011 shortly before the European Union's General Data Protection Regulation (GDPR) enshrined the right to privacy into European law, University of Zurich International Business Law Professor Rolf Weber compared the proposed right to be forgotten to a Pandora's Box.
+
+[^7]:Weber, Rolf H. "The right to be forgotten: More than a Pandora's Box?" JIPITECH 120, 2011. [https://www.jipitec.eu/issues/jipitec-2-2-2011/3084/jipitec%202%20-%20a%20-%20weber.pdf](https://www.jipitec.eu/issues/jipitec-2-2-2011/3084/jipitec%202%20-%20a%20-%20weber.pdf)
+
+Google Spain v AEPD and Mario Costeja González (2014)
+
+General Data Protection Regulation (GDPR) went into effect on May 25th, 2018.
+
+---
+
 ## Google Spain v AEPD and Mario Costeja González (2014)
 
 Google Spain SL, Google Inc. v Agencia Española de Protección de Datos, Mario Costeja González (2014) is a decision by the Court of Justice of the European Union (CJEU). It held that an Internet search engine operator is responsible for the processing that it carries out of personal information which appears on web pages published by third parties. The outcome of the ruling is that an Internet search engine must consider requests from individuals to remove links to freely accessible web pages resulting from a search on their name. Grounds for removal include cases where the search result(s) "appear to be inadequate, irrelevant or no longer relevant or excessive in the light of the time that had elapsed."[5]: 92  If the search engine rejects the request, the individual may ask relevant authorities to consider the case. Under certain conditions, the search engine may be ordered to remove the links from search results.
