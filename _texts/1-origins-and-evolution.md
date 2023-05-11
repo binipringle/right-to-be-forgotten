@@ -16,8 +16,6 @@ The right to be forgotten allows individuals to have embarrassing content taken 
 
 Compelling arguments have been made for recognizing the right to be forgotten as a fundamental right that should protect individuals in a variety of circumstances. The right can be broad enough to protect all individuals with a legitimate claim. However, because formerly incarcerated individuals are too frequently forgotten, we must keep their interests at the forefront, and not allow newer arguments centered on revenge porn and damage to reputation obfuscate the original purpose of the right's underlying concept, to give individuals who were convicted of criminal offenses the right to have information about their convictions deleted from the internet.
 
-[^2]:This nice concise definition is by Wikipedia contributors. "Right to be forgotten." *Wikipedia, The Free Encyclopedia.* Wikipedia, The Free Encyclopedia, 2 May. 2023. Web. 10 May. 2023. [https://en.wikipedia.org/w/index.php?title=Right_to_be_forgotten&oldid=1152839391](https://en.wikipedia.org/w/index.php?title=Right_to_be_forgotten&oldid=1152839391)
-
 [^3]:A small number of sentences are excluded from the Rehabilitation of Offenders Act. These include imprisonment for life, imprisonment at Her Majesty's pleasure, and imprisonment for public protection under various sections of the Criminal Justice Act.
 
 [^4]:"Droit à l'oubli." *Wikipédia, l'encyclopédie libre.* 10 mars 2023, 10:08 UTC. 10 mars 2023, 10:08 [https://fr.wikipedia.org/w/index.php?title=Droit_%C3%A0l%27oubli&oldid=202156752](http://fr.wikipedia.org/w/index.php?title=Droit_%C3%A0_l%27oubli&oldid=202156752]).  
