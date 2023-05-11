@@ -14,17 +14,11 @@ toc:
 
 ---
 
-## Origins
-
 In Europe, the right to be forgotten is rooted in the belief that every person has the potential for rehabilitation, and the understanding that to become fully rehabilitated, individuals who were convicted of criminal offenses need to be able to remove information about past convictions from search engines.
 
 The right to erase records of past action can be traced back to the United Kingdom's Rehabilitation of Offenders Act of 1974, which is based on the idea that after a certain period of time many criminal convictions are "spent" and should be erased from search engines to avoid influencing potential employers, insurance companies, and landlords.[^3] French law similarly recognized the right to be forgotten by enacting the *droit à l’oubli* — the right to be forgotten - in 2010.[^4] The *droit à l’oubli* gives a person formerly convicted of a criminal offense who has served their time the right to object to publication of the facts of their conviction and incarceration. Thus, the right to be forgotten is premised on the potential for rehabilitation and the idea that formerly convicted individuals should be allowed to fully evolve without others digging up the digital memory of past transgressions.
 
----
-
-## Evolution
-
-The concept of the right to be forgotten or right to erasure is a "digital-native" right, engendered by the internet, in response to internet-specific harms. In recent years, proponents of the right to be forgotten have centered their arguments in the need to protect individuals harmed by revenge porn sharing.[^5] A person's right to have photographs or videos of themselves like these is much-needed and its urgency only increases with the proliferation of artificial intelligence algorithms that increase access to information they scrape from the web.
+The right to be forgotten or right to erasure is a "digital-native" right, engendered by the internet, in response to internet-specific harms. In recent years, proponents of the right to be forgotten have centered their arguments in the need to protect individuals harmed by revenge porn sharing.[^5] A person's right to have photographs or videos of themselves like these is much-needed and its urgency only increases with the proliferation of artificial intelligence algorithms that increase access to information they scrape from the web.
 
 The right to be forgotten allows individuals to have embarrassing content taken down from the web in certain circumstances. For example, individuals whose reputations were damaged or could be damaged by photographs and videos uploaded by themselves in moments of not good judgment should sometimes be able to erase information that no longer defines them but could be construed as defining who they are. Generally, this right does not and should not extend to public figures. The right to be forgotten does not, for example, allow removal of twenty-year-old photographs and videos of Canadian Prime Minister Justin Trudeau in blackface, which had been posted to the web and resurfaced in 2021. Because Trudeau is a public figure and a head of state, these photographs and videos should not be removed. We have a right to see photographs like this, and need to see them lest politicians mislead us by replacing existing records with "alternative facts."[^6] We vote for representatives and other elected officials based on their records of past actions made available to us by reporters and journalists who are protected by the right to freedom of the press.
 
@@ -42,15 +36,11 @@ Compelling arguments have been made for recognizing the right to be forgotten as
 
 ---
 
-## Surveillance
-
-why it's important to be forgotten for surveillance
-
----
-
 ## Distinction between the right to be forgotten and the right to privacy
 
 There is a lot of overlap between the right to be forgotten and the right to privacy because they both involve personal information published or publishable on the internet. At their core, however, these rights are distinct. The right to privacy concerns information that is not (or should not be) publicly known, while the right to be forgotten involves information that was publicly known. Thus, the right to be forgotten is not about privacy; instead, it is about the ownership of public information pertaining to oneself, and the right to have that information deleted or erased if such erasure does not conflict with the data controllers rights under law.
+
+The right to be forgotten important in a privacy context if we think about surveillance. The right to be free from persecution or discrimination based on past actions is infringed when information about past convictions that should have been deleted but are not deleted are swept up into databases used by law enforcement and other government agencies.
 
 ---
 
