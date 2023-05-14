@@ -54,6 +54,8 @@ On September 24, 2019, the Court of Justice of the European Union (â€œthe Courtâ
 
 Source: Jolt, Harvard Law publication
 
+Footnote: since the UK left the EU it has its own "UK GDPR" which protects the right to be forgotten, which the UK calls the "right to erasure." https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-erasure/
+
 ---
 
 ## Footnotes
