@@ -5,9 +5,11 @@ author:
 editor: Sabina Pringle
 source:
 toc:
-- European constitution
-- Google v Spain
-- GDPR
+- European convention on Human Rights
+- European Union Data Protection Directive
+- Google Spain v AEPD and Mario Costeja González (2014)
+- General Data Protection Regulation (GDPR) Article 17 Right to erasure (‘right to be forgotten’)
+- Google LLC v. CNIL (2019)
 - Other stuff
 - More other stuff
 - And more
@@ -24,20 +26,20 @@ In “The Two Western Cultures of Privacy: Dignity Versus Liberty” (Yale Law J
 
 [^4]:*Id.*
 
-## European convention on Human Rights
+## **European convention on Human Rights**
 
 The European Convention on Human Rights (ECHR) was signed in 1950, not long after the end of World War II, and enacted in 1953. Article 8 of the ECHR provides a right to respect for one's "private and family life, his home and his correspondence", subject to certain restrictions that are "in accordance with law" and "necessary in a democratic society".[^5]
 
 [^5]:Council of Europe. "European Convention on Human Rights - Article 8: Right to respect for private and family life." Council of Europe, [www.coe.int/en/web/human-rights-convention/private-life](https://www.coe.int/en/web/human-rights-convention/private-life). Accessed 14 May 2023.
 
-## European data protective
+## **European Union Data Protection Directive**
 
-In 1995, the European Union enacted the Data Protection Directive, officially Directive 95/46/EC ("Directive"), which regulated the processing of personal data within the European Union (EU) and the free movement of such data.[^6] The Directive broadly defined personal data as "any information relating to an identified or identifiable natural person." In addition to a person's address, credit card number, bank statements, and other personal information, in the EU "personal data" includes a person's criminal record. The Directive defined "processing" as "any operation or set of operations [...] performed upon personal data." The Directive's premise was that personal data should not be processed at all unless it was processed for a legitimate purpose. The responsibility for compliance rested on the data controller. The Directive, however, was written before the expansion of the internet, and by the turn of the 21st century it had become clear that new legislation was needed. Before this legislation had been fully drafted, a ruling in a lawsuit brought before the Spanish Supreme Court created case law that established the right to have a data controller erase personal information under certain circumstances, and influenced how the right to be forgotten was codified in the new European law.
+In 1995, the European Union (EU) enacted the Data Protection Directive, officially Directive 95/46/EC ("Directive"), which regulated the processing of personal data within the European Union (EU) and the free movement of such data.[^6] The Directive broadly defined personal data as "any information relating to an identified or identifiable natural person." In addition to a person's address, credit card number, bank statements, and other personal information, in the EU "personal data" includes a person's criminal record. The Directive defined "processing" as "any operation or set of operations [...] performed upon personal data." The Directive's premise was that personal data should not be processed at all unless it was processed for a legitimate purpose. The responsibility for compliance rested on the data controller. The Directive, however, was written before the expansion of the internet, and by the turn of the 21st century it had become clear that new legislation was needed. Before this legislation had been fully drafted, a ruling in a lawsuit brought before the Spanish Supreme Court created case law that established the right to have a data controller erase personal information under certain circumstances, and influenced how the right to be forgotten was codified in the new European law.
 
 [^6]:Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data. No longer in force, Date of end of validity: 24/05/2018; Repealed by 32016R0679. Latest consolidated version: 20/11/2003. [eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31995L0046](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31995L0046). Accessed 14 May 2023.
 
 ---
-## Google Spain v AEPD and Mario Costeja González (2014)
+## **Google Spain v AEPD and Mario Costeja González (2014)**
 
 Google Spain SL, Google Inc. v Agencia Española de Protección de Datos, Mario Costeja González (2014) is a decision by the Court of Justice of the European Union (CJEU). It held that an Internet search engine operator is responsible for the processing that it carries out of personal information which appears on web pages published by third parties. The outcome of the ruling is that an Internet search engine must consider requests from individuals to remove links to freely accessible web pages resulting from a search on their name. Grounds for removal include cases where the search result(s) "appear to be inadequate, irrelevant or no longer relevant or excessive in the light of the time that had elapsed."[5]: 92  If the search engine rejects the request, the individual may ask relevant authorities to consider the case. Under certain conditions, the search engine may be ordered to remove the links from search results.
 
@@ -50,10 +52,6 @@ GDPR
 The General Data Protection Regulation, adopted in April 2016, superseded the Data Protection Directive and became enforceable on 25 May 2018.[2]
 
 GDPR
-
-
-
-
 
 
 ## Viability and implementation of the law
@@ -72,7 +70,7 @@ General Data Protection Regulation (GDPR) went into effect on May 25th, 2018.
 
 ---
 
-## General Data Protection Regulation (GDPR) Article 17 Right to erasure (‘right to be forgotten’)
+## **General Data Protection Regulation (GDPR) Article 17 Right to erasure (‘right to be forgotten’)**
 
 The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies: a. the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; b. the data subject withdraws consent on which the processing is based according to point (a) of Article 6(1), or point (a) of Article 9(2), and where there is no other legal ground for the processing; c. the data subject objects to the processing pursuant to Article 21(1) and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2); d. the personal data have been unlawfully processed; e. the personal data have to be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject; f. the personal data have been collected in relation to the offer of information society services referred to in Article 8(1).
 
@@ -86,9 +84,9 @@ Originally from GDPR Article 17
 
 ---
 
-## Google LLC v. CNIL, 2019 EUR-Lex CELEX No. 62017CJ0507 (Sept. 24, 2019)
+## **Google LLC v. CNIL (2019)**
 
-On September 24, 2019, the Court of Justice of the European Union (“the Court”) held that the “right to be forgotten” does not require a search engine to de-list search results on all of its domains. However, a search engine operator is still required to de-list search results on domains for all of the European Union (“EU”) Member States. The ruling left the referring court, the Conseil d’État (“the Conseil”), to apply the Court’s holding to Google’s practices in France.
+On September 24, 2019, the Court of Justice of the European Union (“the Court”) held that the “right to be forgotten” does not require a search engine to de-list search results on all of its domains. However, a search engine operator is still required to de-list search results on domains for all of the European Union (“EU”) Member States. The ruling left the referring court, the Conseil d’État (“the Conseil”), to apply the Court’s holding to Google’s practices in France. Google LLC v. CNIL, 2019 EUR-Lex CELEX No. 62017CJ0507 (2019)
 
 Source: Jolt, Harvard Law publication
 
