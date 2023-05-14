@@ -16,9 +16,11 @@ toc:
 
 ---
 
-In “The Two Western Cultures of Privacy: Dignity Versus Liberty” (Yale Law Journal, 2004), law professor and scholar James Whitman wrote that privacy regulation in Continental Europe is derived from 17th and 18th century laws of honor and insult, originally settled by dueling.[^1] Whitman characterizes European privacy law as an aspect of dignity, whose two fundamental values are honor and respect.[^2] Center for Democracy and Technology Fellow Omer Tene noted that European privacy law was further shaped by lessons drawn from the horrors of World War II and the Communist era, when totalitarian regimes terrorized their citizens by decimating their right to privacy. Despite Europe's history of government intrusion, notes Tene, Europeans trust government more than the private sector with their personal data, and rely on regulatory protection for their privacy rights.[^4]
+In “The Two Western Cultures of Privacy: Dignity Versus Liberty” (Yale Law Journal, 2004), law professor and scholar
 
-[^1]:Whitman, James Q. "The Two Western Cultures of Privacy: Dignity Versus Liberty." Yale Law Journal, vol. 113, no. 6, April 2004, [privacy.comparativelaw.yale.edu/article/two-western-cultures-privacy-dignity-versus-liberty](https://www.yalelawjournal.org/article/the-two-western-cultures-of-privacy-dignity-versus-liberty). Accessed 14 May 2023.
+According to Yale University Law Professor James Q Whitman, privacy regulation in Continental Europe is derived from 17th and 18th century laws of honor and insult, originally settled by dueling.[^1] In “The Two Western Cultures of Privacy: Dignity Versus Liberty” (Yale Law Journal, 2004), Whitman characterizes European privacy law as an aspect of dignity, whose two fundamental values are honor and respect.[^2] European privacy law is also shaped by lessons drawn from the horrors of World War II and the Communist era, when totalitarian regimes decimated citizens' right to privacy, notes Center for Democracy and Technology Fellow Omer Tene.[^3] Despite Europe's history of government intrusion, Europeans trust government more than the private sector with their personal data, and rely on regulatory protection for their privacy rights.[^4]
+
+[^1]:Whitman, James Q. "The Two Western Cultures of Privacy: Dignity Versus Liberty." Yale Law Journal, vol. 113, no. 6, April 2004, [privacy.comparativelaw.yale.edu/article/two-western-cultures-privacy-dignity-versus-liberty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=476041). Accessed 14 May 2023. Yale law school research paper available at SSRN: [https://ssrn.com/abstract=476041](https://ssrn.com/abstract=476041) or [http://dx.doi.org/10.2139/ssrn.476041](http://dx.doi.org/10.2139/ssrn.476041).
 
 [^2]:*Id.*
 
@@ -26,11 +28,15 @@ In “The Two Western Cultures of Privacy: Dignity Versus Liberty” (Yale Law J
 
 [^4]:*Id.*
 
+---
+
 ## **European convention on Human Rights**
 
 The European Convention on Human Rights (ECHR) was signed in 1950, not long after the end of World War II, and enacted in 1953. Article 8 of the ECHR provides a right to respect for one's "private and family life, his home and his correspondence", subject to certain restrictions that are "in accordance with law" and "necessary in a democratic society".[^5]
 
 [^5]:Council of Europe. "European Convention on Human Rights - Article 8: Right to respect for private and family life." Council of Europe, [www.coe.int/en/web/human-rights-convention/private-life](https://www.coe.int/en/web/human-rights-convention/private-life). Accessed 14 May 2023.
+
+---
 
 ## **European Union Data Protection Directive**
 
