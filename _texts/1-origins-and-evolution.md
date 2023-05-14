@@ -5,13 +5,12 @@ author:
 editor: Sabina Pringle
 source: Sabina Pringle, final paper for Technology and Law, CUNY School of Law, May 2023
 toc:
+- Origins and Evolution of the Right
 - Distinction between the right to be forgotten and the right to privacy
 - Collision with other human rights
 - Standards
 - Scope
 
----
-> *Use the table of contents in the left sidebar to browse page sections, or simply scroll down to read*
 ---
 
 In Europe, the right to be forgotten is rooted in the belief that every person has the potential for rehabilitation, and the understanding that to become fully rehabilitated, individuals who were convicted of criminal offenses need to be able to remove information about past convictions from search engines.
