@@ -5,8 +5,6 @@ author:
 editor: Sabina Pringle
 source: Sabina Pringle, final paper for Technology and Law, CUNY School of Law, May 2023
 toc:
-- Origins
-- Evolution
 - Distinction between the right to be forgotten and the right to privacy
 - Collision with other human rights
 - Standards
@@ -25,12 +23,6 @@ The right to be forgotten or right to erasure is a "digital-native" right, engen
 The right to be forgotten allows individuals to have embarrassing content taken down from the web in certain circumstances. For example, individuals whose reputations were damaged or could be damaged by photographs and videos uploaded by themselves in moments of not good judgment should sometimes be able to erase information that no longer defines them but could be construed as defining who they are. Generally, this right does not and should not extend to public figures. The right to be forgotten does not, for example, allow removal of twenty-year-old photographs and videos of Canadian Prime Minister Justin Trudeau in blackface, which had been posted to the web and resurfaced in 2021. Because Trudeau is a public figure and a head of state, these photographs and videos should not be removed. We have a right to see photographs like this, and need to see them lest politicians mislead us by replacing existing records with "alternative facts."[^6] We vote for representatives and other elected officials based on their records of past actions made available to us by reporters and journalists who are protected by the right to freedom of the press.
 
 Compelling arguments have been made for recognizing the right to be forgotten as a fundamental right that should protect individuals in a variety of circumstances. The right can be broad enough to protect all individuals with a legitimate claim. However, because formerly incarcerated individuals are too frequently forgotten, we must keep their interests at the forefront, and not allow newer arguments centered on revenge porn and damage to reputation obfuscate the original purpose of the right's underlying concept, to give individuals who were convicted of criminal offenses the right to have information about their convictions deleted from the internet.[^7]
-
-<div style="text-align: right">
-[Back to top](https://binipringle.github.io/right-to-be-forgotten/texts/1-origins-and-evolution/)
-</div>
-
----
 
 [^3]:A small number of sentences are excluded from the Rehabilitation of Offenders Act. These include imprisonment for life, imprisonment at Her Majesty's pleasure, and imprisonment for public protection under various sections of the Criminal Justice Act. For full text of the act see [Rehabilitation of Offenders Act of 1974](https://www.legislation.gov.uk/ukpga/1974/53).
 
@@ -53,13 +45,9 @@ The right to be forgotten important in a privacy context if we think about surve
 
 [^8]:Eubanks, Virginia. *Automating Ineequality.* Virginia Eubanks. Accessed 14 May 2023. [https://virginia-eubanks.com/automating-inequality/](https://virginia-eubanks.com/automating-inequality/) See also Featherstone, Liza. "How Big Data Is ‘Automating Inequality." Review of *Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor*, by Virginia Eubanks, 2018. New York Times, 4 May 2018. Accessed 14 May 2023. [https://www.nytimes.com/2018/05/04/books/review/automating-inequality-virginia-eubanks.html](https://www.nytimes.com/2018/05/04/books/review/automating-inequality-virginia-eubanks.html)
 
-<div style="text-align: right">
-[Back to top](https://binipringle.github.io/right-to-be-forgotten/texts/1-origins-and-evolution/)
-</div>
-
 ---
 
-## Collision with other human rights
+## **Collision with other human rights**
 
 A claim by an individual that a search engine should delete public personal information raises issues of freedom of speech and freedom from censorship, both of which are fundamental human rights. Freedom of speech is recognized as a basic human right under Article 19 of the Universal Declaration of Human Rights (UDHR), which states that "everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers." Similarly, freedom from censorship is a fundamental human right that is recognized by international law. Article 13 of the UDHR states that "everyone has the right to freedom of thought, conscience and religion," including the right to "freedom to manifest [one's] religion or belief in teaching, practice, worship and observance." Because censorship can interfere with an individual's right to freedom of thought and expression, and can limit the ability of individuals to seek, receive, and impart information and ideas, freedom from censorship is implied in the right to freedom of opinion and expression, and the right to freedom of thought, conscience and religion. Court-mandated deletion of an individual's public information can be construed as censorship (there is a good argument that only governments or state actors and not individuals can censor); law or court orders requiring search engines or data controllers to delete an individual's public information can be construed as an infringement upon the data controller's freedom of speech. In an attempt to resolve conflict between competing rights, European courts have established standards or tests that the information the individual seeks to have deleted must satisfy.   
 
@@ -69,13 +57,13 @@ A claim by an individual that a search engine should delete public personal info
 
 ---
 
-## Standards
+## **Standards**
 
 In order to address the conflicts between an individual's claim for the deletion of public personal information and the rights of freedom of speech and freedom from censorship, European courts look at a series of factors to determine whether the information in question satisfies certain criteria to justify its deletion. These factors include whether the information in question is inaccurate, outdated, irrelevant, or excessive in relation to the purposes for which it was originally collected or processed. If one or more of these (and possibly other) factors are satisfied, the information in question may be erased if there is no public interest in publishing the information that outweighs the private interest in its erasure. The courts thus aim to strike a balance between the right to privacy and the right to access and share information, considering factors such as the public interest, the individual's role in public life, the nature of the information, and the potential impact on the individual's fundamental rights. While time is not always explicitly listed as a factor, the amount of time that has passed since information was published on the internet speaks to the factors of outdatedness, irrelevancy and excess. Time is, therefore, an important factor, and the longer the origin of the information goes back, the more likely personal interests prevail over public interests. These standards serve as guidelines to ensure that the right to be forgotten is applied in a balanced and proportionate manner.
 
 ---
 
-## Scope
+## **Scope**
 
 Courts cannot require removal of information held by companies outside their jurisdiction. For now, there is no global legal framework to allow individuals control over information posted by data controllers based in locations outside where the individual resides. More and more countries, however, are enacting or proposing laws to protect the right to be forgotten or to erase information posted on the internet. Notably, Argentina and the Philippines have passed laws that protect the right to be forgotten in certain circumstances. Argentina's Law No. 26,388 (2014) establishes the right of individuals to request the deletion, blocking, or anonymization of their personal data when they are no longer necessary, relevant, or accurate for the purposes for which they were collected, and requires data controllers to ensure the protection of personal data, including the obligation to obtain the consent of data subjects for the collection, use, and disclosure of their personal data. The Philippines' Data Privacy Act of 2012 (Republic Act No. 10173) gives individuals the right to request the correction or deletion of their personal data held by data controllers in certain circumstances. While Argentinian case law is mostly concerning claims from celebrities, Philippines proposed law references the GDPR's "irrelevant, not publicly useful" test.
 
