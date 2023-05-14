@@ -13,7 +13,7 @@ toc:
 
 ---
 
-In Europe, the right to be forgotten is rooted in the belief that every person has the potential for rehabilitation, and the understanding that to become fully rehabilitated, individuals who were convicted of criminal offenses need to be able to remove information about past convictions from search engines.
+In Europe, the right to be forgotten is rooted in the belief that every person has the potential for rehabilitation, and the understanding that individuals who were convicted of criminal offenses need to be able to remove information about past convictions from search engines in order to enjoy equal opportunities for self-realization and growth.
 
 The right to erase records of past action can be traced back to the United Kingdom's Rehabilitation of Offenders Act of 1974, which is based on the idea that after a certain period of time many criminal convictions are "spent" and should be erased from search engines to avoid influencing potential employers, insurance companies, and landlords.[^3] French law similarly recognized the right to be forgotten by enacting the *droit à l’oubli* — the right to be forgotten - in 2010.[^4] The *droit à l’oubli* gives a person formerly convicted of a criminal offense who has served their time the right to object to publication of the facts of their conviction and incarceration. Thus, the right to be forgotten is premised on the potential for rehabilitation and the idea that formerly convicted individuals should be allowed to fully evolve without others digging up the digital memory of past transgressions.
 
