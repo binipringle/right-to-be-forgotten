@@ -17,7 +17,7 @@ toc:
 
 ---
 
-Privacy regulation in Continental Europe is derived from 17th and 18th century laws of honor and insult, originally settled by dueling, writes Yale Law Professor James Q Whitman.[^1] In “The Two Western Cultures of Privacy: Dignity Versus Liberty,” Whitman characterizes European privacy law as an aspect of dignity, where its two fundamental values are honor and respect.[^2] European privacy law is further shaped by lessons drawn from the horrors of World War II and the Communist era, notes Center for Democracy and Technology Fellow Omer Tene.[^3] Despite - or because of - Europe's history of government intrusion, many residents of Europe rely on regulatory protection of their privacy rights.
+Privacy regulation in Continental Europe is derived from 17th and 18th century laws of honor and insult, originally settled by dueling, writes Yale Law Professor James Q Whitman.[^1] In “The Two Western Cultures of Privacy: Dignity Versus Liberty,” Whitman characterizes European privacy law as an aspect of dignity, where its two fundamental values are honor and respect.[^2] European privacy law is further shaped by lessons drawn from the horrors of World War II and the Communist era, notes Center for Democracy and Technology Fellow Omer Tene.[^3] Today, despite and because of Europe's history of government intrusion, many residents of Europe rely on regulatory protection of their privacy rights.
 
 [^1]:Whitman, James Q. "The Two Western Cultures of Privacy: Dignity Versus Liberty." Yale Law Journal, vol. 113, no. 6, April 2004, [privacy.comparativelaw.yale.edu/article/two-western-cultures-privacy-dignity-versus-liberty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=476041). Accessed 14 May 2023. Yale law school research paper available at SSRN: [https://ssrn.com/abstract=476041](https://ssrn.com/abstract=476041) or [http://dx.doi.org/10.2139/ssrn.476041](http://dx.doi.org/10.2139/ssrn.476041).
 
@@ -29,7 +29,7 @@ Privacy regulation in Continental Europe is derived from 17th and 18th century l
 
 ## **European Convention on Human Rights**
 
-The European Convention on Human Rights (ECHR) was signed in 1950, not long after the end of World War II, and enacted in 1953. Article 8 of the ECHR provides a right to respect for one's "private and family life, his home and his correspondence", subject to certain restrictions that are "in accordance with law" and "necessary in a democratic society".[^4]
+Article 8 of the European Convention on Human Rights (ECHR) provides a right to respect for one's "private and family life, his home and his correspondence", subject to certain restrictions that are "in accordance with law" and "necessary in a democratic society".[^4] The ECHR was signed in 1950, not long after the end of World War II, and enacted in 1953.
 
 [^4]:Council of Europe. "European Convention on Human Rights - Article 8: Right to respect for private and family life." Council of Europe, [www.coe.int/en/web/human-rights-convention/private-life](https://www.coe.int/en/web/human-rights-convention/private-life). Accessed 14 May 2023.
 
@@ -37,7 +37,7 @@ The European Convention on Human Rights (ECHR) was signed in 1950, not long afte
 
 ## **Charter of Fundamental Rights of the European Union**
 
-The Charter of Fundamental Rights of the European Union (CFR) enshrines political, social, and economic rights for EU citizens and residents into EU law. It was drafted and proclaimed in 2000 and came to have full legal effect with the entry into force of the Treaty of Lisbon in 2009. Article 7 of the CFR ("Respect for private and family life") provides that "[e]veryone has the right to respect for his or her private and family life, home and communications." Article 8 ("Protection of personal data") provides that (1) "[e]veryone has the right to the protection of personal data concerning him or her; and (2) "[s]uch data must be processed fairly for specified purposes and on the basis of the consent of the person concerned or some other legitimate basis laid down by law. Everyone has the right of access to data which has been collected concerning him or her, and the right to have it rectified."[^5]
+Article 7 of the Charter of Fundamental Rights of the European Union (CFR) ("Respect for private and family life") provides that "[e]veryone has the right to respect for his or her private and family life, home and communications." Article 8 ("Protection of personal data") provides that (1) "[e]veryone has the right to the protection of personal data concerning him or her; and (2) "[s]uch data must be processed fairly for specified purposes and on the basis of the consent of the person concerned or some other legitimate basis laid down by law. Everyone has the right of access to data which has been collected concerning him or her, and the right to have it rectified."[^5] The CFR enshrines political, social, and economic rights for EU citizens and residents into EU law. It was drafted and proclaimed in 2000 and came to have full legal effect with the entry into force of the Treaty of Lisbon in 2009.
 
 [^5]:Charter of Fundamental Rights of the European Union 2012/C 326/02. Official Journal of the European Union C 326/391. [eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012P/TXT](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012P/TXT). Accessed 14 May 2023.
 
@@ -45,9 +45,7 @@ The Charter of Fundamental Rights of the European Union (CFR) enshrines politica
 
 ## **European Union Data Protection Directive**
 
-In 1995, the European Union (EU) enacted the Data Protection Directive, which regulated the processing of personal data within the European Union (EU).[^6] The Data Protection Directive broadly defined personal data as "any information relating to an identified or identifiable natural person." In the EU "personal data" includes a person's criminal record. The directive's premise was that personal data should not be processed at all unless it was processed for a legitimate purpose. The responsibility for compliance rested on the data controller. The Data Protection Directive, however, was written before the expansion of the internet, and by the turn of the 21st century it was clear that new legislation was needed. Before it was fully drafted, a ruling in a lawsuit brought before the Spanish Supreme Court created case law that established the right to have a data controller erase personal information under certain circumstances, and influenced how the right to be forgotten was codified in the new European law.
-
-In 1995, the European Union (EU) enacted the Data Protection Directive, officially Directive 95/46/EC (“Directive”), which regulated the processing of personal data within the European Union (EU) and the free movement of such data.6 The Directive broadly defined personal data as “any information relating to an identified or identifiable natural person.” In addition to a person’s address, credit card number, bank statements, and other personal information, in the EU “personal data” includes a person’s criminal record. The Directive defined “processing” as “any operation or set of operations […] performed upon personal data.” The Directive’s premise was that personal data should not be processed at all unless it was processed for a legitimate purpose. The responsibility for compliance rested on the data controller. The Directive, however, was written before the expansion of the internet, and by the turn of the 21st century it had become clear that new legislation was needed. Before this legislation had been fully drafted, a ruling in a lawsuit brought before the Spanish Supreme Court created case law that established the right to have a data controller erase personal information under certain circumstances, and influenced how the right to be forgotten was codified in the new European law.
+In 1995, the European Union (EU) enacted the Data Protection Directive (Directive), which regulated the processing of personal data within the European Union (EU) and the free movement of such data.[^6] The Directive, which is no longer law because it was replaced by the GDPR, broadly defined personal data as “any information relating to an identified or identifiable natural person.” In addition to a person’s address, credit card number, bank statements, and other personal information, in the EU “personal data” includes a person’s criminal record. The Directive defined “processing” as “any operation or set of operations […] performed upon personal data.” The Directive’s premise was that personal data should not be processed at all unless it was processed for a legitimate purpose. The responsibility for compliance rested on the data controller. The Directive, however, was written before the expansion of the internet, and by the turn of the 21st century it was clear that new legislation was needed. Before it was fully drafted, a ruling in a lawsuit brought before the Spanish Supreme Court created case law that established the right to have a data controller erase personal information under certain circumstances, and influenced how the right to be forgotten came to be codified in European law.
 
 [^6]:Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data. No longer in force, Date of end of validity: 24/05/2018; Repealed by 32016R0679. Latest consolidated version: 20/11/2003. [eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31995L0046](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31995L0046). Accessed 14 May 2023.
 
@@ -76,31 +74,19 @@ The ruling balances the right to privacy and data protection in European law wit
 
 Google subsequently published an online form which can be used by EU citizens or EFTA nationals to request the removal of links from its search results if the data linked is "inadequate, irrelevant or no longer relevant, or excessive in relation to the purposes for which they were processed". On 31 May 2014, the first day of the service, Google received over 12,000 requests from people asking the company to remove certain links about them from its search results.[19]
 
-On 19 June 2015, Google announced it would remove links to nonconsensual pornography ("revenge porn") on request. Commentators noted that this was not the same thing as implementing a "right to be forgotten" as the company already has policies in place dealing with sensitive personal data such as social security numbers and credit card numbers.[20] However, the consumer advocacy group Consumer Watchdog subsequently called on Google to extend the right to be forgotten to US users, filing a complaint with the Federal Trade Commission.[21]
-
-
-, and proportionality.
-
-GDPR
-
-The General Data Protection Regulation, adopted in April 2016, superseded the Data Protection Directive and became enforceable on 25 May 2018.[2]
-
-GDPR
-
+---
 
 ## Viability and implementation of the law
 
-Writing in 2011 shortly before the European Union's General Data Protection Regulation (GDPR) enshrined the right to privacy into European law, University of Zurich International Business Law Professor Rolf Weber compared the proposed right to be forgotten to a Pandora's Box.
+Writing in 2011 shortly before the CEJC's ruling in *Google Spain v AEPD and Mario Costeja González* and seven years before the GDPR enshrined the right to erasure into European law, University of Zurich International Business Law Professor Rolf Weber compared the proposed right to be forgotten to a Pandora's Box.
 
 [^7]:Weber, Rolf H. "The right to be forgotten: More than a Pandora's Box?" JIPITECH 120, 2011. [https://www.jipitec.eu/issues/jipitec-2-2-2011/3084/jipitec%202%20-%20a%20-%20weber.pdf](https://www.jipitec.eu/issues/jipitec-2-2-2011/3084/jipitec%202%20-%20a%20-%20weber.pdf)
-
-Google Spain v AEPD and Mario Costeja González (2014)
-
-General Data Protection Regulation (GDPR) went into effect on May 25th, 2018.
 
 ---
 
 ## **General Data Protection Regulation (GDPR) Article 17 Right to erasure (‘right to be forgotten’)**
+
+General Data Protection Regulation (GDPR) went into effect on May 25th, 2018.
 
 The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies: a. the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; b. the data subject withdraws consent on which the processing is based according to point (a) of Article 6(1), or point (a) of Article 9(2), and where there is no other legal ground for the processing; c. the data subject objects to the processing pursuant to Article 21(1) and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2); d. the personal data have been unlawfully processed; e. the personal data have to be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject; f. the personal data have been collected in relation to the offer of information society services referred to in Article 8(1).
 
@@ -111,6 +97,8 @@ Paragraphs 1 and 2 shall not apply to the extent that processing is necessary:
 a. for exercising the right of freedom of expression and information; b. for compliance with a legal obligation which requires processing by Union or Member State law to which the controller is subject or for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller; c. for reasons of public interest in the area of public health in accordance with points (h) and (i) of Article 9(2) as well as Article 9(3); d. for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) in so far as the right referred to in paragraph 1 is likely to render impossible or seriously impair the achievement of the objectives of that processing; or e. for the establishment, exercise or defence of legal claims.
 
 Originally from GDPR Article 17
+
+A lot of people not happy with GDPR 
 
 ---
 
