@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: narrative
 title: Europe
 author:
 editor: Sabina Pringle
