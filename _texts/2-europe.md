@@ -17,7 +17,9 @@ toc:
 
 ---
 
-Privacy regulation in Continental Europe is derived from 17th and 18th century laws of honor and insult, originally settled by dueling, writes Yale Law Professor James Q Whitman.[^1] In “The Two Western Cultures of Privacy: Dignity Versus Liberty,” Whitman characterizes European privacy law as an aspect of dignity, where its two fundamental values are honor and respect.[^2] European privacy law is further shaped by lessons drawn from the horrors of World War II and the Communist era, notes Center for Democracy and Technology Fellow Omer Tene.[^3] Today, despite and because of Europe's history of government intrusion, many residents of Europe rely on regulatory protection of their privacy rights.
+We have seen that although the right to privacy and the right to be forgotten are distinct, they overlap in certain ways. Because the right to be forgotten grew out of privacy concerns, it is useful to look at the evolution of European privacy law to see how the right to be forgotten was born.
+
+Privacy regulation in Continental Europe is derived from 17th and 18th century laws of honor and insult, originally settled by dueling, writes Yale Law Professor James Q Whitman.[^1] In “The Two Western Cultures of Privacy: Dignity Versus Liberty,” Whitman characterizes European privacy law as an aspect of dignity, where its two fundamental values are honor and respect.[^2] In the 20th century, European privacy law was shaped by lessons drawn from the horrors of World War II and the Communist era, notes Center for Democracy and Technology Fellow Omer Tene.[^3] Today, despite and because of Europe's history of government intrusion, many residents of Europe rely on regulatory protection of their privacy rights.
 
 [^1]:Whitman, James Q. "The Two Western Cultures of Privacy: Dignity Versus Liberty." Yale Law Journal, vol. 113, no. 6, April 2004, [privacy.comparativelaw.yale.edu/article/two-western-cultures-privacy-dignity-versus-liberty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=476041). Accessed 14 May 2023. Yale law school research paper available at SSRN: [https://ssrn.com/abstract=476041](https://ssrn.com/abstract=476041) or [http://dx.doi.org/10.2139/ssrn.476041](http://dx.doi.org/10.2139/ssrn.476041).
 
@@ -98,7 +100,7 @@ a. for exercising the right of freedom of expression and information; b. for com
 
 Originally from GDPR Article 17
 
-A lot of people not happy with GDPR 
+A lot of people not happy with GDPR
 
 ---
 
