@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Works Cited
+title: References
 author:
 editor: Sabina Pringle
 source:

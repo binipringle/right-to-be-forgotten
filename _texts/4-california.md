@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: California Law
+title: California
 author:
 editor: Sabina Pringle
 source:

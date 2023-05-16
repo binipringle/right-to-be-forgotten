@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Proposed New York Law
+title: New York
 author:
 editor: Sabina Pringle
 rights:
