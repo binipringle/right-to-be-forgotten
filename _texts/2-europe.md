@@ -96,6 +96,12 @@ A lot of people not happy with GDPR
 
 ---
 
+from one of my reflection papers:
+
+For example, the GDPR imposes strict rules on how companies can use and process personal data, including using algorithms to analyze user behavior and preferences. Under the GDPR, companies are required to obtain explicit consent from users before processing their personal data, and users have the right to access, modify, or delete their data (ChatGPT). The Digital Services Act (DSA) is a new set of regulations proposed by the European Union that would require large online platforms to share more data with regulators, including information about their algorithms (ChatGPT). Germany’s Network Enforcement Act (NetzDG) (2017) requires social media companies to remove illegal content within a certain timeframe, including content that promotes hate speech, terrorism, or other harmful behavior (ChatGPT).
+
+---
+
 ## **Google LLC v. CNIL (2019)**
 
 On September 24, 2019, the Court of Justice of the European Union (“the Court”) held that the “right to be forgotten” does not require a search engine to de-list search results on all of its domains. However, a search engine operator is still required to de-list search results on domains for all of the European Union (“EU”) Member States. The ruling left the referring court, the Conseil d’État (“the Conseil”), to apply the Court’s holding to Google’s practices in France. Google LLC v. CNIL, 2019 EUR-Lex CELEX No. 62017CJ0507 (2019)
@@ -114,6 +120,10 @@ https://www.abc.net.au/news/2022-12-09/eu-court-google-delete-innacuate-search-r
 
 Link to Google form to remove data under gdpr (google doesn't make it easy) https://support.google.com/legal/troubleshooter/1114905?rd=1&sjid=5700060935764874949-NA#ts=1115655
 as always i'm concerned with learning curve
+
+<div style="text-align: right">
+Next section: [United States](https://binipringle.github.io/right-to-be-forgotten/texts/3-united-states/)
+</div>
 
 ---
 
