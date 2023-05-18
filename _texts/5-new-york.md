@@ -21,7 +21,7 @@ This bill is still sitting in the New York Senate. If that part can be amended, 
 
 On a more positive note, the proposed New York Law includes damages, and casts a wide net. Section 3 states that "this act shall apply to all articles and other content that either is presently being made available on the internet [...] regardless of whether the respondent search engine, indexer, publisher, or other person or entity is located within or without the state of New York or the United States of America, to the fullest extent permitted by the United States Constitution."
 
-If you have any information about this bill or ideas about how to get the "convicted felonies" exception taken out, please reach out to me. My contact information is in the ["About"](https://binipringle.github.io/right-to-be-forgotten/about/) section of this website.
+If you have any information about this bill or ideas about how to get the "convicted felonies" exception taken out, please reach out to me. My contact information is in the "About" section of this website.
 
 [^1]:Assembly Bill A5323, Creating the Right to be Forgotten Act. 2017-2018 Legislative Session. The New York State Senate, [www.nysenate.gov/legislation/bills/2017/A5323](https://www.nysenate.gov/legislation/bills/2017/A5323). Accessed 17 May 2023.
 
