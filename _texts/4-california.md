@@ -23,7 +23,7 @@ The California Consumer Privacy Act (CCPA) does not explicitly exempt convicted 
 
 ## **2020 California Proposition 24**
 
-The California Privacy Rights Act of 2020 proposed several changes to the CCPA.[^12] The Act, also known as 2020 California Proposition 24, expands existing data privacy laws by allowing consumers greater control of their personal data and establishing the California Privacy Protection Agency.[^2]] It passed, with a majority of voters approving the measure.[39] The California Privacy Rights Act of 2020 (CPRA), also known as Proposition 24, is a California ballot proposition that amends the CCPA. It was approved by a majority of voters after appearing on the ballot for the general election on November 3, 2020. This proposition expands California's consumer privacy law and builds upon the California Consumer Privacy Act (CCPA) of 2018, which established a foundation for consumer privacy regulations.
+California continues to lead other states in privacy law. The California Privacy Rights Act of 2020 (CPRA), also known as Proposition 24, is a California ballot proposition that amends the CCPA. It was approved by a majority of voters after appearing on the ballot for the general election on November 3, 2020. This proposition expands California's consumer privacy law and builds upon the CCPA. Other states have a good model to follow in California lawmakers' work.
 
 [^2]:Proposition 24 – Text, includes Findings and Declarations, Purpose and Intent. California State Legislature, 2020. [cppa.ca.gov/regulations/pdf/prop24_text.pdf](https://cppa.ca.gov/regulations/pdf/prop24_text.pdf). Accessed 18 May, 2023.
 
