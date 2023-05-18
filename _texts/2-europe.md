@@ -109,4 +109,4 @@ Next section: [United States](https://binipringle.github.io/right-to-be-forgotte
 
 ---
 
-## Footnotes
+### Footnotes
