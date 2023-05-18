@@ -24,6 +24,10 @@ Other Key differences between CCPA and Europe's GDPR include scope and territori
 
 The California Privacy Rights Act of 2020 proposed several changes to the CCPA.[^12] The Act, also known as 2020 California Proposition 24, expands existing data privacy laws by allowing consumers greater control of their personal data and establishing the California Privacy Protection Agency.[38] It passed, with a majority of voters approving the measure.[39] The California Privacy Rights Act of 2020 (CPRA), also known as Proposition 24, is a California ballot proposition that amends the CCPA. It was approved by a majority of voters after appearing on the ballot for the general election on November 3, 2020. This proposition expands California's consumer privacy law and builds upon the California Consumer Privacy Act (CCPA) of 2018, which established a foundation for consumer privacy regulations.
 
+<div style="text-align: right">
+Next section: [New York](https://binipringle.github.io/right-to-be-forgotten/texts/5-new-york/)
+</div>
+
 ---
 
 ## Footnotes
