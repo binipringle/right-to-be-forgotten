@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Origins and Evolution of the Right
+title: Origins and Evolution
 author:
 editor: Sabina Pringle
 source: Sabina Pringle, final paper for Technology and Law, CUNY School of Law, May 2023
